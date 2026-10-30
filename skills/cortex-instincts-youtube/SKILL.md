@@ -196,11 +196,11 @@ Dark cinematic YouTube thumbnail, 16:9. [POSE + AUSDRUCK, z. B. calm expression,
 4. **Versprechen** – Was der Zuschauer am Ende kann
 5. **Retention Hook** – "Stay until secret #X – das ist der überraschendste" (nur wenn #X wirklich überrascht; nichts Wichtiges künstlich zurückhalten)
 6. **Punkte 1-7** – Jeder Punkt mit eigenem Titel; Aufbau: vertraute Situation → überraschende Dynamik → verständliche Erklärung → konkrete Handlung
-7. **Mid-Video Engagement** – Kommentar-Frage zur Retention
+7. **Mid-Video Engagement** – optional eine Kommentar-Frage zur Retention
 8. **Story** – Kurzes Beispiel: belegter echter Fall oder klar als Beispiel erkennbare Szene (keine erfundene Person als Tatsache)
 9. **Action Steps** – Konkrete kleine Schritte
 10. **Urgency** – Handle jetzt, nicht morgen (ein kleiner, machbarer Schritt, ohne künstliche Angst)
-11. **Closing Punch** – Starker letzter Satz (KEIN "Like and Subscribe"!)
+11. **Abschluss (ab 30.10.2026, neue Erkenntnisse haben Vorrang)** – Versprechen aus dem Titel einlösen, kurze Zusammenfassung, eine kleine machbare Aufgabe, eine natürliche themenbezogene Kommentarfrage, dann ein starker letzter Satz (KEIN "Like and Subscribe"!)
 
 **Ton:** Dramatisch, direkt, mysteriös – spricht den Wunsch an, gesehen und respektiert zu werden. Zuspitzung ja, aber keine Ferndiagnosen, Täteretiketten oder erfundene Bedrohungen.
 
@@ -209,8 +209,8 @@ Dark cinematic YouTube thumbnail, 16:9. [POSE + AUSDRUCK, z. B. calm expression,
 ## Gushis wichtigste Regeln
 
 - ❌ **KEIN** "Like and Subscribe" – zerstört Watch Time!
-- ❌ **KEIN** Call-to-Action am Anfang oder Ende
-- ❌ Videos **NICHT** klassisch abschließen – abrupt enden!
+- ❌ **KEIN** Abo-/Like-Aufruf am Anfang oder Ende und keine wiederholten Abo-Unterbrechungen
+- ✅ **Ersetzt Gushis Regel „abrupt enden“ (Melanie, 30.10.2026):** Am Ende kurze Zusammenfassung, kleine Aufgabe und themenbezogene Kommentarfrage, knapp gehalten, ohne Verabschiedungsfloskeln
 - ❌ Channel **NICHT** teilen mit Freunden/Familie – falsche Zielgruppe zerstört Algorithmus!
 - ❌ Content **NICHT** einfach kopieren – Plagiatsprüfung immer!
 - ❌ "Gelbes Signal" vermeiden – bedeutet keine Monetarisierung!
