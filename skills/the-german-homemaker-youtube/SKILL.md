@@ -77,6 +77,26 @@ Auswertung: drei thematisch verbundene Videos für dieselbe Zuschauergruppe als 
 
 Qualitätsfragen vor Abgabe: Erkennt die richtige Person ihre Situation sofort? Ist der Schmerz konkret und respektvoll benannt? Liefert das Video die Lösung zum Titel? Gibt es früh echten Nutzen? Hat jeder Abschnitt einen eigenen Zweck? Bleibt die Zuschauerin mit mehr Klarheit oder Erleichterung zurück?
 
+Ergänzung vom 30.10.2026 (Fallstudie „Leni die Selbstversorgerin“, vollständig in `strategie_ergaenzung.md`; ergänzt die Strategie, ersetzt sie nicht):
+- **Nicht nur den Schmerz zeigen, sondern auch die glaubwürdige Aussicht auf ein einfacheres, selbstbestimmteres Alltagsleben.** Wiedererkennen schafft den Einstieg; eine erreichbare Veränderung gibt den Grund, dranzubleiben.
+- Ablauf (Arbeitshypothese): konkreter Alltag → persönliche Bedeutung → überraschende Erklärung → machbarer Schritt → sichtbar besserer Alltag.
+- Titel: Schmerz plus erreichbare Verbesserung plus offene Frage (geringer Aufwand, vorhandene Dinge, unbekannte Ursache). Zahlen, Preise, Einsparungen und Tests nur, wenn belegt und im Video eingelöst. Keine unbelegten Einspargarantien (Negativbeispiel: „halber Holzverbrauch“ ohne dokumentierten Vergleich).
+- Fachbegriffe in persönliche Folgen übersetzen.
+- Themenreihen: breites Dach, aber mehrere Videos hintereinander für dasselbe konkrete Problemfeld und dieselben Menschen.
+- Bilder haben eine Funktion: Problem zeigen, Schritt erklären, Ergebnis belegen oder das gewünschte Alltagserlebnis vermitteln. KI-Bilder täuschen keine Tests oder echten Vorher-nachher-Vergleiche vor.
+- Nicht übernehmen: langer Vorlauf, frühe Werbeunterbrechung, künstlich verzögerte Lösung, Schuldzuweisung an die Zuschauer.
+- Kommentare als Themenhinweise nutzen (Umsetzung, offene Fragen, Widerspruch); Kanalantworten nicht mitzählen, nicht von Einzelnen auf alle schließen. Ein eigenes Angebot erst später und nur aus wiederkehrenden Zuschauerfragen ableiten.
+- Jedes Themenbriefing enthält zusätzlich: 1. Alltagssituation, 2. persönliche Bedeutung, 3. gewünschte Veränderung, 4. Erklärung, 5. machbarer Schritt, 6. sichtbarer Beleg, 7. Anschlussthema, 8. Evidenzstatus (beobachtet / interpretiert / zu testen).
+- Für The German Homemaker: zeigen, was durch Entlastung wieder möglich wird. Leitfrage: **Was möchte die Zuschauerin wieder tun oder fühlen können, wenn dieser Teil ihres Haushalts sie weniger belastet?**
+  | Belastender Moment | Gewünschter Alltag |
+  |---|---|
+  | Einladung wegen der Vorbereitung nicht aussprechen | Eine Freundin gern auf einen Kaffee hereinbitten |
+  | Auf dem Sofa nur offene Aufgaben sehen | Sitzen bleiben und wirklich Pause machen |
+  | Den Esstisch ständig freiräumen | Den Tisch einfach zum Essen und Zusammensitzen nutzen |
+  | Jedes Wochenende hinterherräumen | Einen Teil der freien Zeit selbst gestalten |
+  | Sich nur für Gäste Mühe geben | Sich selbst im eigenen Zuhause wohlfühlen |
+  Mechanismus „dieselbe Folge jeden Tag beseitigen“ (Tisch als Dauerablage, Wäsche ohne nächsten Schritt, volle Küchenflächen, dieselbe Vorbereitung vor jedem Besuch) – aber mit Entlastung statt Schuld; Ursachen auch in Arbeitslast, Mitbewohnern, Platz und Ressourcen suchen. Keine pauschalen Vergleiche deutscher und amerikanischer Haushalte. Ergebnis lebensnah: ein benutztes Zuhause mit Platz für Erholung und Begegnung.
+
 ## Host
 - Melanie selbst, aus Bayern. Sprache der Videos: Englisch, mit deutschen Begriffen als Markenzeichen (z. B. „Ausmisten“, „griffbereit“, „passt scho“).
 - Look (fest, in jedem Video gleich): honigblondes, langes, welliges Haar, halb hochgesteckt, mit Pony; olivgrünes Dirndl-Mieder mit kleinen Knöpfen, weiße Lochstickerei-Bluse mit kurzen Ärmeln, schlichte beige Leinenschürze.

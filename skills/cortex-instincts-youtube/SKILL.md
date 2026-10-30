@@ -48,6 +48,18 @@ Bei reinen Strategiefragen kein ungefragtes Komplettskript.
 
 Qualitätsfragen vor Abgabe: Erkennt die richtige Person ihre Situation sofort? Ist der Konflikt konkret und respektvoll benannt? Liefert das Video die Lösung zum Titel? Gibt es früh echten Nutzen statt nur Ankündigungen? Hat jeder Punkt einen eigenen Zweck? Sind Beispiele und Quellen ehrlich? Bleibt der Zuschauer mit mehr Klarheit zurück?
 
+Ergänzung vom 30.10.2026 (Fallstudie „Leni die Selbstversorgerin“, vollständig in `strategie_ergaenzung.md`; ergänzt die Strategie, ersetzt sie nicht):
+- **Nicht nur den Schmerz zeigen, sondern auch die glaubwürdige Aussicht auf ein einfacheres, selbstbestimmteres Alltagsleben.** Wiedererkennen schafft den Einstieg; eine erreichbare Veränderung gibt den Grund, dranzubleiben.
+- Ablauf (Arbeitshypothese): konkreter Alltag → persönliche Bedeutung → überraschende Erklärung → machbarer Schritt → sichtbar besserer Alltag.
+- Titel: Schmerz plus erreichbare Verbesserung plus offene Frage (geringer Aufwand, vorhandene Dinge, unbekannte Ursache). Zahlen, Preise, Einsparungen und Tests nur, wenn belegt und im Video eingelöst. Keine unbelegten Einspargarantien (Negativbeispiel: „halber Holzverbrauch“ ohne dokumentierten Vergleich).
+- Fachbegriffe in persönliche Folgen übersetzen.
+- Themenreihen: breites Dach, aber mehrere Videos hintereinander für dasselbe konkrete Problemfeld und dieselben Menschen.
+- Bilder haben eine Funktion: Problem zeigen, Schritt erklären, Ergebnis belegen oder das gewünschte Alltagserlebnis vermitteln. KI-Bilder täuschen keine Tests oder echten Vorher-nachher-Vergleiche vor.
+- Nicht übernehmen: langer Vorlauf, frühe Werbeunterbrechung, künstlich verzögerte Lösung, Schuldzuweisung an die Zuschauer.
+- Kommentare als Themenhinweise nutzen (Umsetzung, offene Fragen, Widerspruch); Kanalantworten nicht mitzählen, nicht von Einzelnen auf alle schließen. Ein eigenes Angebot erst später und nur aus wiederkehrenden Zuschauerfragen ableiten.
+- Jedes Themenbriefing enthält zusätzlich: 1. Alltagssituation, 2. persönliche Bedeutung, 3. gewünschte Veränderung, 4. Erklärung, 5. machbarer Schritt, 6. sichtbarer Beleg, 7. Anschlussthema, 8. Evidenzstatus (beobachtet / interpretiert / zu testen).
+- Für Cortex Instincts: die erreichbare Veränderung ist z. B. ruhiger reagieren, eine Grenze klar setzen, eine Situation durchschauen. Keine Diagnosen aus einzelnen Verhaltensweisen ableiten. Neugier und ein verständlicher menschlicher Konflikt sind oft die passendere Motivation als Schmerz.
+
 ---
 
 ## Grundkonzept (aus Gushis Notizen)

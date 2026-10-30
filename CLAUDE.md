@@ -4,7 +4,8 @@
 
 Für Themenwahl, Titel, Thumbnails, Hooks, Skripte, Bildplanung und Auswertung gilt
 `strategie/YouTube_Strategie.md` (Stand 30.10.2026). Vor jeder inhaltlichen Arbeit
-an einem Video lesen.
+an einem Video lesen. Ergänzend gilt `strategie/YouTube_Strategie_Ergaenzung_Leni.md`
+(ersetzt nichts, ergänzt).
 
 Kurzfassung:
 - Videos vom tatsächlichen inneren Konflikt des Zuschauers aus entwickeln; jedes
@@ -19,3 +20,7 @@ Kurzfassung:
 - The German Homemaker: „Das Zuhause soll wieder ein Ort zum Leben sein, nicht eine
   endlose Aufgabenliste.“
 - Liefer-Checkliste für neue Videos: Abschnitt 9 der Strategie.
+- Ergänzung: nicht nur den Schmerz zeigen, sondern auch die glaubwürdige, erreichbare
+  Veränderung (konkreter Alltag → persönliche Bedeutung → überraschende Erklärung →
+  machbarer Schritt → sichtbar besserer Alltag). Themenbriefings um die 8 Punkte aus
+  Abschnitt 13 der Ergänzung erweitern.
