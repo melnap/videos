@@ -1,0 +1,34 @@
+__pycache__/
+work/*/seg/
+work/*/seg_old/
+work/*/out/
+work/*/stock/media/
+work/*/stock/thumbs/
+work/*/stock/cache/
+work/*/remotion/node_modules/
+work/*/media/heygen/*_fix.mp4
+
+# 2026-10-30: media stays only on this computer (GitHub storage was full)
+_bin/
+_audit/
+*.mp4
+*.mov
+*.webm
+*.m4a
+*.mp3
+*.wav
+*.png
+*.jpg
+*.jpeg
+*.woff2
+*.otf
+*.ttf
+*.log
+node_modules/
+# download lists / signed links (temporary access tokens)
+*.curl
+*sig*.txt
+*_url*.txt
+# HeyGen job files contain upload links with account identifiers
+heygen_*.json
+hb_make.py

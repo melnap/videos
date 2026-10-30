@@ -1,0 +1,1070 @@
+[
+{
+"i": 0,
+"s": 0.0,
+"e": 3.978,
+"text": "Some of the food you put in your freezer to save money is coming back out ruined."
+},
+{
+"i": 1,
+"s": 4.569,
+"e": 5.794,
+"text": "The freezer didn't fail you."
+},
+{
+"i": 2,
+"s": 5.912,
+"e": 7.009,
+"text": "It was the wrong food."
+},
+{
+"i": 3,
+"s": 7.385,
+"e": 8.449,
+"text": "You know the feeling."
+},
+{
+"i": 4,
+"s": 8.88,
+"e": 13.276,
+"text": "You thaw a container of potato soup and the potatoes have turned to wet sand."
+},
+{
+"i": 5,
+"s": 13.964,
+"e": 16.361,
+"text": "The alfredo sauce comes out curdled and greasy."
+},
+{
+"i": 6,
+"s": 16.684,
+"e": 19.231,
+"text": "The chicken salad you made ahead for a busy week is a puddle."
+},
+{
+"i": 7,
+"s": 19.737,
+"e": 21.317,
+"text": "The bag of lettuce is slime."
+},
+{
+"i": 8,
+"s": 21.554,
+"e": 22.865,
+"text": "You did everything right."
+},
+{
+"i": 9,
+"s": 23.188,
+"e": 26.251,
+"text": "You wrapped it, labeled it, pushed the air out."
+},
+{
+"i": 10,
+"s": 26.939,
+"e": 28.638,
+"text": "And it still went into the trash."
+},
+{
+"i": 11,
+"s": 28.669,
+"e": 29.713,
+"text": "That's not your fault."
+},
+{
+"i": 12,
+"s": 30.218,
+"e": 34.098,
+"text": "Nobody hands you the other list, the one that tells you what the freezer ruins."
+},
+{
+"i": 13,
+"s": 34.529,
+"e": 46.708,
+"text": "So today I'm going through ten foods that should never go in your freezer, why each one fails, and exactly what to do instead, so you stop losing money on food you were trying to save."
+},
+{
+"i": 14,
+"s": 47.806,
+"e": 51.278,
+"text": "One of them is in almost every potluck dish in America."
+},
+{
+"i": 15,
+"s": 51.869,
+"e": 55.545,
+"text": "One looks perfect going in and comes out like wet sand."
+},
+{
+"i": 16,
+"s": 56.642,
+"e": 59.555,
+"text": "And the one at number one isn't about taste at all."
+},
+{
+"i": 17,
+"s": 59.877,
+"e": 62.296,
+"text": "It's the only one on this list that can make someone sick."
+},
+{
+"i": 18,
+"s": 62.619,
+"e": 63.318,
+"text": "We'll get there."
+},
+{
+"i": 19,
+"s": 63.747,
+"e": 67.671,
+"text": "I'm Catherine, and I've thrown away every one of these at some point."
+},
+{
+"i": 20,
+"s": 68.047,
+"e": 70.057,
+"text": "So here's what actually works."
+},
+{
+"i": 21,
+"s": 70.745,
+"e": 74.099,
+"text": "First, the reason behind almost all of them."
+},
+{
+"i": 22,
+"s": 75.195,
+"e": 78.109,
+"text": "Freezing turns the water inside food into ice crystals."
+},
+{
+"i": 23,
+"s": 78.431,
+"e": 85.838,
+"text": "Those crystals push through the walls of soft, watery foods, so when they thaw, the water runs out and the texture collapses."
+},
+{
+"i": 24,
+"s": 86.16,
+"e": 91.234,
+"text": "And creamy mixtures, the kind held together by fat and liquid, tend to split apart."
+},
+{
+"i": 25,
+"s": 92.169,
+"e": 94.879,
+"text": "The USDA's food safety guidance puts it simply."
+},
+{
+"i": 26,
+"s": 95.674,
+"e": 99.458,
+"text": "Emulsions such as mayonnaise or cream will separate and appear curdled."
+},
+{
+"i": 27,
+"s": 100.254,
+"e": 103.243,
+"text": "Keep that in mind and the whole list makes sense."
+},
+{
+"i": 28,
+"s": 104.178,
+"e": 119.68,
+"text": "For the details, I'm using the USDA's freezing guidance, the FoodSafety.gov storage chart, and extension guides from the University of Missouri, North Dakota State University, Mississippi State University and Washington State University."
+},
+{
+"i": 29,
+"s": 119.883,
+"e": 120.561,
+"text": "Number ten."
+},
+{
+"i": 30,
+"s": 120.797,
+"e": 122.249,
+"text": "Lettuce and salad greens."
+},
+{
+"i": 31,
+"s": 122.937,
+"e": 133.159,
+"text": "The USDA names lettuce as a food that simply doesn't freeze well, and Mississippi State University Extension lists lettuce and salad greens on its do-not-freeze list."
+},
+{
+"i": 32,
+"s": 133.847,
+"e": 135.138,
+"text": "Lettuce is mostly water."
+},
+{
+"i": 33,
+"s": 135.568,
+"e": 139.695,
+"text": "When it thaws, the leaves go limp and dark, and there's nothing crisp left to save."
+},
+{
+"i": 34,
+"s": 139.846,
+"e": 140.921,
+"text": "What to do instead."
+},
+{
+"i": 35,
+"s": 142.018,
+"e": 145.275,
+"text": "Buy salad greens for this week only, not for the month."
+},
+{
+"i": 36,
+"s": 146.07,
+"e": 149.456,
+"text": "And for cooking, keep a bag of frozen spinach in the freezer."
+},
+{
+"i": 37,
+"s": 149.736,
+"e": 153.831,
+"text": "It was made to be frozen, and it goes straight into soups, eggs and casseroles."
+},
+{
+"i": 38,
+"s": 154.261,
+"e": 155.079,
+"text": "Number nine."
+},
+{
+"i": 39,
+"s": 155.508,
+"e": 157.809,
+"text": "Mayonnaise, and everything made with it."
+},
+{
+"i": 40,
+"s": 158.744,
+"e": 162.7,
+"text": "This is the one that's in almost every potluck dish in America."
+},
+{
+"i": 41,
+"s": 163.206,
+"e": 167.257,
+"text": "Chicken salad, tuna salad, egg salad, macaroni salad."
+},
+{
+"i": 42,
+"s": 167.763,
+"e": 171.827,
+"text": "The FoodSafety.gov chart says every one of those does not freeze well."
+},
+{
+"i": 43,
+"s": 172.418,
+"e": 176.621,
+"text": "The mayonnaise separates, and you're left with a greasy, watery mess."
+},
+{
+"i": 44,
+"s": 177.126,
+"e": 178.244,
+"text": "What to do instead."
+},
+{
+"i": 45,
+"s": 178.62,
+"e": 180.577,
+"text": "Freeze the parts, not the salad."
+},
+{
+"i": 46,
+"s": 181.372,
+"e": 184.285,
+"text": "Cooked, diced chicken freezes well on its own."
+},
+{
+"i": 47,
+"s": 184.662,
+"e": 186.328,
+"text": "So does cooked pasta, plain."
+},
+{
+"i": 48,
+"s": 186.919,
+"e": 192.208,
+"text": "Thaw them in the refrigerator, and stir in the mayonnaise and the crunchy vegetables the day you serve it."
+},
+{
+"i": 49,
+"s": 193.004,
+"e": 195.271,
+"text": "It tastes freshly made, because it is."
+},
+{
+"i": 50,
+"s": 195.863,
+"e": 196.637,
+"text": "Number eight."
+},
+{
+"i": 51,
+"s": 196.959,
+"e": 197.938,
+"text": "Eggs in the shell."
+},
+{
+"i": 52,
+"s": 198.733,
+"e": 201.614,
+"text": "The USDA says shell eggs should not be frozen."
+},
+{
+"i": 53,
+"s": 201.937,
+"e": 205.806,
+"text": "The liquid inside expands as it freezes, and the shell can crack."
+},
+{
+"i": 54,
+"s": 206.398,
+"e": 211.526,
+"text": "If an egg accidentally freezes and the shell has cracked, the USDA says to throw it away."
+},
+{
+"i": 55,
+"s": 212.118,
+"e": 213.106,
+"text": "What to do instead."
+},
+{
+"i": 56,
+"s": 213.794,
+"e": 215.406,
+"text": "Freeze eggs out of the shell."
+},
+{
+"i": 57,
+"s": 215.998,
+"e": 222.061,
+"text": "Beat them gently, pour them into an ice cube tray, and each cube becomes one egg for baking."
+},
+{
+"i": 58,
+"s": 222.749,
+"e": 229.403,
+"text": "I walked through that whole method in my video on fifteen holiday foods you can freeze, so I'll leave the details there."
+},
+{
+"i": 59,
+"s": 229.5,
+"e": 230.209,
+"text": "Number seven."
+},
+{
+"i": 60,
+"s": 230.801,
+"e": 231.94,
+"text": "Hard-boiled eggs."
+},
+{
+"i": 61,
+"s": 232.537,
+"e": 235.956,
+"text": "The FoodSafety.gov chart is short and clear about this one."
+},
+{
+"i": 62,
+"s": 236.644,
+"e": 238.665,
+"text": "Hard-cooked eggs, do not freeze."
+},
+{
+"i": 63,
+"s": 239.17,
+"e": 242.804,
+"text": "The whites turn tough and rubbery, and they come out watery."
+},
+{
+"i": 64,
+"s": 243.599,
+"e": 244.61,
+"text": "What to do instead."
+},
+{
+"i": 65,
+"s": 245.545,
+"e": 249.543,
+"text": "Boil only what you'll eat in the next few days, and keep them in the refrigerator."
+},
+{
+"i": 66,
+"s": 250.135,
+"e": 253.263,
+"text": "If you're making deviled eggs for a holiday, make them fresh."
+},
+{
+"i": 67,
+"s": 253.36,
+"e": 256.004,
+"text": "It's one of the few things that really has to be."
+},
+{
+"i": 68,
+"s": 256.692,
+"e": 257.595,
+"text": "Number six."
+},
+{
+"i": 69,
+"s": 258.1,
+"e": 259.057,
+"text": "Sour cream."
+},
+{
+"i": 70,
+"s": 259.745,
+"e": 269.075,
+"text": "Mississippi State lists sour cream on its do-not-freeze list, and Washington State University Extension says it separates and turns watery."
+},
+{
+"i": 71,
+"s": 269.872,
+"e": 271.924,
+"text": "North Dakota State explains why."
+},
+{
+"i": 72,
+"s": 272.72,
+"e": 278.966,
+"text": "Cultured dairy like sour cream and yogurt loses its smooth texture in the freezer and turns grainy."
+},
+{
+"i": 73,
+"s": 279.342,
+"e": 280.277,
+"text": "What to do instead."
+},
+{
+"i": 74,
+"s": 281.073,
+"e": 285.007,
+"text": "If you need a dollop on a baked potato or a bowl of chili, don't freeze it."
+},
+{
+"i": 75,
+"s": 285.599,
+"e": 286.77,
+"text": "Buy the smaller tub."
+},
+{
+"i": 76,
+"s": 287.705,
+"e": 293.919,
+"text": "But if a container is about to go bad, North Dakota State says the grainy texture still works in cooking."
+},
+{
+"i": 77,
+"s": 294.854,
+"e": 300.336,
+"text": "So you can freeze it for a coffee cake, a casserole or a soup, where no one will ever see the texture."
+},
+{
+"i": 78,
+"s": 301.122,
+"e": 303.69,
+"text": "Before we go on, I'd love to hear from you."
+},
+{
+"i": 79,
+"s": 304.776,
+"e": 307.614,
+"text": "What's the worst thing you've ever pulled out of your freezer?"
+},
+{
+"i": 80,
+"s": 308.549,
+"e": 310.076,
+"text": "Tell me in the comments."
+},
+{
+"i": 81,
+"s": 310.753,
+"e": 313.634,
+"text": "I read them, and I promise you're not the only one."
+},
+{
+"i": 82,
+"s": 314.57,
+"e": 315.386,
+"text": "Number five."
+},
+{
+"i": 83,
+"s": 315.977,
+"e": 318.181,
+"text": "Cream sauces and milk gravies."
+},
+{
+"i": 84,
+"s": 318.977,
+"e": 322.879,
+"text": "The USDA names cream sauce as a food that doesn't freeze well."
+},
+{
+"i": 85,
+"s": 323.674,
+"e": 331.168,
+"text": "Washington State says milk sauces may curdle or separate, and the University of Missouri says milk-based gravies can separate too."
+},
+{
+"i": 86,
+"s": 331.759,
+"e": 336.457,
+"text": "That's your alfredo, your white gravy, and the creamy casserole you made ahead."
+},
+{
+"i": 87,
+"s": 337.252,
+"e": 338.316,
+"text": "What to do instead."
+},
+{
+"i": 88,
+"s": 339.004,
+"e": 342.036,
+"text": "Freeze the dish without the cream, and add it when you reheat."
+},
+{
+"i": 89,
+"s": 342.972,
+"e": 346.132,
+"text": "Freeze the chicken and broth, and stir in the cream on the stove."
+},
+{
+"i": 90,
+"s": 346.724,
+"e": 350.572,
+"text": "For gravies, a broth-based gravy freezes far better than a milk gravy."
+},
+{
+"i": 91,
+"s": 351.163,
+"e": 354.969,
+"text": "And the Missouri guide has a trick if you really want to freeze a creamy sauce."
+},
+{
+"i": 92,
+"s": 355.657,
+"e": 360.01,
+"text": "Thicken it with waxy rice flour instead of regular flour, and it holds together better."
+},
+{
+"i": 93,
+"s": 360.182,
+"e": 360.977,
+"text": "Number four."
+},
+{
+"i": 94,
+"s": 361.483,
+"e": 363.127,
+"text": "Custard and cream pies."
+},
+{
+"i": 95,
+"s": 363.633,
+"e": 368.933,
+"text": "The FoodSafety.gov chart says custard and chiffon pies, do not freeze."
+},
+{
+"i": 96,
+"s": 369.437,
+"e": 373.598,
+"text": "The University of Missouri guide adds that the crust in a frozen cream pie turns soggy."
+},
+{
+"i": 97,
+"s": 374.103,
+"e": 377.564,
+"text": "It also says meringue toppings toughen and stick to the wrapping."
+},
+{
+"i": 98,
+"s": 378.07,
+"e": 379.101,
+"text": "What to do instead."
+},
+{
+"i": 99,
+"s": 379.789,
+"e": 381.843,
+"text": "Freeze the pie crust, not the pie."
+},
+{
+"i": 100,
+"s": 382.434,
+"e": 389.088,
+"text": "An unbaked crust keeps six to eight weeks in the freezer, by the Missouri guide, and you can bake it without thawing."
+},
+{
+"i": 101,
+"s": 389.368,
+"e": 393.636,
+"text": "Then make the custard or cream filling fresh, the day before you serve it."
+},
+{
+"i": 102,
+"s": 394.324,
+"e": 395.066,
+"text": "Number three."
+},
+{
+"i": 103,
+"s": 395.657,
+"e": 397.538,
+"text": "Boiled and baked potatoes."
+},
+{
+"i": 104,
+"s": 398.334,
+"e": 402.364,
+"text": "This is the one that looks perfect going in and comes out like wet sand."
+},
+{
+"i": 105,
+"s": 403.161,
+"e": 415.329,
+"text": "A freeze-ahead guide from Washington State University Extension lists boiled or baked potatoes as foods that don't freeze well, and describes them after thawing as soft, crumbly, waterlogged and mealy."
+},
+{
+"i": 106,
+"s": 416.017,
+"e": 420.994,
+"text": "That's what happens to the potatoes in your soup, your stew and your leftover baked potato."
+},
+{
+"i": 107,
+"s": 421.586,
+"e": 422.586,
+"text": "What to do instead."
+},
+{
+"i": 108,
+"s": 423.521,
+"e": 425.735,
+"text": "Mashed potatoes are a different story."
+},
+{
+"i": 109,
+"s": 426.671,
+"e": 431.475,
+"text": "The same Washington State guide lists mashed potatoes as a freeze-ahead food."
+},
+{
+"i": 110,
+"s": 432.163,
+"e": 435.335,
+"text": "And if you're freezing soup or stew, leave the potatoes out."
+},
+{
+"i": 111,
+"s": 435.764,
+"e": 439.892,
+"text": "Add freshly cooked potatoes when you reheat it, and it'll taste the way it should."
+},
+{
+"i": 112,
+"s": 440.688,
+"e": 441.376,
+"text": "Number two."
+},
+{
+"i": 113,
+"s": 441.881,
+"e": 444.063,
+"text": "Cooked pasta and rice in a sauce."
+},
+{
+"i": 114,
+"s": 444.859,
+"e": 452.395,
+"text": "Washington State lists cooked macaroni, spaghetti and rice as foods that turn mushy and taste warmed over after freezing."
+},
+{
+"i": 115,
+"s": 453.33,
+"e": 458.759,
+"text": "Sitting in sauce or broth makes it worse, because they keep soaking up liquid until they fall apart."
+},
+{
+"i": 116,
+"s": 459.349,
+"e": 460.468,
+"text": "What to do instead."
+},
+{
+"i": 117,
+"s": 461.403,
+"e": 462.822,
+"text": "Freeze the sauce alone."
+},
+{
+"i": 118,
+"s": 463.757,
+"e": 467.412,
+"text": "Spaghetti sauce, chili and soup base all freeze well."
+},
+{
+"i": 119,
+"s": 468.348,
+"e": 471.486,
+"text": "Then cook the pasta or rice fresh on the night you serve it."
+},
+{
+"i": 120,
+"s": 472.422,
+"e": 475.486,
+"text": "It takes ten minutes, and the difference is enormous."
+},
+{
+"i": 121,
+"s": 476.08,
+"e": 476.973,
+"text": "And number one."
+},
+{
+"i": 122,
+"s": 477.477,
+"e": 479.65,
+"text": "Canned food, still in the can."
+},
+{
+"i": 123,
+"s": 480.338,
+"e": 482.379,
+"text": "This is the one that isn't about taste."
+},
+{
+"i": 124,
+"s": 482.702,
+"e": 483.841,
+"text": "It's about safety."
+},
+{
+"i": 125,
+"s": 484.433,
+"e": 488.421,
+"text": "Cans and sealed jars get put in the freezer more often than you'd think."
+},
+{
+"i": 126,
+"s": 489.109,
+"e": 491.184,
+"text": "Leftover soup left in its can."
+},
+{
+"i": 127,
+"s": 491.775,
+"e": 494.892,
+"text": "A case of canned goods in a garage that drops below freezing."
+},
+{
+"i": 128,
+"s": 495.688,
+"e": 499.171,
+"text": "A jar pushed to the back of a freezer to chill quickly and forgotten."
+},
+{
+"i": 129,
+"s": 500.45,
+"e": 506.073,
+"text": "When the food inside freezes, it expands, and it can push the seams of the can open."
+},
+{
+"i": 130,
+"s": 506.868,
+"e": 509.888,
+"text": "The USDA is very direct about this."
+},
+{
+"i": 131,
+"s": 510.684,
+"e": 514.683,
+"text": "If a frozen can has rusted or burst seams, throw it out immediately."
+},
+{
+"i": 132,
+"s": 514.855,
+"e": 518.757,
+"text": "And it says, in capital letters, do not taste it."
+},
+{
+"i": 133,
+"s": 519.542,
+"e": 520.692,
+"text": "What to do instead."
+},
+{
+"i": 134,
+"s": 521.477,
+"e": 523.616,
+"text": "Never freeze food in its can."
+},
+{
+"i": 135,
+"s": 524.541,
+"e": 531.098,
+"text": "If you have leftovers from a can, move them into a freezer container, leaving some room at the top for expansion."
+},
+{
+"i": 136,
+"s": 531.893,
+"e": 537.806,
+"text": "And if you store canned goods in a garage or shed, bring them inside before the first hard freeze of winter."
+},
+{
+"i": 137,
+"s": 538.494,
+"e": 543.514,
+"text": "Before I sum up, a few quick ones that didn't make the ten but still catch people every year."
+},
+{
+"i": 138,
+"s": 544.105,
+"e": 545.245,
+"text": "Gelatin salads."
+},
+{
+"i": 139,
+"s": 545.675,
+"e": 550.523,
+"text": "Both the Washington State and Missouri guides say plain gelatin weeps after freezing."
+},
+{
+"i": 140,
+"s": 550.846,
+"e": 552.469,
+"text": "Make it the day before instead."
+},
+{
+"i": 141,
+"s": 553.06,
+"e": 554.06,
+"text": "Fried foods."
+},
+{
+"i": 142,
+"s": 554.651,
+"e": 559.477,
+"text": "The Missouri guide says fried meat and poultry lose their crispness in the freezer."
+},
+{
+"i": 143,
+"s": 560.069,
+"e": 564.626,
+"text": "If you freeze fried chicken anyway, reheat it in the oven rather than the microwave."
+},
+{
+"i": 144,
+"s": 565.562,
+"e": 568.615,
+"text": "Bacon, ham and other cured meats."
+},
+{
+"i": 145,
+"s": 568.851,
+"e": 571.174,
+"text": "They can be frozen, but not for long."
+},
+{
+"i": 146,
+"s": 572.109,
+"e": 583.181,
+"text": "The USDA gives bacon and sausage only one to two months in the freezer, and the Missouri guide says cured meats lose their color and turn rancid faster than fresh meat."
+},
+{
+"i": 147,
+"s": 583.772,
+"e": 586.513,
+"text": "Freeze them in small packs and use them first."
+},
+{
+"i": 148,
+"s": 586.943,
+"e": 588.288,
+"text": "And half-and-half."
+},
+{
+"i": 149,
+"s": 588.878,
+"e": 593.534,
+"text": "North Dakota State says light cream and half-and-half don't freeze well."
+},
+{
+"i": 150,
+"s": 594.125,
+"e": 597.587,
+"text": "Only heavy cream with forty percent fat or more holds up."
+},
+{
+"i": 151,
+"s": 598.177,
+"e": 603.789,
+"text": "So buy the small carton of half-and-half for your coffee, and freeze heavy cream for cooking."
+},
+{
+"i": 152,
+"s": 604.886,
+"e": 606.154,
+"text": "And one for seasonings."
+},
+{
+"i": 153,
+"s": 607.25,
+"e": 613.679,
+"text": "Washington State's guide says garlic, green pepper and cloves tend to turn strong and bitter in the freezer."
+},
+{
+"i": 154,
+"s": 614.367,
+"e": 619.656,
+"text": "So season a dish lightly before you freeze it, and add more when you reheat."
+},
+{
+"i": 155,
+"s": 620.591,
+"e": 621.656,
+"text": "So that's the list."
+},
+{
+"i": 156,
+"s": 622.161,
+"e": 634.093,
+"text": "Lettuce, mayonnaise salads, eggs in the shell, hard-boiled eggs, sour cream, cream sauces, custard pies, boiled potatoes, pasta in sauce, and food left in the can."
+},
+{
+"i": 157,
+"s": 635.147,
+"e": 637.673,
+"text": "One thing that won't rescue these foods is a vacuum sealer."
+},
+{
+"i": 158,
+"s": 638.447,
+"e": 642.22,
+"text": "The problem here is ice crystals and creams that separate, not air."
+},
+{
+"i": 159,
+"s": 643.015,
+"e": 648.875,
+"text": "A vacuum sealer is useful for meat, hard cheese and baked goods, where freezer burn is the main enemy."
+},
+{
+"i": 160,
+"s": 649.81,
+"e": 653.539,
+"text": "But it won't turn sour cream or boiled potatoes into foods that freeze well."
+},
+{
+"i": 161,
+"s": 654.475,
+"e": 657.517,
+"text": "Two last things that save more food than any list."
+},
+{
+"i": 162,
+"s": 658.109,
+"e": 659.796,
+"text": "First, refreezing."
+},
+{
+"i": 163,
+"s": 660.591,
+"e": 665.472,
+"text": "People throw away good food because they think thawed food can never go back in the freezer."
+},
+{
+"i": 164,
+"s": 666.407,
+"e": 674.094,
+"text": "The USDA says that food thawed in the refrigerator is safe to refreeze without cooking, though you may lose some quality."
+},
+{
+"i": 165,
+"s": 674.889,
+"e": 679.028,
+"text": "What you should never refreeze is food that was thawed on the counter."
+},
+{
+"i": 166,
+"s": 679.824,
+"e": 686.939,
+"text": "The USDA says the only safe ways to thaw are in the refrigerator, in cold water or in the microwave."
+},
+{
+"i": 167,
+"s": 687.262,
+"e": 688.95,
+"text": "Second, freezer burn."
+},
+{
+"i": 168,
+"s": 689.53,
+"e": 692.508,
+"text": "Those gray, leathery patches don't make food unsafe."
+},
+{
+"i": 169,
+"s": 692.938,
+"e": 698.506,
+"text": "The USDA says freezer burn just means air reached the surface and dried it out."
+},
+{
+"i": 170,
+"s": 699.012,
+"e": 701.302,
+"text": "Cut those spots away and use the rest."
+},
+{
+"i": 171,
+"s": 701.581,
+"e": 704.645,
+"text": "If you take one thing from this video, let it be this."
+},
+{
+"i": 172,
+"s": 705.741,
+"e": 709.268,
+"text": "Before something goes into the freezer, ask yourself two questions."
+},
+{
+"i": 173,
+"s": 709.956,
+"e": 713.632,
+"text": "Is it mostly water, like lettuce or a boiled potato?"
+},
+{
+"i": 174,
+"s": 714.224,
+"e": 717.782,
+"text": "Or is it creamy, like mayonnaise or a cream sauce?"
+},
+{
+"i": 175,
+"s": 718.717,
+"e": 723.479,
+"text": "If the answer to either one is yes, freeze the parts, not the dish."
+},
+{
+"i": 176,
+"s": 724.759,
+"e": 726.554,
+"text": "Thank you for spending this time with me."
+},
+{
+"i": 177,
+"s": 726.984,
+"e": 729.306,
+"text": "Stay stocked, and stay ready."
+}
+]

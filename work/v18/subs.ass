@@ -1,0 +1,1954 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Inter,66,&H00FFFFFF,&H00FFFFFF,&H00141008,&H96000000,1,0,0,0,100,100,0,0,1,4.5,2,2,120,120,96,1
+Style: LblN,Inter,30,&H0043B7E6,&H0043B7E6,&H00000000,&HB4F2EFE6,1,0,0,0,100,100,2,0,3,14,0,7,0,0,0,1
+Style: LblT,Inter,40,&H00475F4F,&H00475F4F,&H00000000,&HB4F2EFE6,1,0,0,0,100,100,0,0,3,14,0,7,0,0,0,1
+Style: LT1,Playfair Display,64,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,0,3,7,0,0,0,1
+Style: LT2,Inter,30,&H0043B7E6,&H0043B7E6,&H00000000,&H00000000,1,0,0,0,100,100,3,0,1,0,2,7,0,0,0,1
+Style: LTB,Inter,20,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.23,Cap,,0,0,0,,{\c&H0043B7E6&}Some{\c&H00FFFFFF&} of the food
+Dialogue: 0,0:00:00.23,0:00:00.31,Cap,,0,0,0,,Some {\c&H0043B7E6&}of{\c&H00FFFFFF&} the food
+Dialogue: 0,0:00:00.31,0:00:00.45,Cap,,0,0,0,,Some of {\c&H0043B7E6&}the{\c&H00FFFFFF&} food
+Dialogue: 0,0:00:00.45,0:00:00.86,Cap,,0,0,0,,Some of the {\c&H0043B7E6&}food{\c&H00FFFFFF&}
+Dialogue: 0,0:00:00.86,0:00:00.99,Cap,,0,0,0,,{\c&H0043B7E6&}you{\c&H00FFFFFF&} put in your
+Dialogue: 0,0:00:00.99,0:00:01.12,Cap,,0,0,0,,you {\c&H0043B7E6&}put{\c&H00FFFFFF&} in your
+Dialogue: 0,0:00:01.12,0:00:01.20,Cap,,0,0,0,,you put {\c&H0043B7E6&}in{\c&H00FFFFFF&} your
+Dialogue: 0,0:00:01.20,0:00:01.33,Cap,,0,0,0,,you put in {\c&H0043B7E6&}your{\c&H00FFFFFF&}
+Dialogue: 0,0:00:01.33,0:00:01.69,Cap,,0,0,0,,{\c&H0043B7E6&}freezer{\c&H00FFFFFF&} to save money
+Dialogue: 0,0:00:01.69,0:00:01.79,Cap,,0,0,0,,freezer {\c&H0043B7E6&}to{\c&H00FFFFFF&} save money
+Dialogue: 0,0:00:01.79,0:00:02.04,Cap,,0,0,0,,freezer to {\c&H0043B7E6&}save{\c&H00FFFFFF&} money
+Dialogue: 0,0:00:02.04,0:00:02.30,Cap,,0,0,0,,freezer to save {\c&H0043B7E6&}money{\c&H00FFFFFF&}
+Dialogue: 0,0:00:02.30,0:00:02.48,Cap,,0,0,0,,{\c&H0043B7E6&}is{\c&H00FFFFFF&} coming back out
+Dialogue: 0,0:00:02.48,0:00:02.81,Cap,,0,0,0,,is {\c&H0043B7E6&}coming{\c&H00FFFFFF&} back out
+Dialogue: 0,0:00:02.81,0:00:03.05,Cap,,0,0,0,,is coming {\c&H0043B7E6&}back{\c&H00FFFFFF&} out
+Dialogue: 0,0:00:03.05,0:00:03.35,Cap,,0,0,0,,is coming back {\c&H0043B7E6&}out{\c&H00FFFFFF&}
+Dialogue: 0,0:00:03.35,0:00:04.35,Cap,,0,0,0,,{\c&H0043B7E6&}ruined.{\c&H00FFFFFF&}
+Dialogue: 0,0:00:04.57,0:00:04.72,Cap,,0,0,0,,{\c&H0043B7E6&}The{\c&H00FFFFFF&} freezer didn't fail
+Dialogue: 0,0:00:04.72,0:00:05.04,Cap,,0,0,0,,The {\c&H0043B7E6&}freezer{\c&H00FFFFFF&} didn't fail
+Dialogue: 0,0:00:05.04,0:00:05.26,Cap,,0,0,0,,The freezer {\c&H0043B7E6&}didn't{\c&H00FFFFFF&} fail
+Dialogue: 0,0:00:05.26,0:00:05.53,Cap,,0,0,0,,The freezer didn't {\c&H0043B7E6&}fail{\c&H00FFFFFF&}
+Dialogue: 0,0:00:05.53,0:00:05.91,Cap,,0,0,0,,{\c&H0043B7E6&}you.{\c&H00FFFFFF&}
+Dialogue: 0,0:00:05.91,0:00:06.04,Cap,,0,0,0,,{\c&H0043B7E6&}It{\c&H00FFFFFF&} was the wrong
+Dialogue: 0,0:00:06.04,0:00:06.16,Cap,,0,0,0,,It {\c&H0043B7E6&}was{\c&H00FFFFFF&} the wrong
+Dialogue: 0,0:00:06.16,0:00:06.27,Cap,,0,0,0,,It was {\c&H0043B7E6&}the{\c&H00FFFFFF&} wrong
+Dialogue: 0,0:00:06.27,0:00:06.54,Cap,,0,0,0,,It was the {\c&H0043B7E6&}wrong{\c&H00FFFFFF&}
+Dialogue: 0,0:00:06.54,0:00:07.38,Cap,,0,0,0,,{\c&H0043B7E6&}food.{\c&H00FFFFFF&}
+Dialogue: 0,0:00:07.38,0:00:07.60,Cap,,0,0,0,,{\c&H0043B7E6&}You{\c&H00FFFFFF&} know the feeling.
+Dialogue: 0,0:00:07.60,0:00:07.82,Cap,,0,0,0,,You {\c&H0043B7E6&}know{\c&H00FFFFFF&} the feeling.
+Dialogue: 0,0:00:07.82,0:00:07.92,Cap,,0,0,0,,You know {\c&H0043B7E6&}the{\c&H00FFFFFF&} feeling.
+Dialogue: 0,0:00:07.92,0:00:08.82,Cap,,0,0,0,,You know the {\c&H0043B7E6&}feeling.{\c&H00FFFFFF&}
+Dialogue: 0,0:00:08.88,0:00:09.17,Cap,,0,0,0,,{\c&H0043B7E6&}You{\c&H00FFFFFF&} thaw a container
+Dialogue: 0,0:00:09.17,0:00:09.54,Cap,,0,0,0,,You {\c&H0043B7E6&}thaw{\c&H00FFFFFF&} a container
+Dialogue: 0,0:00:09.54,0:00:09.61,Cap,,0,0,0,,You thaw {\c&H0043B7E6&}a{\c&H00FFFFFF&} container
+Dialogue: 0,0:00:09.61,0:00:10.05,Cap,,0,0,0,,You thaw a {\c&H0043B7E6&}container{\c&H00FFFFFF&}
+Dialogue: 0,0:00:10.05,0:00:10.17,Cap,,0,0,0,,{\c&H0043B7E6&}of{\c&H00FFFFFF&} potato soup and
+Dialogue: 0,0:00:10.17,0:00:10.59,Cap,,0,0,0,,of {\c&H0043B7E6&}potato{\c&H00FFFFFF&} soup and
+Dialogue: 0,0:00:10.59,0:00:10.87,Cap,,0,0,0,,of potato {\c&H0043B7E6&}soup{\c&H00FFFFFF&} and
+Dialogue: 0,0:00:10.87,0:00:10.98,Cap,,0,0,0,,of potato soup {\c&H0043B7E6&}and{\c&H00FFFFFF&}
+Dialogue: 0,0:00:10.98,0:00:11.08,Cap,,0,0,0,,{\c&H0043B7E6&}the{\c&H00FFFFFF&} potatoes have turned
+Dialogue: 0,0:00:11.08,0:00:11.56,Cap,,0,0,0,,the {\c&H0043B7E6&}potatoes{\c&H00FFFFFF&} have turned
+Dialogue: 0,0:00:11.56,0:00:11.73,Cap,,0,0,0,,the potatoes {\c&H0043B7E6&}have{\c&H00FFFFFF&} turned
+Dialogue: 0,0:00:11.73,0:00:12.09,Cap,,0,0,0,,the potatoes have {\c&H0043B7E6&}turned{\c&H00FFFFFF&}
+Dialogue: 0,0:00:12.09,0:00:12.32,Cap,,0,0,0,,{\c&H0043B7E6&}to{\c&H00FFFFFF&} wet sand.
+Dialogue: 0,0:00:12.32,0:00:12.61,Cap,,0,0,0,,to {\c&H0043B7E6&}wet{\c&H00FFFFFF&} sand.
+Dialogue: 0,0:00:12.61,0:00:13.65,Cap,,0,0,0,,to wet {\c&H0043B7E6&}sand.{\c&H00FFFFFF&}
+Dialogue: 0,0:00:13.96,0:00:14.10,Cap,,0,0,0,,{\c&H0043B7E6&}The{\c&H00FFFFFF&} alfredo sauce comes
+Dialogue: 0,0:00:14.10,0:00:14.51,Cap,,0,0,0,,The {\c&H0043B7E6&}alfredo{\c&H00FFFFFF&} sauce comes
+Dialogue: 0,0:00:14.51,0:00:14.82,Cap,,0,0,0,,The alfredo {\c&H0043B7E6&}sauce{\c&H00FFFFFF&} comes
+Dialogue: 0,0:00:14.82,0:00:15.06,Cap,,0,0,0,,The alfredo sauce {\c&H0043B7E6&}comes{\c&H00FFFFFF&}
+Dialogue: 0,0:00:15.06,0:00:15.28,Cap,,0,0,0,,{\c&H0043B7E6&}out{\c&H00FFFFFF&} curdled and greasy.
+Dialogue: 0,0:00:15.28,0:00:15.63,Cap,,0,0,0,,out {\c&H0043B7E6&}curdled{\c&H00FFFFFF&} and greasy.
+Dialogue: 0,0:00:15.63,0:00:15.75,Cap,,0,0,0,,out curdled {\c&H0043B7E6&}and{\c&H00FFFFFF&} greasy.
+Dialogue: 0,0:00:15.75,0:00:16.68,Cap,,0,0,0,,out curdled and {\c&H0043B7E6&}greasy.{\c&H00FFFFFF&}
+Dialogue: 0,0:00:16.68,0:00:16.82,Cap,,0,0,0,,{\c&H0043B7E6&}The{\c&H00FFFFFF&} chicken salad you
+Dialogue: 0,0:00:16.82,0:00:17.08,Cap,,0,0,0,,The {\c&H0043B7E6&}chicken{\c&H00FFFFFF&} salad you
+Dialogue: 0,0:00:17.08,0:00:17.40,Cap,,0,0,0,,The chicken {\c&H0043B7E6&}salad{\c&H00FFFFFF&} you
+Dialogue: 0,0:00:17.40,0:00:17.52,Cap,,0,0,0,,The chicken salad {\c&H0043B7E6&}you{\c&H00FFFFFF&}
+Dialogue: 0,0:00:17.52,0:00:17.68,Cap,,0,0,0,,{\c&H0043B7E6&}made{\c&H00FFFFFF&} ahead for a
+Dialogue: 0,0:00:17.68,0:00:17.93,Cap,,0,0,0,,made {\c&H0043B7E6&}ahead{\c&H00FFFFFF&} for a
+Dialogue: 0,0:00:17.93,0:00:18.06,Cap,,0,0,0,,made ahead {\c&H0043B7E6&}for{\c&H00FFFFFF&} a
+Dialogue: 0,0:00:18.06,0:00:18.12,Cap,,0,0,0,,made ahead for {\c&H0043B7E6&}a{\c&H00FFFFFF&}
+Dialogue: 0,0:00:18.12,0:00:18.36,Cap,,0,0,0,,{\c&H0043B7E6&}busy{\c&H00FFFFFF&} week is a
+Dialogue: 0,0:00:18.36,0:00:18.57,Cap,,0,0,0,,busy {\c&H0043B7E6&}week{\c&H00FFFFFF&} is a
+Dialogue: 0,0:00:18.57,0:00:18.68,Cap,,0,0,0,,busy week {\c&H0043B7E6&}is{\c&H00FFFFFF&} a
+Dialogue: 0,0:00:18.68,0:00:18.77,Cap,,0,0,0,,busy week is {\c&H0043B7E6&}a{\c&H00FFFFFF&}
+Dialogue: 0,0:00:18.77,0:00:19.60,Cap,,0,0,0,,{\c&H0043B7E6&}puddle.{\c&H00FFFFFF&}
+Dialogue: 0,0:00:19.74,0:00:19.89,Cap,,0,0,0,,{\c&H0043B7E6&}The{\c&H00FFFFFF&} bag of lettuce
+Dialogue: 0,0:00:19.89,0:00:20.08,Cap,,0,0,0,,The {\c&H0043B7E6&}bag{\c&H00FFFFFF&} of lettuce
+Dialogue: 0,0:00:20.08,0:00:20.20,Cap,,0,0,0,,The bag {\c&H0043B7E6&}of{\c&H00FFFFFF&} lettuce
+Dialogue: 0,0:00:20.20,0:00:20.54,Cap,,0,0,0,,The bag of {\c&H0043B7E6&}lettuce{\c&H00FFFFFF&}
+Dialogue: 0,0:00:20.54,0:00:20.75,Cap,,0,0,0,,{\c&H0043B7E6&}is{\c&H00FFFFFF&} slime.
+Dialogue: 0,0:00:20.75,0:00:21.55,Cap,,0,0,0,,is {\c&H0043B7E6&}slime.{\c&H00FFFFFF&}
+Dialogue: 0,0:00:21.55,0:00:21.71,Cap,,0,0,0,,{\c&H0043B7E6&}You{\c&H00FFFFFF&} did everything right.
+Dialogue: 0,0:00:21.71,0:00:21.90,Cap,,0,0,0,,You {\c&H0043B7E6&}did{\c&H00FFFFFF&} everything right.
+Dialogue: 0,0:00:21.90,0:00:22.39,Cap,,0,0,0,,You did {\c&H0043B7E6&}everything{\c&H00FFFFFF&} right.
+Dialogue: 0,0:00:22.39,0:00:23.19,Cap,,0,0,0,,You did everything {\c&H0043B7E6&}right.{\c&H00FFFFFF&}
+Dialogue: 0,0:00:23.19,0:00:23.38,Cap,,0,0,0,,{\c&H0043B7E6&}You{\c&H00FFFFFF&} wrapped it,
+Dialogue: 0,0:00:23.38,0:00:23.73,Cap,,0,0,0,,You {\c&H0043B7E6&}wrapped{\c&H00FFFFFF&} it,
+Dialogue: 0,0:00:23.73,0:00:24.20,Cap,,0,0,0,,You wrapped {\c&H0043B7E6&}it,{\c&H00FFFFFF&}
+Dialogue: 0,0:00:24.20,0:00:24.59,Cap,,0,0,0,,{\c&H0043B7E6&}labeled{\c&H00FFFFFF&} it,
+Dialogue: 0,0:00:24.59,0:00:25.17,Cap,,0,0,0,,labeled {\c&H0043B7E6&}it,{\c&H00FFFFFF&}
+Dialogue: 0,0:00:25.17,0:00:25.47,Cap,,0,0,0,,{\c&H0043B7E6&}pushed{\c&H00FFFFFF&} the air out.
+Dialogue: 0,0:00:25.47,0:00:25.61,Cap,,0,0,0,,pushed {\c&H0043B7E6&}the{\c&H00FFFFFF&} air out.
+Dialogue: 0,0:00:25.61,0:00:25.81,Cap,,0,0,0,,pushed the {\c&H0043B7E6&}air{\c&H00FFFFFF&} out.
+Dialogue: 0,0:00:25.81,0:00:26.62,Cap,,0,0,0,,pushed the air {\c&H0043B7E6&}out.{\c&H00FFFFFF&}
+Dialogue: 0,0:00:26.94,0:00:27.16,Cap,,0,0,0,,{\c&H0043B7E6&}And{\c&H00FFFFFF&} it still went
+Dialogue: 0,0:00:27.16,0:00:27.27,Cap,,0,0,0,,And {\c&H0043B7E6&}it{\c&H00FFFFFF&} still went
+Dialogue: 0,0:00:27.27,0:00:27.62,Cap,,0,0,0,,And it {\c&H0043B7E6&}still{\c&H00FFFFFF&} went
+Dialogue: 0,0:00:27.62,0:00:27.92,Cap,,0,0,0,,And it still {\c&H0043B7E6&}went{\c&H00FFFFFF&}
+Dialogue: 0,0:00:27.92,0:00:28.16,Cap,,0,0,0,,{\c&H0043B7E6&}into{\c&H00FFFFFF&} the trash.
+Dialogue: 0,0:00:28.16,0:00:28.26,Cap,,0,0,0,,into {\c&H0043B7E6&}the{\c&H00FFFFFF&} trash.
+Dialogue: 0,0:00:28.26,0:00:28.67,Cap,,0,0,0,,into the {\c&H0043B7E6&}trash.{\c&H00FFFFFF&}
+Dialogue: 0,0:00:28.67,0:00:28.93,Cap,,0,0,0,,{\c&H0043B7E6&}That's{\c&H00FFFFFF&} not your fault.
+Dialogue: 0,0:00:28.93,0:00:29.10,Cap,,0,0,0,,That's {\c&H0043B7E6&}not{\c&H00FFFFFF&} your fault.
+Dialogue: 0,0:00:29.10,0:00:29.26,Cap,,0,0,0,,That's not {\c&H0043B7E6&}your{\c&H00FFFFFF&} fault.
+Dialogue: 0,0:00:29.26,0:00:30.08,Cap,,0,0,0,,That's not your {\c&H0043B7E6&}fault.{\c&H00FFFFFF&}
+Dialogue: 0,0:00:30.22,0:00:30.64,Cap,,0,0,0,,{\c&H0043B7E6&}Nobody{\c&H00FFFFFF&} hands you the
+Dialogue: 0,0:00:30.64,0:00:30.87,Cap,,0,0,0,,Nobody {\c&H0043B7E6&}hands{\c&H00FFFFFF&} you the
+Dialogue: 0,0:00:30.87,0:00:31.01,Cap,,0,0,0,,Nobody hands {\c&H0043B7E6&}you{\c&H00FFFFFF&} the
+Dialogue: 0,0:00:31.01,0:00:31.14,Cap,,0,0,0,,Nobody hands you {\c&H0043B7E6&}the{\c&H00FFFFFF&}
+Dialogue: 0,0:00:31.14,0:00:31.39,Cap,,0,0,0,,{\c&H0043B7E6&}other{\c&H00FFFFFF&} list,
+Dialogue: 0,0:00:31.39,0:00:31.98,Cap,,0,0,0,,other {\c&H0043B7E6&}list,{\c&H00FFFFFF&}
+Dialogue: 0,0:00:31.98,0:00:32.14,Cap,,0,0,0,,{\c&H0043B7E6&}the{\c&H00FFFFFF&} one that tells
+Dialogue: 0,0:00:32.14,0:00:32.29,Cap,,0,0,0,,the {\c&H0043B7E6&}one{\c&H00FFFFFF&} that tells
+Dialogue: 0,0:00:32.29,0:00:32.44,Cap,,0,0,0,,the one {\c&H0043B7E6&}that{\c&H00FFFFFF&} tells
+Dialogue: 0,0:00:32.44,0:00:32.71,Cap,,0,0,0,,the one that {\c&H0043B7E6&}tells{\c&H00FFFFFF&}
+Dialogue: 0,0:00:32.71,0:00:32.84,Cap,,0,0,0,,{\c&H0043B7E6&}you{\c&H00FFFFFF&} what the freezer
+Dialogue: 0,0:00:32.84,0:00:32.99,Cap,,0,0,0,,you {\c&H0043B7E6&}what{\c&H00FFFFFF&} the freezer
+Dialogue: 0,0:00:32.99,0:00:33.11,Cap,,0,0,0,,you what {\c&H0043B7E6&}the{\c&H00FFFFFF&} freezer
+Dialogue: 0,0:00:33.11,0:00:33.50,Cap,,0,0,0,,you what the {\c&H0043B7E6&}freezer{\c&H00FFFFFF&}
+Dialogue: 0,0:00:33.50,0:00:34.47,Cap,,0,0,0,,{\c&H0043B7E6&}ruins.{\c&H00FFFFFF&}
+Dialogue: 0,0:00:34.53,0:00:34.72,Cap,,0,0,0,,{\c&H0043B7E6&}So{\c&H00FFFFFF&} today I'm going
+Dialogue: 0,0:00:34.72,0:00:35.29,Cap,,0,0,0,,So {\c&H0043B7E6&}today{\c&H00FFFFFF&} I'm going
+Dialogue: 0,0:00:35.29,0:00:35.55,Cap,,0,0,0,,So today {\c&H0043B7E6&}I'm{\c&H00FFFFFF&} going
+Dialogue: 0,0:00:35.55,0:00:35.77,Cap,,0,0,0,,So today I'm {\c&H0043B7E6&}going{\c&H00FFFFFF&}
+Dialogue: 0,0:00:35.77,0:00:35.98,Cap,,0,0,0,,{\c&H0043B7E6&}through{\c&H00FFFFFF&} ten foods that
+Dialogue: 0,0:00:35.98,0:00:36.33,Cap,,0,0,0,,through {\c&H0043B7E6&}ten{\c&H00FFFFFF&} foods that
+Dialogue: 0,0:00:36.33,0:00:36.95,Cap,,0,0,0,,through ten {\c&H0043B7E6&}foods{\c&H00FFFFFF&} that
+Dialogue: 0,0:00:36.95,0:00:37.13,Cap,,0,0,0,,through ten foods {\c&H0043B7E6&}that{\c&H00FFFFFF&}
+Dialogue: 0,0:00:37.13,0:00:37.47,Cap,,0,0,0,,{\c&H0043B7E6&}should{\c&H00FFFFFF&} never go in
+Dialogue: 0,0:00:37.47,0:00:37.90,Cap,,0,0,0,,should {\c&H0043B7E6&}never{\c&H00FFFFFF&} go in
+Dialogue: 0,0:00:37.90,0:00:38.32,Cap,,0,0,0,,should never {\c&H0043B7E6&}go{\c&H00FFFFFF&} in
+Dialogue: 0,0:00:38.32,0:00:38.53,Cap,,0,0,0,,should never go {\c&H0043B7E6&}in{\c&H00FFFFFF&}
+Dialogue: 0,0:00:38.53,0:00:38.69,Cap,,0,0,0,,{\c&H0043B7E6&}your{\c&H00FFFFFF&} freezer,
+Dialogue: 0,0:00:38.69,0:00:39.64,Cap,,0,0,0,,your {\c&H0043B7E6&}freezer,{\c&H00FFFFFF&}
+Dialogue: 0,0:00:39.86,0:00:40.19,Cap,,0,0,0,,{\c&H0043B7E6&}why{\c&H00FFFFFF&} each one fails,
+Dialogue: 0,0:00:40.19,0:00:40.47,Cap,,0,0,0,,why {\c&H0043B7E6&}each{\c&H00FFFFFF&} one fails,
+Dialogue: 0,0:00:40.47,0:00:40.74,Cap,,0,0,0,,why each {\c&H0043B7E6&}one{\c&H00FFFFFF&} fails,
+Dialogue: 0,0:00:40.74,0:00:41.76,Cap,,0,0,0,,why each one {\c&H0043B7E6&}fails,{\c&H00FFFFFF&}
+Dialogue: 0,0:00:41.76,0:00:41.98,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} exactly what to
+Dialogue: 0,0:00:41.98,0:00:42.68,Cap,,0,0,0,,and {\c&H0043B7E6&}exactly{\c&H00FFFFFF&} what to
+Dialogue: 0,0:00:42.68,0:00:42.84,Cap,,0,0,0,,and exactly {\c&H0043B7E6&}what{\c&H00FFFFFF&} to
+Dialogue: 0,0:00:42.84,0:00:42.95,Cap,,0,0,0,,and exactly what {\c&H0043B7E6&}to{\c&H00FFFFFF&}
+Dialogue: 0,0:00:42.95,0:00:43.09,Cap,,0,0,0,,{\c&H0043B7E6&}do{\c&H00FFFFFF&} instead,
+Dialogue: 0,0:00:43.09,0:00:43.75,Cap,,0,0,0,,do {\c&H0043B7E6&}instead,{\c&H00FFFFFF&}
+Dialogue: 0,0:00:43.75,0:00:43.92,Cap,,0,0,0,,{\c&H0043B7E6&}so{\c&H00FFFFFF&} you stop losing
+Dialogue: 0,0:00:43.92,0:00:44.04,Cap,,0,0,0,,so {\c&H0043B7E6&}you{\c&H00FFFFFF&} stop losing
+Dialogue: 0,0:00:44.04,0:00:44.30,Cap,,0,0,0,,so you {\c&H0043B7E6&}stop{\c&H00FFFFFF&} losing
+Dialogue: 0,0:00:44.30,0:00:44.60,Cap,,0,0,0,,so you stop {\c&H0043B7E6&}losing{\c&H00FFFFFF&}
+Dialogue: 0,0:00:44.60,0:00:45.01,Cap,,0,0,0,,{\c&H0043B7E6&}money{\c&H00FFFFFF&} on food you
+Dialogue: 0,0:00:45.01,0:00:45.29,Cap,,0,0,0,,money {\c&H0043B7E6&}on{\c&H00FFFFFF&} food you
+Dialogue: 0,0:00:45.29,0:00:45.58,Cap,,0,0,0,,money on {\c&H0043B7E6&}food{\c&H00FFFFFF&} you
+Dialogue: 0,0:00:45.58,0:00:45.69,Cap,,0,0,0,,money on food {\c&H0043B7E6&}you{\c&H00FFFFFF&}
+Dialogue: 0,0:00:45.69,0:00:45.85,Cap,,0,0,0,,{\c&H0043B7E6&}were{\c&H00FFFFFF&} trying to save.
+Dialogue: 0,0:00:45.85,0:00:46.12,Cap,,0,0,0,,were {\c&H0043B7E6&}trying{\c&H00FFFFFF&} to save.
+Dialogue: 0,0:00:46.12,0:00:46.21,Cap,,0,0,0,,were trying {\c&H0043B7E6&}to{\c&H00FFFFFF&} save.
+Dialogue: 0,0:00:46.21,0:00:47.08,Cap,,0,0,0,,were trying to {\c&H0043B7E6&}save.{\c&H00FFFFFF&}
+Dialogue: 0,0:00:47.81,0:00:47.99,Cap,,0,0,0,,{\c&H0043B7E6&}One{\c&H00FFFFFF&} of them is
+Dialogue: 0,0:00:47.99,0:00:48.08,Cap,,0,0,0,,One {\c&H0043B7E6&}of{\c&H00FFFFFF&} them is
+Dialogue: 0,0:00:48.08,0:00:48.45,Cap,,0,0,0,,One of {\c&H0043B7E6&}them{\c&H00FFFFFF&} is
+Dialogue: 0,0:00:48.45,0:00:48.90,Cap,,0,0,0,,One of them {\c&H0043B7E6&}is{\c&H00FFFFFF&}
+Dialogue: 0,0:00:48.90,0:00:49.06,Cap,,0,0,0,,{\c&H0043B7E6&}in{\c&H00FFFFFF&} almost every potluck
+Dialogue: 0,0:00:49.06,0:00:49.46,Cap,,0,0,0,,in {\c&H0043B7E6&}almost{\c&H00FFFFFF&} every potluck
+Dialogue: 0,0:00:49.46,0:00:49.72,Cap,,0,0,0,,in almost {\c&H0043B7E6&}every{\c&H00FFFFFF&} potluck
+Dialogue: 0,0:00:49.72,0:00:50.19,Cap,,0,0,0,,in almost every {\c&H0043B7E6&}potluck{\c&H00FFFFFF&}
+Dialogue: 0,0:00:50.19,0:00:50.49,Cap,,0,0,0,,{\c&H0043B7E6&}dish{\c&H00FFFFFF&} in America.
+Dialogue: 0,0:00:50.49,0:00:50.61,Cap,,0,0,0,,dish {\c&H0043B7E6&}in{\c&H00FFFFFF&} America.
+Dialogue: 0,0:00:50.61,0:00:51.65,Cap,,0,0,0,,dish in {\c&H0043B7E6&}America.{\c&H00FFFFFF&}
+Dialogue: 0,0:00:51.87,0:00:52.11,Cap,,0,0,0,,{\c&H0043B7E6&}One{\c&H00FFFFFF&} looks perfect going
+Dialogue: 0,0:00:52.11,0:00:52.42,Cap,,0,0,0,,One {\c&H0043B7E6&}looks{\c&H00FFFFFF&} perfect going
+Dialogue: 0,0:00:52.42,0:00:52.87,Cap,,0,0,0,,One looks {\c&H0043B7E6&}perfect{\c&H00FFFFFF&} going
+Dialogue: 0,0:00:52.87,0:00:53.15,Cap,,0,0,0,,One looks perfect {\c&H0043B7E6&}going{\c&H00FFFFFF&}
+Dialogue: 0,0:00:53.15,0:00:53.53,Cap,,0,0,0,,{\c&H0043B7E6&}in{\c&H00FFFFFF&} and comes out
+Dialogue: 0,0:00:53.53,0:00:53.81,Cap,,0,0,0,,in {\c&H0043B7E6&}and{\c&H00FFFFFF&} comes out
+Dialogue: 0,0:00:53.81,0:00:54.09,Cap,,0,0,0,,in and {\c&H0043B7E6&}comes{\c&H00FFFFFF&} out
+Dialogue: 0,0:00:54.09,0:00:54.32,Cap,,0,0,0,,in and comes {\c&H0043B7E6&}out{\c&H00FFFFFF&}
+Dialogue: 0,0:00:54.32,0:00:54.64,Cap,,0,0,0,,{\c&H0043B7E6&}like{\c&H00FFFFFF&} wet sand.
+Dialogue: 0,0:00:54.64,0:00:54.94,Cap,,0,0,0,,like {\c&H0043B7E6&}wet{\c&H00FFFFFF&} sand.
+Dialogue: 0,0:00:54.94,0:00:55.91,Cap,,0,0,0,,like wet {\c&H0043B7E6&}sand.{\c&H00FFFFFF&}
+Dialogue: 0,0:00:56.64,0:00:56.80,Cap,,0,0,0,,{\c&H0043B7E6&}And{\c&H00FFFFFF&} the one at
+Dialogue: 0,0:00:56.80,0:00:56.92,Cap,,0,0,0,,And {\c&H0043B7E6&}the{\c&H00FFFFFF&} one at
+Dialogue: 0,0:00:56.92,0:00:57.08,Cap,,0,0,0,,And the {\c&H0043B7E6&}one{\c&H00FFFFFF&} at
+Dialogue: 0,0:00:57.08,0:00:57.17,Cap,,0,0,0,,And the one {\c&H0043B7E6&}at{\c&H00FFFFFF&}
+Dialogue: 0,0:00:57.17,0:00:57.47,Cap,,0,0,0,,{\c&H0043B7E6&}number{\c&H00FFFFFF&} one isn't about
+Dialogue: 0,0:00:57.47,0:00:58.04,Cap,,0,0,0,,number {\c&H0043B7E6&}one{\c&H00FFFFFF&} isn't about
+Dialogue: 0,0:00:58.04,0:00:58.34,Cap,,0,0,0,,number one {\c&H0043B7E6&}isn't{\c&H00FFFFFF&} about
+Dialogue: 0,0:00:58.34,0:00:58.60,Cap,,0,0,0,,number one isn't {\c&H0043B7E6&}about{\c&H00FFFFFF&}
+Dialogue: 0,0:00:58.60,0:00:59.06,Cap,,0,0,0,,{\c&H0043B7E6&}taste{\c&H00FFFFFF&} at all.
+Dialogue: 0,0:00:59.06,0:00:59.24,Cap,,0,0,0,,taste {\c&H0043B7E6&}at{\c&H00FFFFFF&} all.
+Dialogue: 0,0:00:59.24,0:00:59.88,Cap,,0,0,0,,taste at {\c&H0043B7E6&}all.{\c&H00FFFFFF&}
+Dialogue: 0,0:00:59.88,0:01:00.05,Cap,,0,0,0,,{\c&H0043B7E6&}It's{\c&H00FFFFFF&} the only one
+Dialogue: 0,0:01:00.05,0:01:00.18,Cap,,0,0,0,,It's {\c&H0043B7E6&}the{\c&H00FFFFFF&} only one
+Dialogue: 0,0:01:00.18,0:01:00.41,Cap,,0,0,0,,It's the {\c&H0043B7E6&}only{\c&H00FFFFFF&} one
+Dialogue: 0,0:01:00.41,0:01:00.55,Cap,,0,0,0,,It's the only {\c&H0043B7E6&}one{\c&H00FFFFFF&}
+Dialogue: 0,0:01:00.55,0:01:00.64,Cap,,0,0,0,,{\c&H0043B7E6&}on{\c&H00FFFFFF&} this list that
+Dialogue: 0,0:01:00.64,0:01:00.83,Cap,,0,0,0,,on {\c&H0043B7E6&}this{\c&H00FFFFFF&} list that
+Dialogue: 0,0:01:00.83,0:01:01.09,Cap,,0,0,0,,on this {\c&H0043B7E6&}list{\c&H00FFFFFF&} that
+Dialogue: 0,0:01:01.09,0:01:01.22,Cap,,0,0,0,,on this list {\c&H0043B7E6&}that{\c&H00FFFFFF&}
+Dialogue: 0,0:01:01.22,0:01:01.37,Cap,,0,0,0,,{\c&H0043B7E6&}can{\c&H00FFFFFF&} make someone sick.
+Dialogue: 0,0:01:01.37,0:01:01.55,Cap,,0,0,0,,can {\c&H0043B7E6&}make{\c&H00FFFFFF&} someone sick.
+Dialogue: 0,0:01:01.55,0:01:01.86,Cap,,0,0,0,,can make {\c&H0043B7E6&}someone{\c&H00FFFFFF&} sick.
+Dialogue: 0,0:01:01.86,0:01:02.62,Cap,,0,0,0,,can make someone {\c&H0043B7E6&}sick.{\c&H00FFFFFF&}
+Dialogue: 0,0:01:02.62,0:01:02.83,Cap,,0,0,0,,{\c&H0043B7E6&}We'll{\c&H00FFFFFF&} get there.
+Dialogue: 0,0:01:02.83,0:01:02.97,Cap,,0,0,0,,We'll {\c&H0043B7E6&}get{\c&H00FFFFFF&} there.
+Dialogue: 0,0:01:02.97,0:01:03.69,Cap,,0,0,0,,We'll get {\c&H0043B7E6&}there.{\c&H00FFFFFF&}
+Dialogue: 0,0:01:03.75,0:01:03.97,Cap,,0,0,0,,{\c&H0043B7E6&}I'm{\c&H00FFFFFF&} Catherine,
+Dialogue: 0,0:01:03.97,0:01:04.69,Cap,,0,0,0,,I'm {\c&H0043B7E6&}Catherine,{\c&H00FFFFFF&}
+Dialogue: 0,0:01:04.69,0:01:05.34,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&}
+Dialogue: 0,0:01:05.48,0:01:05.67,Cap,,0,0,0,,{\c&H0043B7E6&}I've{\c&H00FFFFFF&} thrown away every
+Dialogue: 0,0:01:05.67,0:01:05.91,Cap,,0,0,0,,I've {\c&H0043B7E6&}thrown{\c&H00FFFFFF&} away every
+Dialogue: 0,0:01:05.91,0:01:06.25,Cap,,0,0,0,,I've thrown {\c&H0043B7E6&}away{\c&H00FFFFFF&} every
+Dialogue: 0,0:01:06.25,0:01:06.51,Cap,,0,0,0,,I've thrown away {\c&H0043B7E6&}every{\c&H00FFFFFF&}
+Dialogue: 0,0:01:06.51,0:01:06.66,Cap,,0,0,0,,{\c&H0043B7E6&}one{\c&H00FFFFFF&} of these at
+Dialogue: 0,0:01:06.66,0:01:06.74,Cap,,0,0,0,,one {\c&H0043B7E6&}of{\c&H00FFFFFF&} these at
+Dialogue: 0,0:01:06.74,0:01:06.95,Cap,,0,0,0,,one of {\c&H0043B7E6&}these{\c&H00FFFFFF&} at
+Dialogue: 0,0:01:06.95,0:01:07.06,Cap,,0,0,0,,one of these {\c&H0043B7E6&}at{\c&H00FFFFFF&}
+Dialogue: 0,0:01:07.06,0:01:07.24,Cap,,0,0,0,,{\c&H0043B7E6&}some{\c&H00FFFFFF&} point.
+Dialogue: 0,0:01:07.24,0:01:08.04,Cap,,0,0,0,,some {\c&H0043B7E6&}point.{\c&H00FFFFFF&}
+Dialogue: 0,0:01:08.05,0:01:08.49,Cap,,0,0,0,,{\c&H0043B7E6&}So{\c&H00FFFFFF&} here's what actually
+Dialogue: 0,0:01:08.49,0:01:08.83,Cap,,0,0,0,,So {\c&H0043B7E6&}here's{\c&H00FFFFFF&} what actually
+Dialogue: 0,0:01:08.83,0:01:09.06,Cap,,0,0,0,,So here's {\c&H0043B7E6&}what{\c&H00FFFFFF&} actually
+Dialogue: 0,0:01:09.06,0:01:09.50,Cap,,0,0,0,,So here's what {\c&H0043B7E6&}actually{\c&H00FFFFFF&}
+Dialogue: 0,0:01:09.50,0:01:10.43,Cap,,0,0,0,,{\c&H0043B7E6&}works.{\c&H00FFFFFF&}
+Dialogue: 0,0:01:10.75,0:01:11.73,Cap,,0,0,0,,{\c&H0043B7E6&}First,{\c&H00FFFFFF&}
+Dialogue: 0,0:01:11.79,0:01:11.94,Cap,,0,0,0,,{\c&H0043B7E6&}the{\c&H00FFFFFF&} reason behind almost
+Dialogue: 0,0:01:11.94,0:01:12.24,Cap,,0,0,0,,the {\c&H0043B7E6&}reason{\c&H00FFFFFF&} behind almost
+Dialogue: 0,0:01:12.24,0:01:12.98,Cap,,0,0,0,,the reason {\c&H0043B7E6&}behind{\c&H00FFFFFF&} almost
+Dialogue: 0,0:01:12.98,0:01:13.49,Cap,,0,0,0,,the reason behind {\c&H0043B7E6&}almost{\c&H00FFFFFF&}
+Dialogue: 0,0:01:13.49,0:01:13.71,Cap,,0,0,0,,{\c&H0043B7E6&}all{\c&H00FFFFFF&} of them.
+Dialogue: 0,0:01:13.71,0:01:13.81,Cap,,0,0,0,,all {\c&H0043B7E6&}of{\c&H00FFFFFF&} them.
+Dialogue: 0,0:01:13.81,0:01:14.47,Cap,,0,0,0,,all of {\c&H0043B7E6&}them.{\c&H00FFFFFF&}
+Dialogue: 0,0:01:15.19,0:01:15.63,Cap,,0,0,0,,{\c&H0043B7E6&}Freezing{\c&H00FFFFFF&} turns the water
+Dialogue: 0,0:01:15.63,0:01:15.92,Cap,,0,0,0,,Freezing {\c&H0043B7E6&}turns{\c&H00FFFFFF&} the water
+Dialogue: 0,0:01:15.92,0:01:16.01,Cap,,0,0,0,,Freezing turns {\c&H0043B7E6&}the{\c&H00FFFFFF&} water
+Dialogue: 0,0:01:16.01,0:01:16.26,Cap,,0,0,0,,Freezing turns the {\c&H0043B7E6&}water{\c&H00FFFFFF&}
+Dialogue: 0,0:01:16.26,0:01:16.60,Cap,,0,0,0,,{\c&H0043B7E6&}inside{\c&H00FFFFFF&} food into ice
+Dialogue: 0,0:01:16.60,0:01:16.87,Cap,,0,0,0,,inside {\c&H0043B7E6&}food{\c&H00FFFFFF&} into ice
+Dialogue: 0,0:01:16.87,0:01:17.19,Cap,,0,0,0,,inside food {\c&H0043B7E6&}into{\c&H00FFFFFF&} ice
+Dialogue: 0,0:01:17.19,0:01:17.44,Cap,,0,0,0,,inside food into {\c&H0043B7E6&}ice{\c&H00FFFFFF&}
+Dialogue: 0,0:01:17.44,0:01:18.43,Cap,,0,0,0,,{\c&H0043B7E6&}crystals.{\c&H00FFFFFF&}
+Dialogue: 0,0:01:18.43,0:01:18.67,Cap,,0,0,0,,{\c&H0043B7E6&}Those{\c&H00FFFFFF&} crystals push through
+Dialogue: 0,0:01:18.67,0:01:19.09,Cap,,0,0,0,,Those {\c&H0043B7E6&}crystals{\c&H00FFFFFF&} push through
+Dialogue: 0,0:01:19.09,0:01:19.34,Cap,,0,0,0,,Those crystals {\c&H0043B7E6&}push{\c&H00FFFFFF&} through
+Dialogue: 0,0:01:19.34,0:01:19.55,Cap,,0,0,0,,Those crystals push {\c&H0043B7E6&}through{\c&H00FFFFFF&}
+Dialogue: 0,0:01:19.55,0:01:19.65,Cap,,0,0,0,,{\c&H0043B7E6&}the{\c&H00FFFFFF&} walls of soft,
+Dialogue: 0,0:01:19.65,0:01:19.95,Cap,,0,0,0,,the {\c&H0043B7E6&}walls{\c&H00FFFFFF&} of soft,
+Dialogue: 0,0:01:19.95,0:01:20.09,Cap,,0,0,0,,the walls {\c&H0043B7E6&}of{\c&H00FFFFFF&} soft,
+Dialogue: 0,0:01:20.09,0:01:20.47,Cap,,0,0,0,,the walls of {\c&H0043B7E6&}soft,{\c&H00FFFFFF&}
+Dialogue: 0,0:01:20.47,0:01:20.85,Cap,,0,0,0,,{\c&H0043B7E6&}watery{\c&H00FFFFFF&} foods,
+Dialogue: 0,0:01:20.85,0:01:21.78,Cap,,0,0,0,,watery {\c&H0043B7E6&}foods,{\c&H00FFFFFF&}
+Dialogue: 0,0:01:21.78,0:01:21.92,Cap,,0,0,0,,{\c&H0043B7E6&}so{\c&H00FFFFFF&} when they thaw,
+Dialogue: 0,0:01:21.92,0:01:22.05,Cap,,0,0,0,,so {\c&H0043B7E6&}when{\c&H00FFFFFF&} they thaw,
+Dialogue: 0,0:01:22.05,0:01:22.22,Cap,,0,0,0,,so when {\c&H0043B7E6&}they{\c&H00FFFFFF&} thaw,
+Dialogue: 0,0:01:22.22,0:01:23.08,Cap,,0,0,0,,so when they {\c&H0043B7E6&}thaw,{\c&H00FFFFFF&}
+Dialogue: 0,0:01:23.08,0:01:23.23,Cap,,0,0,0,,{\c&H0043B7E6&}the{\c&H00FFFFFF&} water runs out
+Dialogue: 0,0:01:23.23,0:01:23.45,Cap,,0,0,0,,the {\c&H0043B7E6&}water{\c&H00FFFFFF&} runs out
+Dialogue: 0,0:01:23.45,0:01:23.72,Cap,,0,0,0,,the water {\c&H0043B7E6&}runs{\c&H00FFFFFF&} out
+Dialogue: 0,0:01:23.72,0:01:24.15,Cap,,0,0,0,,the water runs {\c&H0043B7E6&}out{\c&H00FFFFFF&}
+Dialogue: 0,0:01:24.15,0:01:24.44,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} the texture collapses.
+Dialogue: 0,0:01:24.44,0:01:24.55,Cap,,0,0,0,,and {\c&H0043B7E6&}the{\c&H00FFFFFF&} texture collapses.
+Dialogue: 0,0:01:24.55,0:01:24.94,Cap,,0,0,0,,and the {\c&H0043B7E6&}texture{\c&H00FFFFFF&} collapses.
+Dialogue: 0,0:01:24.94,0:01:26.16,Cap,,0,0,0,,and the texture {\c&H0043B7E6&}collapses.{\c&H00FFFFFF&}
+Dialogue: 0,0:01:26.16,0:01:26.39,Cap,,0,0,0,,{\c&H0043B7E6&}And{\c&H00FFFFFF&} creamy mixtures,
+Dialogue: 0,0:01:26.39,0:01:26.73,Cap,,0,0,0,,And {\c&H0043B7E6&}creamy{\c&H00FFFFFF&} mixtures,
+Dialogue: 0,0:01:26.73,0:01:27.78,Cap,,0,0,0,,And creamy {\c&H0043B7E6&}mixtures,{\c&H00FFFFFF&}
+Dialogue: 0,0:01:27.78,0:01:27.93,Cap,,0,0,0,,{\c&H0043B7E6&}the{\c&H00FFFFFF&} kind held together
+Dialogue: 0,0:01:27.93,0:01:28.21,Cap,,0,0,0,,the {\c&H0043B7E6&}kind{\c&H00FFFFFF&} held together
+Dialogue: 0,0:01:28.21,0:01:28.46,Cap,,0,0,0,,the kind {\c&H0043B7E6&}held{\c&H00FFFFFF&} together
+Dialogue: 0,0:01:28.46,0:01:28.81,Cap,,0,0,0,,the kind held {\c&H0043B7E6&}together{\c&H00FFFFFF&}
+Dialogue: 0,0:01:28.81,0:01:29.00,Cap,,0,0,0,,{\c&H0043B7E6&}by{\c&H00FFFFFF&} fat and liquid,
+Dialogue: 0,0:01:29.00,0:01:29.30,Cap,,0,0,0,,by {\c&H0043B7E6&}fat{\c&H00FFFFFF&} and liquid,
+Dialogue: 0,0:01:29.30,0:01:29.45,Cap,,0,0,0,,by fat {\c&H0043B7E6&}and{\c&H00FFFFFF&} liquid,
+Dialogue: 0,0:01:29.45,0:01:30.20,Cap,,0,0,0,,by fat and {\c&H0043B7E6&}liquid,{\c&H00FFFFFF&}
+Dialogue: 0,0:01:30.20,0:01:30.42,Cap,,0,0,0,,{\c&H0043B7E6&}tend{\c&H00FFFFFF&} to split apart.
+Dialogue: 0,0:01:30.42,0:01:30.53,Cap,,0,0,0,,tend {\c&H0043B7E6&}to{\c&H00FFFFFF&} split apart.
+Dialogue: 0,0:01:30.53,0:01:30.77,Cap,,0,0,0,,tend to {\c&H0043B7E6&}split{\c&H00FFFFFF&} apart.
+Dialogue: 0,0:01:30.77,0:01:31.60,Cap,,0,0,0,,tend to split {\c&H0043B7E6&}apart.{\c&H00FFFFFF&}
+Dialogue: 0,0:01:32.17,0:01:32.37,Cap,,0,0,0,,{\c&H0043B7E6&}The{\c&H00FFFFFF&} USDA's food safety
+Dialogue: 0,0:01:32.37,0:01:33.15,Cap,,0,0,0,,The {\c&H0043B7E6&}USDA's{\c&H00FFFFFF&} food safety
+Dialogue: 0,0:01:33.15,0:01:33.36,Cap,,0,0,0,,The USDA's {\c&H0043B7E6&}food{\c&H00FFFFFF&} safety
+Dialogue: 0,0:01:33.36,0:01:33.66,Cap,,0,0,0,,The USDA's food {\c&H0043B7E6&}safety{\c&H00FFFFFF&}
+Dialogue: 0,0:01:33.66,0:01:34.05,Cap,,0,0,0,,{\c&H0043B7E6&}guidance{\c&H00FFFFFF&} puts it simply.
+Dialogue: 0,0:01:34.05,0:01:34.29,Cap,,0,0,0,,guidance {\c&H0043B7E6&}puts{\c&H00FFFFFF&} it simply.
+Dialogue: 0,0:01:34.29,0:01:34.38,Cap,,0,0,0,,guidance puts {\c&H0043B7E6&}it{\c&H00FFFFFF&} simply.
+Dialogue: 0,0:01:34.38,0:01:35.25,Cap,,0,0,0,,guidance puts it {\c&H0043B7E6&}simply.{\c&H00FFFFFF&}
+Dialogue: 0,0:01:35.67,0:01:36.39,Cap,,0,0,0,,{\c&H0043B7E6&}Emulsions{\c&H00FFFFFF&} such as mayonnaise
+Dialogue: 0,0:01:36.39,0:01:36.61,Cap,,0,0,0,,Emulsions {\c&H0043B7E6&}such{\c&H00FFFFFF&} as mayonnaise
+Dialogue: 0,0:01:36.61,0:01:36.73,Cap,,0,0,0,,Emulsions such {\c&H0043B7E6&}as{\c&H00FFFFFF&} mayonnaise
+Dialogue: 0,0:01:36.73,0:01:37.23,Cap,,0,0,0,,Emulsions such as {\c&H0043B7E6&}mayonnaise{\c&H00FFFFFF&}
+Dialogue: 0,0:01:37.23,0:01:37.44,Cap,,0,0,0,,{\c&H0043B7E6&}or{\c&H00FFFFFF&} cream will separate
+Dialogue: 0,0:01:37.44,0:01:37.76,Cap,,0,0,0,,or {\c&H0043B7E6&}cream{\c&H00FFFFFF&} will separate
+Dialogue: 0,0:01:37.76,0:01:37.95,Cap,,0,0,0,,or cream {\c&H0043B7E6&}will{\c&H00FFFFFF&} separate
+Dialogue: 0,0:01:37.95,0:01:38.42,Cap,,0,0,0,,or cream will {\c&H0043B7E6&}separate{\c&H00FFFFFF&}
+Dialogue: 0,0:01:38.42,0:01:38.53,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} appear curdled.
+Dialogue: 0,0:01:38.53,0:01:38.88,Cap,,0,0,0,,and {\c&H0043B7E6&}appear{\c&H00FFFFFF&} curdled.
+Dialogue: 0,0:01:38.88,0:01:39.83,Cap,,0,0,0,,and appear {\c&H0043B7E6&}curdled.{\c&H00FFFFFF&}
+Dialogue: 0,0:01:40.25,0:01:40.48,Cap,,0,0,0,,{\c&H0043B7E6&}Keep{\c&H00FFFFFF&} that in mind
+Dialogue: 0,0:01:40.48,0:01:40.63,Cap,,0,0,0,,Keep {\c&H0043B7E6&}that{\c&H00FFFFFF&} in mind
+Dialogue: 0,0:01:40.63,0:01:40.72,Cap,,0,0,0,,Keep that {\c&H0043B7E6&}in{\c&H00FFFFFF&} mind
+Dialogue: 0,0:01:40.72,0:01:41.33,Cap,,0,0,0,,Keep that in {\c&H0043B7E6&}mind{\c&H00FFFFFF&}
+Dialogue: 0,0:01:41.33,0:01:41.61,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} the whole list
+Dialogue: 0,0:01:41.61,0:01:41.70,Cap,,0,0,0,,and {\c&H0043B7E6&}the{\c&H00FFFFFF&} whole list
+Dialogue: 0,0:01:41.70,0:01:41.90,Cap,,0,0,0,,and the {\c&H0043B7E6&}whole{\c&H00FFFFFF&} list
+Dialogue: 0,0:01:41.90,0:01:42.36,Cap,,0,0,0,,and the whole {\c&H0043B7E6&}list{\c&H00FFFFFF&}
+Dialogue: 0,0:01:42.36,0:01:42.62,Cap,,0,0,0,,{\c&H0043B7E6&}makes{\c&H00FFFFFF&} sense.
+Dialogue: 0,0:01:42.62,0:01:43.61,Cap,,0,0,0,,makes {\c&H0043B7E6&}sense.{\c&H00FFFFFF&}
+Dialogue: 0,0:01:44.18,0:01:44.35,Cap,,0,0,0,,{\c&H0043B7E6&}For{\c&H00FFFFFF&} the details,
+Dialogue: 0,0:01:44.35,0:01:44.46,Cap,,0,0,0,,For {\c&H0043B7E6&}the{\c&H00FFFFFF&} details,
+Dialogue: 0,0:01:44.46,0:01:45.18,Cap,,0,0,0,,For the {\c&H0043B7E6&}details,{\c&H00FFFFFF&}
+Dialogue: 0,0:01:45.18,0:01:45.37,Cap,,0,0,0,,{\c&H0043B7E6&}I'm{\c&H00FFFFFF&} using the USDA's
+Dialogue: 0,0:01:45.37,0:01:45.61,Cap,,0,0,0,,I'm {\c&H0043B7E6&}using{\c&H00FFFFFF&} the USDA's
+Dialogue: 0,0:01:45.61,0:01:45.75,Cap,,0,0,0,,I'm using {\c&H0043B7E6&}the{\c&H00FFFFFF&} USDA's
+Dialogue: 0,0:01:45.75,0:01:46.69,Cap,,0,0,0,,I'm using the {\c&H0043B7E6&}USDA's{\c&H00FFFFFF&}
+Dialogue: 0,0:01:46.69,0:01:47.10,Cap,,0,0,0,,{\c&H0043B7E6&}freezing{\c&H00FFFFFF&} guidance,
+Dialogue: 0,0:01:47.10,0:01:48.09,Cap,,0,0,0,,freezing {\c&H0043B7E6&}guidance,{\c&H00FFFFFF&}
+Dialogue: 0,0:01:48.10,0:01:48.26,Cap,,0,0,0,,{\c&H0043B7E6&}the{\c&H00FFFFFF&} FoodSafety.gov storage
+Dialogue: 0,0:01:48.26,0:01:49.49,Cap,,0,0,0,,the {\c&H0043B7E6&}FoodSafety.gov{\c&H00FFFFFF&} storage
+Dialogue: 0,0:01:49.49,0:01:49.84,Cap,,0,0,0,,the FoodSafety.gov {\c&H0043B7E6&}storage{\c&H00FFFFFF&}
+Dialogue: 0,0:01:49.84,0:01:50.42,Cap,,0,0,0,,{\c&H0043B7E6&}chart,{\c&H00FFFFFF&}
+Dialogue: 0,0:01:50.42,0:01:50.62,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} extension guides from
+Dialogue: 0,0:01:50.62,0:01:51.06,Cap,,0,0,0,,and {\c&H0043B7E6&}extension{\c&H00FFFFFF&} guides from
+Dialogue: 0,0:01:51.06,0:01:51.64,Cap,,0,0,0,,and extension {\c&H0043B7E6&}guides{\c&H00FFFFFF&} from
+Dialogue: 0,0:01:51.64,0:01:51.82,Cap,,0,0,0,,and extension guides {\c&H0043B7E6&}from{\c&H00FFFFFF&}
+Dialogue: 0,0:01:51.82,0:01:51.96,Cap,,0,0,0,,{\c&H0043B7E6&}the{\c&H00FFFFFF&} University of Missouri,
+Dialogue: 0,0:01:51.96,0:01:52.46,Cap,,0,0,0,,the {\c&H0043B7E6&}University{\c&H00FFFFFF&} of Missouri,
+Dialogue: 0,0:01:52.46,0:01:52.54,Cap,,0,0,0,,the University {\c&H0043B7E6&}of{\c&H00FFFFFF&} Missouri,
+Dialogue: 0,0:01:52.54,0:01:53.49,Cap,,0,0,0,,the University of {\c&H0043B7E6&}Missouri,{\c&H00FFFFFF&}
+Dialogue: 0,0:01:53.71,0:01:53.99,Cap,,0,0,0,,{\c&H0043B7E6&}North{\c&H00FFFFFF&} Dakota State University,
+Dialogue: 0,0:01:53.99,0:01:54.34,Cap,,0,0,0,,North {\c&H0043B7E6&}Dakota{\c&H00FFFFFF&} State University,
+Dialogue: 0,0:01:54.34,0:01:54.61,Cap,,0,0,0,,North Dakota {\c&H0043B7E6&}State{\c&H00FFFFFF&} University,
+Dialogue: 0,0:01:54.61,0:01:55.72,Cap,,0,0,0,,North Dakota State {\c&H0043B7E6&}University,{\c&H00FFFFFF&}
+Dialogue: 0,0:01:55.78,0:01:56.55,Cap,,0,0,0,,{\c&H0043B7E6&}Mississippi{\c&H00FFFFFF&} State University
+Dialogue: 0,0:01:56.55,0:01:56.86,Cap,,0,0,0,,Mississippi {\c&H0043B7E6&}State{\c&H00FFFFFF&} University
+Dialogue: 0,0:01:56.86,0:01:57.79,Cap,,0,0,0,,Mississippi State {\c&H0043B7E6&}University{\c&H00FFFFFF&}
+Dialogue: 0,0:01:57.93,0:01:58.33,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} Washington State University.
+Dialogue: 0,0:01:58.33,0:01:58.79,Cap,,0,0,0,,and {\c&H0043B7E6&}Washington{\c&H00FFFFFF&} State University.
+Dialogue: 0,0:01:58.79,0:01:59.05,Cap,,0,0,0,,and Washington {\c&H0043B7E6&}State{\c&H00FFFFFF&} University.
+Dialogue: 0,0:01:59.05,0:01:59.88,Cap,,0,0,0,,and Washington State {\c&H0043B7E6&}University.{\c&H00FFFFFF&}
+Dialogue: 0,0:01:59.88,0:02:00.15,Cap,,0,0,0,,{\c&H0043B7E6&}Number{\c&H00FFFFFF&} ten.
+Dialogue: 0,0:02:00.15,0:02:00.80,Cap,,0,0,0,,Number {\c&H0043B7E6&}ten.{\c&H00FFFFFF&}
+Dialogue: 0,0:02:00.80,0:02:01.16,Cap,,0,0,0,,{\c&H0043B7E6&}Lettuce{\c&H00FFFFFF&} and salad greens.
+Dialogue: 0,0:02:01.16,0:02:01.37,Cap,,0,0,0,,Lettuce {\c&H0043B7E6&}and{\c&H00FFFFFF&} salad greens.
+Dialogue: 0,0:02:01.37,0:02:01.69,Cap,,0,0,0,,Lettuce and {\c&H0043B7E6&}salad{\c&H00FFFFFF&} greens.
+Dialogue: 0,0:02:01.69,0:02:02.62,Cap,,0,0,0,,Lettuce and salad {\c&H0043B7E6&}greens.{\c&H00FFFFFF&}
+Dialogue: 0,0:02:02.94,0:02:03.14,Cap,,0,0,0,,{\c&H0043B7E6&}The{\c&H00FFFFFF&} USDA names lettuce
+Dialogue: 0,0:02:03.14,0:02:03.87,Cap,,0,0,0,,The {\c&H0043B7E6&}USDA{\c&H00FFFFFF&} names lettuce
+Dialogue: 0,0:02:03.87,0:02:04.15,Cap,,0,0,0,,The USDA {\c&H0043B7E6&}names{\c&H00FFFFFF&} lettuce
+Dialogue: 0,0:02:04.15,0:02:04.73,Cap,,0,0,0,,The USDA names {\c&H0043B7E6&}lettuce{\c&H00FFFFFF&}
+Dialogue: 0,0:02:04.73,0:02:04.92,Cap,,0,0,0,,{\c&H0043B7E6&}as{\c&H00FFFFFF&} a food that
+Dialogue: 0,0:02:04.92,0:02:05.02,Cap,,0,0,0,,as {\c&H0043B7E6&}a{\c&H00FFFFFF&} food that
+Dialogue: 0,0:02:05.02,0:02:05.26,Cap,,0,0,0,,as a {\c&H0043B7E6&}food{\c&H00FFFFFF&} that
+Dialogue: 0,0:02:05.26,0:02:05.42,Cap,,0,0,0,,as a food {\c&H0043B7E6&}that{\c&H00FFFFFF&}
+Dialogue: 0,0:02:05.42,0:02:05.72,Cap,,0,0,0,,{\c&H0043B7E6&}simply{\c&H00FFFFFF&} doesn't freeze well,
+Dialogue: 0,0:02:05.72,0:02:06.00,Cap,,0,0,0,,simply {\c&H0043B7E6&}doesn't{\c&H00FFFFFF&} freeze well,
+Dialogue: 0,0:02:06.00,0:02:06.25,Cap,,0,0,0,,simply doesn't {\c&H0043B7E6&}freeze{\c&H00FFFFFF&} well,
+Dialogue: 0,0:02:06.25,0:02:07.05,Cap,,0,0,0,,simply doesn't freeze {\c&H0043B7E6&}well,{\c&H00FFFFFF&}
+Dialogue: 0,0:02:07.05,0:02:07.26,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} Mississippi State University
+Dialogue: 0,0:02:07.26,0:02:07.70,Cap,,0,0,0,,and {\c&H0043B7E6&}Mississippi{\c&H00FFFFFF&} State University
+Dialogue: 0,0:02:07.70,0:02:07.95,Cap,,0,0,0,,and Mississippi {\c&H0043B7E6&}State{\c&H00FFFFFF&} University
+Dialogue: 0,0:02:07.95,0:02:08.42,Cap,,0,0,0,,and Mississippi State {\c&H0043B7E6&}University{\c&H00FFFFFF&}
+Dialogue: 0,0:02:08.42,0:02:09.28,Cap,,0,0,0,,{\c&H0043B7E6&}Extension{\c&H00FFFFFF&}
+Dialogue: 0,0:02:09.42,0:02:09.88,Cap,,0,0,0,,{\c&H0043B7E6&}lists{\c&H00FFFFFF&} lettuce and salad
+Dialogue: 0,0:02:09.88,0:02:10.26,Cap,,0,0,0,,lists {\c&H0043B7E6&}lettuce{\c&H00FFFFFF&} and salad
+Dialogue: 0,0:02:10.26,0:02:10.43,Cap,,0,0,0,,lists lettuce {\c&H0043B7E6&}and{\c&H00FFFFFF&} salad
+Dialogue: 0,0:02:10.43,0:02:10.77,Cap,,0,0,0,,lists lettuce and {\c&H0043B7E6&}salad{\c&H00FFFFFF&}
+Dialogue: 0,0:02:10.77,0:02:11.15,Cap,,0,0,0,,{\c&H0043B7E6&}greens{\c&H00FFFFFF&} on its do-not-freeze
+Dialogue: 0,0:02:11.15,0:02:11.28,Cap,,0,0,0,,greens {\c&H0043B7E6&}on{\c&H00FFFFFF&} its do-not-freeze
+Dialogue: 0,0:02:11.28,0:02:11.50,Cap,,0,0,0,,greens on {\c&H0043B7E6&}its{\c&H00FFFFFF&} do-not-freeze
+Dialogue: 0,0:02:11.50,0:02:12.59,Cap,,0,0,0,,greens on its {\c&H0043B7E6&}do-not-freeze{\c&H00FFFFFF&}
+Dialogue: 0,0:02:12.59,0:02:13.53,Cap,,0,0,0,,{\c&H0043B7E6&}list.{\c&H00FFFFFF&}
+Dialogue: 0,0:02:13.85,0:02:14.18,Cap,,0,0,0,,{\c&H0043B7E6&}Lettuce{\c&H00FFFFFF&} is mostly water.
+Dialogue: 0,0:02:14.18,0:02:14.32,Cap,,0,0,0,,Lettuce {\c&H0043B7E6&}is{\c&H00FFFFFF&} mostly water.
+Dialogue: 0,0:02:14.32,0:02:14.68,Cap,,0,0,0,,Lettuce is {\c&H0043B7E6&}mostly{\c&H00FFFFFF&} water.
+Dialogue: 0,0:02:14.68,0:02:15.51,Cap,,0,0,0,,Lettuce is mostly {\c&H0043B7E6&}water.{\c&H00FFFFFF&}
+Dialogue: 0,0:02:15.57,0:02:15.76,Cap,,0,0,0,,{\c&H0043B7E6&}When{\c&H00FFFFFF&} it thaws,
+Dialogue: 0,0:02:15.76,0:02:15.86,Cap,,0,0,0,,When {\c&H0043B7E6&}it{\c&H00FFFFFF&} thaws,
+Dialogue: 0,0:02:15.86,0:02:16.24,Cap,,0,0,0,,When it {\c&H0043B7E6&}thaws,{\c&H00FFFFFF&}
+Dialogue: 0,0:02:16.24,0:02:16.38,Cap,,0,0,0,,{\c&H0043B7E6&}the{\c&H00FFFFFF&} leaves go limp
+Dialogue: 0,0:02:16.38,0:02:16.68,Cap,,0,0,0,,the {\c&H0043B7E6&}leaves{\c&H00FFFFFF&} go limp
+Dialogue: 0,0:02:16.68,0:02:16.93,Cap,,0,0,0,,the leaves {\c&H0043B7E6&}go{\c&H00FFFFFF&} limp
+Dialogue: 0,0:02:16.93,0:02:17.18,Cap,,0,0,0,,the leaves go {\c&H0043B7E6&}limp{\c&H00FFFFFF&}
+Dialogue: 0,0:02:17.18,0:02:17.30,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} dark,
+Dialogue: 0,0:02:17.30,0:02:17.88,Cap,,0,0,0,,and {\c&H0043B7E6&}dark,{\c&H00FFFFFF&}
+Dialogue: 0,0:02:17.88,0:02:18.04,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} there's nothing crisp
+Dialogue: 0,0:02:18.04,0:02:18.24,Cap,,0,0,0,,and {\c&H0043B7E6&}there's{\c&H00FFFFFF&} nothing crisp
+Dialogue: 0,0:02:18.24,0:02:18.51,Cap,,0,0,0,,and there's {\c&H0043B7E6&}nothing{\c&H00FFFFFF&} crisp
+Dialogue: 0,0:02:18.51,0:02:18.86,Cap,,0,0,0,,and there's nothing {\c&H0043B7E6&}crisp{\c&H00FFFFFF&}
+Dialogue: 0,0:02:18.86,0:02:19.09,Cap,,0,0,0,,{\c&H0043B7E6&}left{\c&H00FFFFFF&} to save.
+Dialogue: 0,0:02:19.09,0:02:19.21,Cap,,0,0,0,,left {\c&H0043B7E6&}to{\c&H00FFFFFF&} save.
+Dialogue: 0,0:02:19.21,0:02:19.85,Cap,,0,0,0,,left to {\c&H0043B7E6&}save.{\c&H00FFFFFF&}
+Dialogue: 0,0:02:19.85,0:02:20.07,Cap,,0,0,0,,{\c&H0043B7E6&}What{\c&H00FFFFFF&} to do instead.
+Dialogue: 0,0:02:20.07,0:02:20.20,Cap,,0,0,0,,What {\c&H0043B7E6&}to{\c&H00FFFFFF&} do instead.
+Dialogue: 0,0:02:20.20,0:02:20.34,Cap,,0,0,0,,What to {\c&H0043B7E6&}do{\c&H00FFFFFF&} instead.
+Dialogue: 0,0:02:20.34,0:02:21.29,Cap,,0,0,0,,What to do {\c&H0043B7E6&}instead.{\c&H00FFFFFF&}
+Dialogue: 0,0:02:22.02,0:02:22.31,Cap,,0,0,0,,{\c&H0043B7E6&}Buy{\c&H00FFFFFF&} salad greens for
+Dialogue: 0,0:02:22.31,0:02:22.71,Cap,,0,0,0,,Buy {\c&H0043B7E6&}salad{\c&H00FFFFFF&} greens for
+Dialogue: 0,0:02:22.71,0:02:22.99,Cap,,0,0,0,,Buy salad {\c&H0043B7E6&}greens{\c&H00FFFFFF&} for
+Dialogue: 0,0:02:22.99,0:02:23.16,Cap,,0,0,0,,Buy salad greens {\c&H0043B7E6&}for{\c&H00FFFFFF&}
+Dialogue: 0,0:02:23.16,0:02:23.35,Cap,,0,0,0,,{\c&H0043B7E6&}this{\c&H00FFFFFF&} week only,
+Dialogue: 0,0:02:23.35,0:02:23.63,Cap,,0,0,0,,this {\c&H0043B7E6&}week{\c&H00FFFFFF&} only,
+Dialogue: 0,0:02:23.63,0:02:24.25,Cap,,0,0,0,,this week {\c&H0043B7E6&}only,{\c&H00FFFFFF&}
+Dialogue: 0,0:02:24.25,0:02:24.51,Cap,,0,0,0,,{\c&H0043B7E6&}not{\c&H00FFFFFF&} for the month.
+Dialogue: 0,0:02:24.51,0:02:24.64,Cap,,0,0,0,,not {\c&H0043B7E6&}for{\c&H00FFFFFF&} the month.
+Dialogue: 0,0:02:24.64,0:02:24.76,Cap,,0,0,0,,not for {\c&H0043B7E6&}the{\c&H00FFFFFF&} month.
+Dialogue: 0,0:02:24.76,0:02:25.65,Cap,,0,0,0,,not for the {\c&H0043B7E6&}month.{\c&H00FFFFFF&}
+Dialogue: 0,0:02:26.07,0:02:26.23,Cap,,0,0,0,,{\c&H0043B7E6&}And{\c&H00FFFFFF&} for cooking,
+Dialogue: 0,0:02:26.23,0:02:26.39,Cap,,0,0,0,,And {\c&H0043B7E6&}for{\c&H00FFFFFF&} cooking,
+Dialogue: 0,0:02:26.39,0:02:27.33,Cap,,0,0,0,,And for {\c&H0043B7E6&}cooking,{\c&H00FFFFFF&}
+Dialogue: 0,0:02:27.39,0:02:27.63,Cap,,0,0,0,,{\c&H0043B7E6&}keep{\c&H00FFFFFF&} a bag of
+Dialogue: 0,0:02:27.63,0:02:27.70,Cap,,0,0,0,,keep {\c&H0043B7E6&}a{\c&H00FFFFFF&} bag of
+Dialogue: 0,0:02:27.70,0:02:27.97,Cap,,0,0,0,,keep a {\c&H0043B7E6&}bag{\c&H00FFFFFF&} of
+Dialogue: 0,0:02:27.97,0:02:28.07,Cap,,0,0,0,,keep a bag {\c&H0043B7E6&}of{\c&H00FFFFFF&}
+Dialogue: 0,0:02:28.07,0:02:28.41,Cap,,0,0,0,,{\c&H0043B7E6&}frozen{\c&H00FFFFFF&} spinach in the
+Dialogue: 0,0:02:28.41,0:02:28.75,Cap,,0,0,0,,frozen {\c&H0043B7E6&}spinach{\c&H00FFFFFF&} in the
+Dialogue: 0,0:02:28.75,0:02:28.83,Cap,,0,0,0,,frozen spinach {\c&H0043B7E6&}in{\c&H00FFFFFF&} the
+Dialogue: 0,0:02:28.83,0:02:28.94,Cap,,0,0,0,,frozen spinach in {\c&H0043B7E6&}the{\c&H00FFFFFF&}
+Dialogue: 0,0:02:28.94,0:02:29.74,Cap,,0,0,0,,{\c&H0043B7E6&}freezer.{\c&H00FFFFFF&}
+Dialogue: 0,0:02:29.74,0:02:29.85,Cap,,0,0,0,,{\c&H0043B7E6&}It{\c&H00FFFFFF&} was made to
+Dialogue: 0,0:02:29.85,0:02:30.00,Cap,,0,0,0,,It {\c&H0043B7E6&}was{\c&H00FFFFFF&} made to
+Dialogue: 0,0:02:30.00,0:02:30.17,Cap,,0,0,0,,It was {\c&H0043B7E6&}made{\c&H00FFFFFF&} to
+Dialogue: 0,0:02:30.17,0:02:30.26,Cap,,0,0,0,,It was made {\c&H0043B7E6&}to{\c&H00FFFFFF&}
+Dialogue: 0,0:02:30.26,0:02:30.38,Cap,,0,0,0,,{\c&H0043B7E6&}be{\c&H00FFFFFF&} frozen,
+Dialogue: 0,0:02:30.38,0:02:31.08,Cap,,0,0,0,,be {\c&H0043B7E6&}frozen,{\c&H00FFFFFF&}
+Dialogue: 0,0:02:31.08,0:02:31.26,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} it goes straight
+Dialogue: 0,0:02:31.26,0:02:31.34,Cap,,0,0,0,,and {\c&H0043B7E6&}it{\c&H00FFFFFF&} goes straight
+Dialogue: 0,0:02:31.34,0:02:31.50,Cap,,0,0,0,,and it {\c&H0043B7E6&}goes{\c&H00FFFFFF&} straight
+Dialogue: 0,0:02:31.50,0:02:31.78,Cap,,0,0,0,,and it goes {\c&H0043B7E6&}straight{\c&H00FFFFFF&}
+Dialogue: 0,0:02:31.78,0:02:31.99,Cap,,0,0,0,,{\c&H0043B7E6&}into{\c&H00FFFFFF&} soups,
+Dialogue: 0,0:02:31.99,0:02:32.64,Cap,,0,0,0,,into {\c&H0043B7E6&}soups,{\c&H00FFFFFF&}
+Dialogue: 0,0:02:32.64,0:02:32.97,Cap,,0,0,0,,{\c&H0043B7E6&}eggs{\c&H00FFFFFF&} and casseroles.
+Dialogue: 0,0:02:32.97,0:02:33.10,Cap,,0,0,0,,eggs {\c&H0043B7E6&}and{\c&H00FFFFFF&} casseroles.
+Dialogue: 0,0:02:33.10,0:02:34.20,Cap,,0,0,0,,eggs and {\c&H0043B7E6&}casseroles.{\c&H00FFFFFF&}
+Dialogue: 0,0:02:34.26,0:02:34.57,Cap,,0,0,0,,{\c&H0043B7E6&}Number{\c&H00FFFFFF&} nine.
+Dialogue: 0,0:02:34.57,0:02:35.45,Cap,,0,0,0,,Number {\c&H0043B7E6&}nine.{\c&H00FFFFFF&}
+Dialogue: 0,0:02:35.51,0:02:36.43,Cap,,0,0,0,,{\c&H0043B7E6&}Mayonnaise,{\c&H00FFFFFF&}
+Dialogue: 0,0:02:36.43,0:02:36.67,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} everything made with
+Dialogue: 0,0:02:36.67,0:02:37.14,Cap,,0,0,0,,and {\c&H0043B7E6&}everything{\c&H00FFFFFF&} made with
+Dialogue: 0,0:02:37.14,0:02:37.35,Cap,,0,0,0,,and everything {\c&H0043B7E6&}made{\c&H00FFFFFF&} with
+Dialogue: 0,0:02:37.35,0:02:37.52,Cap,,0,0,0,,and everything made {\c&H0043B7E6&}with{\c&H00FFFFFF&}
+Dialogue: 0,0:02:37.52,0:02:38.18,Cap,,0,0,0,,{\c&H0043B7E6&}it.{\c&H00FFFFFF&}
+Dialogue: 0,0:02:38.74,0:02:38.97,Cap,,0,0,0,,{\c&H0043B7E6&}This{\c&H00FFFFFF&} is the one
+Dialogue: 0,0:02:38.97,0:02:39.09,Cap,,0,0,0,,This {\c&H0043B7E6&}is{\c&H00FFFFFF&} the one
+Dialogue: 0,0:02:39.09,0:02:39.21,Cap,,0,0,0,,This is {\c&H0043B7E6&}the{\c&H00FFFFFF&} one
+Dialogue: 0,0:02:39.21,0:02:39.63,Cap,,0,0,0,,This is the {\c&H0043B7E6&}one{\c&H00FFFFFF&}
+Dialogue: 0,0:02:39.63,0:02:39.89,Cap,,0,0,0,,{\c&H0043B7E6&}that's{\c&H00FFFFFF&} in almost every
+Dialogue: 0,0:02:39.89,0:02:40.03,Cap,,0,0,0,,that's {\c&H0043B7E6&}in{\c&H00FFFFFF&} almost every
+Dialogue: 0,0:02:40.03,0:02:40.50,Cap,,0,0,0,,that's in {\c&H0043B7E6&}almost{\c&H00FFFFFF&} every
+Dialogue: 0,0:02:40.50,0:02:40.84,Cap,,0,0,0,,that's in almost {\c&H0043B7E6&}every{\c&H00FFFFFF&}
+Dialogue: 0,0:02:40.84,0:02:41.37,Cap,,0,0,0,,{\c&H0043B7E6&}potluck{\c&H00FFFFFF&} dish in America.
+Dialogue: 0,0:02:41.37,0:02:41.84,Cap,,0,0,0,,potluck {\c&H0043B7E6&}dish{\c&H00FFFFFF&} in America.
+Dialogue: 0,0:02:41.84,0:02:42.03,Cap,,0,0,0,,potluck dish {\c&H0043B7E6&}in{\c&H00FFFFFF&} America.
+Dialogue: 0,0:02:42.03,0:02:43.07,Cap,,0,0,0,,potluck dish in {\c&H0043B7E6&}America.{\c&H00FFFFFF&}
+Dialogue: 0,0:02:43.21,0:02:43.57,Cap,,0,0,0,,{\c&H0043B7E6&}Chicken{\c&H00FFFFFF&} salad,
+Dialogue: 0,0:02:43.57,0:02:44.22,Cap,,0,0,0,,Chicken {\c&H0043B7E6&}salad,{\c&H00FFFFFF&}
+Dialogue: 0,0:02:44.22,0:02:44.56,Cap,,0,0,0,,{\c&H0043B7E6&}tuna{\c&H00FFFFFF&} salad,
+Dialogue: 0,0:02:44.56,0:02:45.26,Cap,,0,0,0,,tuna {\c&H0043B7E6&}salad,{\c&H00FFFFFF&}
+Dialogue: 0,0:02:45.26,0:02:45.51,Cap,,0,0,0,,{\c&H0043B7E6&}egg{\c&H00FFFFFF&} salad,
+Dialogue: 0,0:02:45.51,0:02:46.23,Cap,,0,0,0,,egg {\c&H0043B7E6&}salad,{\c&H00FFFFFF&}
+Dialogue: 0,0:02:46.23,0:02:46.72,Cap,,0,0,0,,{\c&H0043B7E6&}macaroni{\c&H00FFFFFF&} salad.
+Dialogue: 0,0:02:46.72,0:02:47.63,Cap,,0,0,0,,macaroni {\c&H0043B7E6&}salad.{\c&H00FFFFFF&}
+Dialogue: 0,0:02:47.76,0:02:47.94,Cap,,0,0,0,,{\c&H0043B7E6&}The{\c&H00FFFFFF&} FoodSafety.gov chart
+Dialogue: 0,0:02:47.94,0:02:49.13,Cap,,0,0,0,,The {\c&H0043B7E6&}FoodSafety.gov{\c&H00FFFFFF&} chart
+Dialogue: 0,0:02:49.13,0:02:49.46,Cap,,0,0,0,,The FoodSafety.gov {\c&H0043B7E6&}chart{\c&H00FFFFFF&}
+Dialogue: 0,0:02:49.46,0:02:49.85,Cap,,0,0,0,,{\c&H0043B7E6&}says{\c&H00FFFFFF&} every one of
+Dialogue: 0,0:02:49.85,0:02:50.17,Cap,,0,0,0,,says {\c&H0043B7E6&}every{\c&H00FFFFFF&} one of
+Dialogue: 0,0:02:50.17,0:02:50.31,Cap,,0,0,0,,says every {\c&H0043B7E6&}one{\c&H00FFFFFF&} of
+Dialogue: 0,0:02:50.31,0:02:50.39,Cap,,0,0,0,,says every one {\c&H0043B7E6&}of{\c&H00FFFFFF&}
+Dialogue: 0,0:02:50.39,0:02:50.63,Cap,,0,0,0,,{\c&H0043B7E6&}those{\c&H00FFFFFF&} does not freeze
+Dialogue: 0,0:02:50.63,0:02:50.83,Cap,,0,0,0,,those {\c&H0043B7E6&}does{\c&H00FFFFFF&} not freeze
+Dialogue: 0,0:02:50.83,0:02:51.01,Cap,,0,0,0,,those does {\c&H0043B7E6&}not{\c&H00FFFFFF&} freeze
+Dialogue: 0,0:02:51.01,0:02:51.31,Cap,,0,0,0,,those does not {\c&H0043B7E6&}freeze{\c&H00FFFFFF&}
+Dialogue: 0,0:02:51.31,0:02:52.20,Cap,,0,0,0,,{\c&H0043B7E6&}well.{\c&H00FFFFFF&}
+Dialogue: 0,0:02:52.42,0:02:52.57,Cap,,0,0,0,,{\c&H0043B7E6&}The{\c&H00FFFFFF&} mayonnaise separates,
+Dialogue: 0,0:02:52.57,0:02:52.99,Cap,,0,0,0,,The {\c&H0043B7E6&}mayonnaise{\c&H00FFFFFF&} separates,
+Dialogue: 0,0:02:52.99,0:02:53.69,Cap,,0,0,0,,The mayonnaise {\c&H0043B7E6&}separates,{\c&H00FFFFFF&}
+Dialogue: 0,0:02:53.69,0:02:53.87,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} you're left with
+Dialogue: 0,0:02:53.87,0:02:54.04,Cap,,0,0,0,,and {\c&H0043B7E6&}you're{\c&H00FFFFFF&} left with
+Dialogue: 0,0:02:54.04,0:02:54.30,Cap,,0,0,0,,and you're {\c&H0043B7E6&}left{\c&H00FFFFFF&} with
+Dialogue: 0,0:02:54.30,0:02:54.48,Cap,,0,0,0,,and you're left {\c&H0043B7E6&}with{\c&H00FFFFFF&}
+Dialogue: 0,0:02:54.48,0:02:54.60,Cap,,0,0,0,,{\c&H0043B7E6&}a{\c&H00FFFFFF&} greasy,
+Dialogue: 0,0:02:54.60,0:02:55.31,Cap,,0,0,0,,a {\c&H0043B7E6&}greasy,{\c&H00FFFFFF&}
+Dialogue: 0,0:02:55.31,0:02:55.93,Cap,,0,0,0,,{\c&H0043B7E6&}watery{\c&H00FFFFFF&} mess.
+Dialogue: 0,0:02:55.93,0:02:56.99,Cap,,0,0,0,,watery {\c&H0043B7E6&}mess.{\c&H00FFFFFF&}
+Dialogue: 0,0:02:57.13,0:02:57.34,Cap,,0,0,0,,{\c&H0043B7E6&}What{\c&H00FFFFFF&} to do instead.
+Dialogue: 0,0:02:57.34,0:02:57.45,Cap,,0,0,0,,What {\c&H0043B7E6&}to{\c&H00FFFFFF&} do instead.
+Dialogue: 0,0:02:57.45,0:02:57.60,Cap,,0,0,0,,What to {\c&H0043B7E6&}do{\c&H00FFFFFF&} instead.
+Dialogue: 0,0:02:57.60,0:02:58.61,Cap,,0,0,0,,What to do {\c&H0043B7E6&}instead.{\c&H00FFFFFF&}
+Dialogue: 0,0:02:58.62,0:02:58.97,Cap,,0,0,0,,{\c&H0043B7E6&}Freeze{\c&H00FFFFFF&} the parts,
+Dialogue: 0,0:02:58.97,0:02:59.09,Cap,,0,0,0,,Freeze {\c&H0043B7E6&}the{\c&H00FFFFFF&} parts,
+Dialogue: 0,0:02:59.09,0:02:59.77,Cap,,0,0,0,,Freeze the {\c&H0043B7E6&}parts,{\c&H00FFFFFF&}
+Dialogue: 0,0:02:59.77,0:02:59.94,Cap,,0,0,0,,{\c&H0043B7E6&}not{\c&H00FFFFFF&} the salad.
+Dialogue: 0,0:02:59.94,0:03:00.04,Cap,,0,0,0,,not {\c&H0043B7E6&}the{\c&H00FFFFFF&} salad.
+Dialogue: 0,0:03:00.04,0:03:00.95,Cap,,0,0,0,,not the {\c&H0043B7E6&}salad.{\c&H00FFFFFF&}
+Dialogue: 0,0:03:01.37,0:03:02.06,Cap,,0,0,0,,{\c&H0043B7E6&}Cooked,{\c&H00FFFFFF&}
+Dialogue: 0,0:03:02.06,0:03:02.39,Cap,,0,0,0,,{\c&H0043B7E6&}diced{\c&H00FFFFFF&} chicken freezes well
+Dialogue: 0,0:03:02.39,0:03:02.84,Cap,,0,0,0,,diced {\c&H0043B7E6&}chicken{\c&H00FFFFFF&} freezes well
+Dialogue: 0,0:03:02.84,0:03:03.30,Cap,,0,0,0,,diced chicken {\c&H0043B7E6&}freezes{\c&H00FFFFFF&} well
+Dialogue: 0,0:03:03.30,0:03:03.62,Cap,,0,0,0,,diced chicken freezes {\c&H0043B7E6&}well{\c&H00FFFFFF&}
+Dialogue: 0,0:03:03.62,0:03:03.77,Cap,,0,0,0,,{\c&H0043B7E6&}on{\c&H00FFFFFF&} its own.
+Dialogue: 0,0:03:03.77,0:03:03.91,Cap,,0,0,0,,on {\c&H0043B7E6&}its{\c&H00FFFFFF&} own.
+Dialogue: 0,0:03:03.91,0:03:04.66,Cap,,0,0,0,,on its {\c&H0043B7E6&}own.{\c&H00FFFFFF&}
+Dialogue: 0,0:03:04.66,0:03:04.83,Cap,,0,0,0,,{\c&H0043B7E6&}So{\c&H00FFFFFF&} does cooked pasta,
+Dialogue: 0,0:03:04.83,0:03:05.00,Cap,,0,0,0,,So {\c&H0043B7E6&}does{\c&H00FFFFFF&} cooked pasta,
+Dialogue: 0,0:03:05.00,0:03:05.20,Cap,,0,0,0,,So does {\c&H0043B7E6&}cooked{\c&H00FFFFFF&} pasta,
+Dialogue: 0,0:03:05.20,0:03:05.74,Cap,,0,0,0,,So does cooked {\c&H0043B7E6&}pasta,{\c&H00FFFFFF&}
+Dialogue: 0,0:03:05.74,0:03:06.70,Cap,,0,0,0,,{\c&H0043B7E6&}plain.{\c&H00FFFFFF&}
+Dialogue: 0,0:03:06.92,0:03:07.22,Cap,,0,0,0,,{\c&H0043B7E6&}Thaw{\c&H00FFFFFF&} them in the
+Dialogue: 0,0:03:07.22,0:03:07.41,Cap,,0,0,0,,Thaw {\c&H0043B7E6&}them{\c&H00FFFFFF&} in the
+Dialogue: 0,0:03:07.41,0:03:07.52,Cap,,0,0,0,,Thaw them {\c&H0043B7E6&}in{\c&H00FFFFFF&} the
+Dialogue: 0,0:03:07.52,0:03:07.64,Cap,,0,0,0,,Thaw them in {\c&H0043B7E6&}the{\c&H00FFFFFF&}
+Dialogue: 0,0:03:07.64,0:03:08.55,Cap,,0,0,0,,{\c&H0043B7E6&}refrigerator,{\c&H00FFFFFF&}
+Dialogue: 0,0:03:08.55,0:03:08.74,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} stir in the
+Dialogue: 0,0:03:08.74,0:03:08.95,Cap,,0,0,0,,and {\c&H0043B7E6&}stir{\c&H00FFFFFF&} in the
+Dialogue: 0,0:03:08.95,0:03:09.03,Cap,,0,0,0,,and stir {\c&H0043B7E6&}in{\c&H00FFFFFF&} the
+Dialogue: 0,0:03:09.03,0:03:09.13,Cap,,0,0,0,,and stir in {\c&H0043B7E6&}the{\c&H00FFFFFF&}
+Dialogue: 0,0:03:09.13,0:03:09.83,Cap,,0,0,0,,{\c&H0043B7E6&}mayonnaise{\c&H00FFFFFF&} and the crunchy
+Dialogue: 0,0:03:09.83,0:03:10.05,Cap,,0,0,0,,mayonnaise {\c&H0043B7E6&}and{\c&H00FFFFFF&} the crunchy
+Dialogue: 0,0:03:10.05,0:03:10.14,Cap,,0,0,0,,mayonnaise and {\c&H0043B7E6&}the{\c&H00FFFFFF&} crunchy
+Dialogue: 0,0:03:10.14,0:03:10.61,Cap,,0,0,0,,mayonnaise and the {\c&H0043B7E6&}crunchy{\c&H00FFFFFF&}
+Dialogue: 0,0:03:10.61,0:03:11.21,Cap,,0,0,0,,{\c&H0043B7E6&}vegetables{\c&H00FFFFFF&} the day you
+Dialogue: 0,0:03:11.21,0:03:11.37,Cap,,0,0,0,,vegetables {\c&H0043B7E6&}the{\c&H00FFFFFF&} day you
+Dialogue: 0,0:03:11.37,0:03:11.54,Cap,,0,0,0,,vegetables the {\c&H0043B7E6&}day{\c&H00FFFFFF&} you
+Dialogue: 0,0:03:11.54,0:03:11.67,Cap,,0,0,0,,vegetables the day {\c&H0043B7E6&}you{\c&H00FFFFFF&}
+Dialogue: 0,0:03:11.67,0:03:11.89,Cap,,0,0,0,,{\c&H0043B7E6&}serve{\c&H00FFFFFF&} it.
+Dialogue: 0,0:03:11.89,0:03:12.58,Cap,,0,0,0,,serve {\c&H0043B7E6&}it.{\c&H00FFFFFF&}
+Dialogue: 0,0:03:13.00,0:03:13.21,Cap,,0,0,0,,{\c&H0043B7E6&}It{\c&H00FFFFFF&} tastes freshly made,
+Dialogue: 0,0:03:13.21,0:03:13.66,Cap,,0,0,0,,It {\c&H0043B7E6&}tastes{\c&H00FFFFFF&} freshly made,
+Dialogue: 0,0:03:13.66,0:03:14.09,Cap,,0,0,0,,It tastes {\c&H0043B7E6&}freshly{\c&H00FFFFFF&} made,
+Dialogue: 0,0:03:14.09,0:03:14.41,Cap,,0,0,0,,It tastes freshly {\c&H0043B7E6&}made,{\c&H00FFFFFF&}
+Dialogue: 0,0:03:14.41,0:03:14.74,Cap,,0,0,0,,{\c&H0043B7E6&}because{\c&H00FFFFFF&} it is.
+Dialogue: 0,0:03:14.74,0:03:14.84,Cap,,0,0,0,,because {\c&H0043B7E6&}it{\c&H00FFFFFF&} is.
+Dialogue: 0,0:03:14.84,0:03:15.64,Cap,,0,0,0,,because it {\c&H0043B7E6&}is.{\c&H00FFFFFF&}
+Dialogue: 0,0:03:15.86,0:03:16.19,Cap,,0,0,0,,{\c&H0043B7E6&}Number{\c&H00FFFFFF&} eight.
+Dialogue: 0,0:03:16.19,0:03:16.96,Cap,,0,0,0,,Number {\c&H0043B7E6&}eight.{\c&H00FFFFFF&}
+Dialogue: 0,0:03:16.96,0:03:17.23,Cap,,0,0,0,,{\c&H0043B7E6&}Eggs{\c&H00FFFFFF&} in the shell.
+Dialogue: 0,0:03:17.23,0:03:17.34,Cap,,0,0,0,,Eggs {\c&H0043B7E6&}in{\c&H00FFFFFF&} the shell.
+Dialogue: 0,0:03:17.34,0:03:17.43,Cap,,0,0,0,,Eggs in {\c&H0043B7E6&}the{\c&H00FFFFFF&} shell.
+Dialogue: 0,0:03:17.43,0:03:18.31,Cap,,0,0,0,,Eggs in the {\c&H0043B7E6&}shell.{\c&H00FFFFFF&}
+Dialogue: 0,0:03:18.73,0:03:18.92,Cap,,0,0,0,,{\c&H0043B7E6&}The{\c&H00FFFFFF&} USDA says shell
+Dialogue: 0,0:03:18.92,0:03:19.85,Cap,,0,0,0,,The {\c&H0043B7E6&}USDA{\c&H00FFFFFF&} says shell
+Dialogue: 0,0:03:19.85,0:03:20.09,Cap,,0,0,0,,The USDA {\c&H0043B7E6&}says{\c&H00FFFFFF&} shell
+Dialogue: 0,0:03:20.09,0:03:20.37,Cap,,0,0,0,,The USDA says {\c&H0043B7E6&}shell{\c&H00FFFFFF&}
+Dialogue: 0,0:03:20.37,0:03:20.58,Cap,,0,0,0,,{\c&H0043B7E6&}eggs{\c&H00FFFFFF&} should not be
+Dialogue: 0,0:03:20.58,0:03:20.80,Cap,,0,0,0,,eggs {\c&H0043B7E6&}should{\c&H00FFFFFF&} not be
+Dialogue: 0,0:03:20.80,0:03:20.96,Cap,,0,0,0,,eggs should {\c&H0043B7E6&}not{\c&H00FFFFFF&} be
+Dialogue: 0,0:03:20.96,0:03:21.08,Cap,,0,0,0,,eggs should not {\c&H0043B7E6&}be{\c&H00FFFFFF&}
+Dialogue: 0,0:03:21.08,0:03:21.94,Cap,,0,0,0,,{\c&H0043B7E6&}frozen.{\c&H00FFFFFF&}
+Dialogue: 0,0:03:21.94,0:03:22.11,Cap,,0,0,0,,{\c&H0043B7E6&}The{\c&H00FFFFFF&} liquid inside expands
+Dialogue: 0,0:03:22.11,0:03:22.44,Cap,,0,0,0,,The {\c&H0043B7E6&}liquid{\c&H00FFFFFF&} inside expands
+Dialogue: 0,0:03:22.44,0:03:22.89,Cap,,0,0,0,,The liquid {\c&H0043B7E6&}inside{\c&H00FFFFFF&} expands
+Dialogue: 0,0:03:22.89,0:03:23.45,Cap,,0,0,0,,The liquid inside {\c&H0043B7E6&}expands{\c&H00FFFFFF&}
+Dialogue: 0,0:03:23.45,0:03:23.57,Cap,,0,0,0,,{\c&H0043B7E6&}as{\c&H00FFFFFF&} it freezes,
+Dialogue: 0,0:03:23.57,0:03:23.70,Cap,,0,0,0,,as {\c&H0043B7E6&}it{\c&H00FFFFFF&} freezes,
+Dialogue: 0,0:03:23.70,0:03:24.51,Cap,,0,0,0,,as it {\c&H0043B7E6&}freezes,{\c&H00FFFFFF&}
+Dialogue: 0,0:03:24.51,0:03:24.69,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} the shell can
+Dialogue: 0,0:03:24.69,0:03:24.80,Cap,,0,0,0,,and {\c&H0043B7E6&}the{\c&H00FFFFFF&} shell can
+Dialogue: 0,0:03:24.80,0:03:25.06,Cap,,0,0,0,,and the {\c&H0043B7E6&}shell{\c&H00FFFFFF&} can
+Dialogue: 0,0:03:25.06,0:03:25.26,Cap,,0,0,0,,and the shell {\c&H0043B7E6&}can{\c&H00FFFFFF&}
+Dialogue: 0,0:03:25.26,0:03:26.18,Cap,,0,0,0,,{\c&H0043B7E6&}crack.{\c&H00FFFFFF&}
+Dialogue: 0,0:03:26.40,0:03:26.58,Cap,,0,0,0,,{\c&H0043B7E6&}If{\c&H00FFFFFF&} an egg accidentally
+Dialogue: 0,0:03:26.58,0:03:26.72,Cap,,0,0,0,,If {\c&H0043B7E6&}an{\c&H00FFFFFF&} egg accidentally
+Dialogue: 0,0:03:26.72,0:03:27.01,Cap,,0,0,0,,If an {\c&H0043B7E6&}egg{\c&H00FFFFFF&} accidentally
+Dialogue: 0,0:03:27.01,0:03:27.67,Cap,,0,0,0,,If an egg {\c&H0043B7E6&}accidentally{\c&H00FFFFFF&}
+Dialogue: 0,0:03:27.67,0:03:28.15,Cap,,0,0,0,,{\c&H0043B7E6&}freezes{\c&H00FFFFFF&} and the shell
+Dialogue: 0,0:03:28.15,0:03:28.27,Cap,,0,0,0,,freezes {\c&H0043B7E6&}and{\c&H00FFFFFF&} the shell
+Dialogue: 0,0:03:28.27,0:03:28.37,Cap,,0,0,0,,freezes and {\c&H0043B7E6&}the{\c&H00FFFFFF&} shell
+Dialogue: 0,0:03:28.37,0:03:28.66,Cap,,0,0,0,,freezes and the {\c&H0043B7E6&}shell{\c&H00FFFFFF&}
+Dialogue: 0,0:03:28.66,0:03:28.85,Cap,,0,0,0,,{\c&H0043B7E6&}has{\c&H00FFFFFF&} cracked,
+Dialogue: 0,0:03:28.85,0:03:29.55,Cap,,0,0,0,,has {\c&H0043B7E6&}cracked,{\c&H00FFFFFF&}
+Dialogue: 0,0:03:29.55,0:03:29.75,Cap,,0,0,0,,{\c&H0043B7E6&}the{\c&H00FFFFFF&} USDA says to
+Dialogue: 0,0:03:29.75,0:03:30.50,Cap,,0,0,0,,the {\c&H0043B7E6&}USDA{\c&H00FFFFFF&} says to
+Dialogue: 0,0:03:30.50,0:03:30.73,Cap,,0,0,0,,the USDA {\c&H0043B7E6&}says{\c&H00FFFFFF&} to
+Dialogue: 0,0:03:30.73,0:03:30.84,Cap,,0,0,0,,the USDA says {\c&H0043B7E6&}to{\c&H00FFFFFF&}
+Dialogue: 0,0:03:30.84,0:03:31.04,Cap,,0,0,0,,{\c&H0043B7E6&}throw{\c&H00FFFFFF&} it away.
+Dialogue: 0,0:03:31.04,0:03:31.12,Cap,,0,0,0,,throw {\c&H0043B7E6&}it{\c&H00FFFFFF&} away.
+Dialogue: 0,0:03:31.12,0:03:31.90,Cap,,0,0,0,,throw it {\c&H0043B7E6&}away.{\c&H00FFFFFF&}
+Dialogue: 0,0:03:32.12,0:03:32.34,Cap,,0,0,0,,{\c&H0043B7E6&}What{\c&H00FFFFFF&} to do instead.
+Dialogue: 0,0:03:32.34,0:03:32.45,Cap,,0,0,0,,What {\c&H0043B7E6&}to{\c&H00FFFFFF&} do instead.
+Dialogue: 0,0:03:32.45,0:03:32.58,Cap,,0,0,0,,What to {\c&H0043B7E6&}do{\c&H00FFFFFF&} instead.
+Dialogue: 0,0:03:32.58,0:03:33.48,Cap,,0,0,0,,What to do {\c&H0043B7E6&}instead.{\c&H00FFFFFF&}
+Dialogue: 0,0:03:33.79,0:03:34.21,Cap,,0,0,0,,{\c&H0043B7E6&}Freeze{\c&H00FFFFFF&} eggs out of
+Dialogue: 0,0:03:34.21,0:03:34.56,Cap,,0,0,0,,Freeze {\c&H0043B7E6&}eggs{\c&H00FFFFFF&} out of
+Dialogue: 0,0:03:34.56,0:03:34.72,Cap,,0,0,0,,Freeze eggs {\c&H0043B7E6&}out{\c&H00FFFFFF&} of
+Dialogue: 0,0:03:34.72,0:03:34.81,Cap,,0,0,0,,Freeze eggs out {\c&H0043B7E6&}of{\c&H00FFFFFF&}
+Dialogue: 0,0:03:34.81,0:03:34.90,Cap,,0,0,0,,{\c&H0043B7E6&}the{\c&H00FFFFFF&} shell.
+Dialogue: 0,0:03:34.90,0:03:35.78,Cap,,0,0,0,,the {\c&H0043B7E6&}shell.{\c&H00FFFFFF&}
+Dialogue: 0,0:03:36.00,0:03:36.22,Cap,,0,0,0,,{\c&H0043B7E6&}Beat{\c&H00FFFFFF&} them gently,
+Dialogue: 0,0:03:36.22,0:03:36.38,Cap,,0,0,0,,Beat {\c&H0043B7E6&}them{\c&H00FFFFFF&} gently,
+Dialogue: 0,0:03:36.38,0:03:37.13,Cap,,0,0,0,,Beat them {\c&H0043B7E6&}gently,{\c&H00FFFFFF&}
+Dialogue: 0,0:03:37.13,0:03:37.37,Cap,,0,0,0,,{\c&H0043B7E6&}pour{\c&H00FFFFFF&} them into an
+Dialogue: 0,0:03:37.37,0:03:37.56,Cap,,0,0,0,,pour {\c&H0043B7E6&}them{\c&H00FFFFFF&} into an
+Dialogue: 0,0:03:37.56,0:03:37.79,Cap,,0,0,0,,pour them {\c&H0043B7E6&}into{\c&H00FFFFFF&} an
+Dialogue: 0,0:03:37.79,0:03:37.91,Cap,,0,0,0,,pour them into {\c&H0043B7E6&}an{\c&H00FFFFFF&}
+Dialogue: 0,0:03:37.91,0:03:38.15,Cap,,0,0,0,,{\c&H0043B7E6&}ice{\c&H00FFFFFF&} cube tray,
+Dialogue: 0,0:03:38.15,0:03:38.38,Cap,,0,0,0,,ice {\c&H0043B7E6&}cube{\c&H00FFFFFF&} tray,
+Dialogue: 0,0:03:38.38,0:03:38.89,Cap,,0,0,0,,ice cube {\c&H0043B7E6&}tray,{\c&H00FFFFFF&}
+Dialogue: 0,0:03:38.89,0:03:39.16,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} each cube becomes
+Dialogue: 0,0:03:39.16,0:03:39.45,Cap,,0,0,0,,and {\c&H0043B7E6&}each{\c&H00FFFFFF&} cube becomes
+Dialogue: 0,0:03:39.45,0:03:40.00,Cap,,0,0,0,,and each {\c&H0043B7E6&}cube{\c&H00FFFFFF&} becomes
+Dialogue: 0,0:03:40.00,0:03:40.57,Cap,,0,0,0,,and each cube {\c&H0043B7E6&}becomes{\c&H00FFFFFF&}
+Dialogue: 0,0:03:40.57,0:03:40.88,Cap,,0,0,0,,{\c&H0043B7E6&}one{\c&H00FFFFFF&} egg for baking.
+Dialogue: 0,0:03:40.88,0:03:41.30,Cap,,0,0,0,,one {\c&H0043B7E6&}egg{\c&H00FFFFFF&} for baking.
+Dialogue: 0,0:03:41.30,0:03:41.51,Cap,,0,0,0,,one egg {\c&H0043B7E6&}for{\c&H00FFFFFF&} baking.
+Dialogue: 0,0:03:41.51,0:03:42.43,Cap,,0,0,0,,one egg for {\c&H0043B7E6&}baking.{\c&H00FFFFFF&}
+Dialogue: 0,0:03:42.75,0:03:42.90,Cap,,0,0,0,,{\c&H0043B7E6&}I{\c&H00FFFFFF&} walked through that
+Dialogue: 0,0:03:42.90,0:03:43.12,Cap,,0,0,0,,I {\c&H0043B7E6&}walked{\c&H00FFFFFF&} through that
+Dialogue: 0,0:03:43.12,0:03:43.51,Cap,,0,0,0,,I walked {\c&H0043B7E6&}through{\c&H00FFFFFF&} that
+Dialogue: 0,0:03:43.51,0:03:43.76,Cap,,0,0,0,,I walked through {\c&H0043B7E6&}that{\c&H00FFFFFF&}
+Dialogue: 0,0:03:43.76,0:03:44.04,Cap,,0,0,0,,{\c&H0043B7E6&}whole{\c&H00FFFFFF&} method in my
+Dialogue: 0,0:03:44.04,0:03:44.59,Cap,,0,0,0,,whole {\c&H0043B7E6&}method{\c&H00FFFFFF&} in my
+Dialogue: 0,0:03:44.59,0:03:44.80,Cap,,0,0,0,,whole method {\c&H0043B7E6&}in{\c&H00FFFFFF&} my
+Dialogue: 0,0:03:44.80,0:03:44.93,Cap,,0,0,0,,whole method in {\c&H0043B7E6&}my{\c&H00FFFFFF&}
+Dialogue: 0,0:03:44.93,0:03:45.48,Cap,,0,0,0,,{\c&H0043B7E6&}video{\c&H00FFFFFF&} on fifteen holiday
+Dialogue: 0,0:03:45.48,0:03:45.76,Cap,,0,0,0,,video {\c&H0043B7E6&}on{\c&H00FFFFFF&} fifteen holiday
+Dialogue: 0,0:03:45.76,0:03:46.25,Cap,,0,0,0,,video on {\c&H0043B7E6&}fifteen{\c&H00FFFFFF&} holiday
+Dialogue: 0,0:03:46.25,0:03:46.65,Cap,,0,0,0,,video on fifteen {\c&H0043B7E6&}holiday{\c&H00FFFFFF&}
+Dialogue: 0,0:03:46.65,0:03:46.98,Cap,,0,0,0,,{\c&H0043B7E6&}foods{\c&H00FFFFFF&} you can freeze,
+Dialogue: 0,0:03:46.98,0:03:47.09,Cap,,0,0,0,,foods {\c&H0043B7E6&}you{\c&H00FFFFFF&} can freeze,
+Dialogue: 0,0:03:47.09,0:03:47.25,Cap,,0,0,0,,foods you {\c&H0043B7E6&}can{\c&H00FFFFFF&} freeze,
+Dialogue: 0,0:03:47.25,0:03:47.65,Cap,,0,0,0,,foods you can {\c&H0043B7E6&}freeze,{\c&H00FFFFFF&}
+Dialogue: 0,0:03:47.65,0:03:48.20,Cap,,0,0,0,,{\c&H0043B7E6&}so{\c&H00FFFFFF&} I'll leave the
+Dialogue: 0,0:03:48.20,0:03:48.43,Cap,,0,0,0,,so {\c&H0043B7E6&}I'll{\c&H00FFFFFF&} leave the
+Dialogue: 0,0:03:48.43,0:03:48.60,Cap,,0,0,0,,so I'll {\c&H0043B7E6&}leave{\c&H00FFFFFF&} the
+Dialogue: 0,0:03:48.60,0:03:48.72,Cap,,0,0,0,,so I'll leave {\c&H0043B7E6&}the{\c&H00FFFFFF&}
+Dialogue: 0,0:03:48.72,0:03:49.11,Cap,,0,0,0,,{\c&H0043B7E6&}details{\c&H00FFFFFF&} there.
+Dialogue: 0,0:03:49.11,0:03:49.50,Cap,,0,0,0,,details {\c&H0043B7E6&}there.{\c&H00FFFFFF&}
+Dialogue: 0,0:03:49.50,0:03:49.76,Cap,,0,0,0,,{\c&H0043B7E6&}Number{\c&H00FFFFFF&} seven.
+Dialogue: 0,0:03:49.76,0:03:50.58,Cap,,0,0,0,,Number {\c&H0043B7E6&}seven.{\c&H00FFFFFF&}
+Dialogue: 0,0:03:50.80,0:03:51.31,Cap,,0,0,0,,{\c&H0043B7E6&}Hard-boiled{\c&H00FFFFFF&} eggs.
+Dialogue: 0,0:03:51.31,0:03:52.31,Cap,,0,0,0,,Hard-boiled {\c&H0043B7E6&}eggs.{\c&H00FFFFFF&}
+Dialogue: 0,0:03:52.54,0:03:52.73,Cap,,0,0,0,,{\c&H0043B7E6&}The{\c&H00FFFFFF&} FoodSafety.gov chart
+Dialogue: 0,0:03:52.73,0:03:53.95,Cap,,0,0,0,,The {\c&H0043B7E6&}FoodSafety.gov{\c&H00FFFFFF&} chart
+Dialogue: 0,0:03:53.95,0:03:54.31,Cap,,0,0,0,,The FoodSafety.gov {\c&H0043B7E6&}chart{\c&H00FFFFFF&}
+Dialogue: 0,0:03:54.31,0:03:54.45,Cap,,0,0,0,,{\c&H0043B7E6&}is{\c&H00FFFFFF&} short and clear
+Dialogue: 0,0:03:54.45,0:03:54.79,Cap,,0,0,0,,is {\c&H0043B7E6&}short{\c&H00FFFFFF&} and clear
+Dialogue: 0,0:03:54.79,0:03:54.97,Cap,,0,0,0,,is short {\c&H0043B7E6&}and{\c&H00FFFFFF&} clear
+Dialogue: 0,0:03:54.97,0:03:55.19,Cap,,0,0,0,,is short and {\c&H0043B7E6&}clear{\c&H00FFFFFF&}
+Dialogue: 0,0:03:55.19,0:03:55.43,Cap,,0,0,0,,{\c&H0043B7E6&}about{\c&H00FFFFFF&} this one.
+Dialogue: 0,0:03:55.43,0:03:55.63,Cap,,0,0,0,,about {\c&H0043B7E6&}this{\c&H00FFFFFF&} one.
+Dialogue: 0,0:03:55.63,0:03:56.33,Cap,,0,0,0,,about this {\c&H0043B7E6&}one.{\c&H00FFFFFF&}
+Dialogue: 0,0:03:56.64,0:03:57.20,Cap,,0,0,0,,{\c&H0043B7E6&}Hard-cooked{\c&H00FFFFFF&} eggs,
+Dialogue: 0,0:03:57.20,0:03:57.85,Cap,,0,0,0,,Hard-cooked {\c&H0043B7E6&}eggs,{\c&H00FFFFFF&}
+Dialogue: 0,0:03:57.85,0:03:58.01,Cap,,0,0,0,,{\c&H0043B7E6&}do{\c&H00FFFFFF&} not freeze.
+Dialogue: 0,0:03:58.01,0:03:58.17,Cap,,0,0,0,,do {\c&H0043B7E6&}not{\c&H00FFFFFF&} freeze.
+Dialogue: 0,0:03:58.17,0:03:59.03,Cap,,0,0,0,,do not {\c&H0043B7E6&}freeze.{\c&H00FFFFFF&}
+Dialogue: 0,0:03:59.17,0:03:59.32,Cap,,0,0,0,,{\c&H0043B7E6&}The{\c&H00FFFFFF&} whites turn tough
+Dialogue: 0,0:03:59.32,0:03:59.65,Cap,,0,0,0,,The {\c&H0043B7E6&}whites{\c&H00FFFFFF&} turn tough
+Dialogue: 0,0:03:59.65,0:03:59.93,Cap,,0,0,0,,The whites {\c&H0043B7E6&}turn{\c&H00FFFFFF&} tough
+Dialogue: 0,0:03:59.93,0:04:00.40,Cap,,0,0,0,,The whites turn {\c&H0043B7E6&}tough{\c&H00FFFFFF&}
+Dialogue: 0,0:04:00.40,0:04:00.66,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} rubbery,
+Dialogue: 0,0:04:00.66,0:04:01.32,Cap,,0,0,0,,and {\c&H0043B7E6&}rubbery,{\c&H00FFFFFF&}
+Dialogue: 0,0:04:01.32,0:04:01.54,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} they come out
+Dialogue: 0,0:04:01.54,0:04:01.69,Cap,,0,0,0,,and {\c&H0043B7E6&}they{\c&H00FFFFFF&} come out
+Dialogue: 0,0:04:01.69,0:04:01.88,Cap,,0,0,0,,and they {\c&H0043B7E6&}come{\c&H00FFFFFF&} out
+Dialogue: 0,0:04:01.88,0:04:02.18,Cap,,0,0,0,,and they come {\c&H0043B7E6&}out{\c&H00FFFFFF&}
+Dialogue: 0,0:04:02.18,0:04:03.17,Cap,,0,0,0,,{\c&H0043B7E6&}watery.{\c&H00FFFFFF&}
+Dialogue: 0,0:04:03.60,0:04:03.79,Cap,,0,0,0,,{\c&H0043B7E6&}What{\c&H00FFFFFF&} to do instead.
+Dialogue: 0,0:04:03.79,0:04:03.89,Cap,,0,0,0,,What {\c&H0043B7E6&}to{\c&H00FFFFFF&} do instead.
+Dialogue: 0,0:04:03.89,0:04:04.02,Cap,,0,0,0,,What to {\c&H0043B7E6&}do{\c&H00FFFFFF&} instead.
+Dialogue: 0,0:04:04.02,0:04:04.98,Cap,,0,0,0,,What to do {\c&H0043B7E6&}instead.{\c&H00FFFFFF&}
+Dialogue: 0,0:04:05.54,0:04:05.93,Cap,,0,0,0,,{\c&H0043B7E6&}Boil{\c&H00FFFFFF&} only what you'll
+Dialogue: 0,0:04:05.93,0:04:06.20,Cap,,0,0,0,,Boil {\c&H0043B7E6&}only{\c&H00FFFFFF&} what you'll
+Dialogue: 0,0:04:06.20,0:04:06.38,Cap,,0,0,0,,Boil only {\c&H0043B7E6&}what{\c&H00FFFFFF&} you'll
+Dialogue: 0,0:04:06.38,0:04:06.62,Cap,,0,0,0,,Boil only what {\c&H0043B7E6&}you'll{\c&H00FFFFFF&}
+Dialogue: 0,0:04:06.62,0:04:06.84,Cap,,0,0,0,,{\c&H0043B7E6&}eat{\c&H00FFFFFF&} in the next
+Dialogue: 0,0:04:06.84,0:04:06.95,Cap,,0,0,0,,eat {\c&H0043B7E6&}in{\c&H00FFFFFF&} the next
+Dialogue: 0,0:04:06.95,0:04:07.05,Cap,,0,0,0,,eat in {\c&H0043B7E6&}the{\c&H00FFFFFF&} next
+Dialogue: 0,0:04:07.05,0:04:07.25,Cap,,0,0,0,,eat in the {\c&H0043B7E6&}next{\c&H00FFFFFF&}
+Dialogue: 0,0:04:07.25,0:04:07.44,Cap,,0,0,0,,{\c&H0043B7E6&}few{\c&H00FFFFFF&} days,
+Dialogue: 0,0:04:07.44,0:04:07.79,Cap,,0,0,0,,few {\c&H0043B7E6&}days,{\c&H00FFFFFF&}
+Dialogue: 0,0:04:07.79,0:04:08.01,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} keep them in
+Dialogue: 0,0:04:08.01,0:04:08.24,Cap,,0,0,0,,and {\c&H0043B7E6&}keep{\c&H00FFFFFF&} them in
+Dialogue: 0,0:04:08.24,0:04:08.50,Cap,,0,0,0,,and keep {\c&H0043B7E6&}them{\c&H00FFFFFF&} in
+Dialogue: 0,0:04:08.50,0:04:08.64,Cap,,0,0,0,,and keep them {\c&H0043B7E6&}in{\c&H00FFFFFF&}
+Dialogue: 0,0:04:08.64,0:04:08.76,Cap,,0,0,0,,{\c&H0043B7E6&}the{\c&H00FFFFFF&} refrigerator.
+Dialogue: 0,0:04:08.76,0:04:09.91,Cap,,0,0,0,,the {\c&H0043B7E6&}refrigerator.{\c&H00FFFFFF&}
+Dialogue: 0,0:04:10.13,0:04:10.27,Cap,,0,0,0,,{\c&H0043B7E6&}If{\c&H00FFFFFF&} you're making deviled
+Dialogue: 0,0:04:10.27,0:04:10.47,Cap,,0,0,0,,If {\c&H0043B7E6&}you're{\c&H00FFFFFF&} making deviled
+Dialogue: 0,0:04:10.47,0:04:10.76,Cap,,0,0,0,,If you're {\c&H0043B7E6&}making{\c&H00FFFFFF&} deviled
+Dialogue: 0,0:04:10.76,0:04:11.17,Cap,,0,0,0,,If you're making {\c&H0043B7E6&}deviled{\c&H00FFFFFF&}
+Dialogue: 0,0:04:11.17,0:04:11.44,Cap,,0,0,0,,{\c&H0043B7E6&}eggs{\c&H00FFFFFF&} for a holiday,
+Dialogue: 0,0:04:11.44,0:04:11.59,Cap,,0,0,0,,eggs {\c&H0043B7E6&}for{\c&H00FFFFFF&} a holiday,
+Dialogue: 0,0:04:11.59,0:04:11.65,Cap,,0,0,0,,eggs for {\c&H0043B7E6&}a{\c&H00FFFFFF&} holiday,
+Dialogue: 0,0:04:11.65,0:04:12.36,Cap,,0,0,0,,eggs for a {\c&H0043B7E6&}holiday,{\c&H00FFFFFF&}
+Dialogue: 0,0:04:12.36,0:04:12.55,Cap,,0,0,0,,{\c&H0043B7E6&}make{\c&H00FFFFFF&} them fresh.
+Dialogue: 0,0:04:12.55,0:04:12.71,Cap,,0,0,0,,make {\c&H0043B7E6&}them{\c&H00FFFFFF&} fresh.
+Dialogue: 0,0:04:12.71,0:04:13.36,Cap,,0,0,0,,make them {\c&H0043B7E6&}fresh.{\c&H00FFFFFF&}
+Dialogue: 0,0:04:13.36,0:04:13.56,Cap,,0,0,0,,{\c&H0043B7E6&}It's{\c&H00FFFFFF&} one of the
+Dialogue: 0,0:04:13.56,0:04:13.69,Cap,,0,0,0,,It's {\c&H0043B7E6&}one{\c&H00FFFFFF&} of the
+Dialogue: 0,0:04:13.69,0:04:13.77,Cap,,0,0,0,,It's one {\c&H0043B7E6&}of{\c&H00FFFFFF&} the
+Dialogue: 0,0:04:13.77,0:04:13.93,Cap,,0,0,0,,It's one of {\c&H0043B7E6&}the{\c&H00FFFFFF&}
+Dialogue: 0,0:04:13.93,0:04:14.23,Cap,,0,0,0,,{\c&H0043B7E6&}few{\c&H00FFFFFF&} things that really
+Dialogue: 0,0:04:14.23,0:04:14.72,Cap,,0,0,0,,few {\c&H0043B7E6&}things{\c&H00FFFFFF&} that really
+Dialogue: 0,0:04:14.72,0:04:14.95,Cap,,0,0,0,,few things {\c&H0043B7E6&}that{\c&H00FFFFFF&} really
+Dialogue: 0,0:04:14.95,0:04:15.24,Cap,,0,0,0,,few things that {\c&H0043B7E6&}really{\c&H00FFFFFF&}
+Dialogue: 0,0:04:15.24,0:04:15.44,Cap,,0,0,0,,{\c&H0043B7E6&}has{\c&H00FFFFFF&} to be.
+Dialogue: 0,0:04:15.44,0:04:15.55,Cap,,0,0,0,,has {\c&H0043B7E6&}to{\c&H00FFFFFF&} be.
+Dialogue: 0,0:04:15.55,0:04:16.37,Cap,,0,0,0,,has to {\c&H0043B7E6&}be.{\c&H00FFFFFF&}
+Dialogue: 0,0:04:16.69,0:04:17.00,Cap,,0,0,0,,{\c&H0043B7E6&}Number{\c&H00FFFFFF&} six.
+Dialogue: 0,0:04:17.00,0:04:17.97,Cap,,0,0,0,,Number {\c&H0043B7E6&}six.{\c&H00FFFFFF&}
+Dialogue: 0,0:04:18.10,0:04:18.50,Cap,,0,0,0,,{\c&H0043B7E6&}Sour{\c&H00FFFFFF&} cream.
+Dialogue: 0,0:04:18.50,0:04:19.43,Cap,,0,0,0,,Sour {\c&H0043B7E6&}cream.{\c&H00FFFFFF&}
+Dialogue: 0,0:04:19.75,0:04:20.64,Cap,,0,0,0,,{\c&H0043B7E6&}Mississippi{\c&H00FFFFFF&} State lists
+Dialogue: 0,0:04:20.64,0:04:21.21,Cap,,0,0,0,,Mississippi {\c&H0043B7E6&}State{\c&H00FFFFFF&} lists
+Dialogue: 0,0:04:21.21,0:04:21.71,Cap,,0,0,0,,Mississippi State {\c&H0043B7E6&}lists{\c&H00FFFFFF&}
+Dialogue: 0,0:04:21.71,0:04:22.08,Cap,,0,0,0,,{\c&H0043B7E6&}sour{\c&H00FFFFFF&} cream on its
+Dialogue: 0,0:04:22.08,0:04:22.79,Cap,,0,0,0,,sour {\c&H0043B7E6&}cream{\c&H00FFFFFF&} on its
+Dialogue: 0,0:04:22.79,0:04:22.98,Cap,,0,0,0,,sour cream {\c&H0043B7E6&}on{\c&H00FFFFFF&} its
+Dialogue: 0,0:04:22.98,0:04:23.14,Cap,,0,0,0,,sour cream on {\c&H0043B7E6&}its{\c&H00FFFFFF&}
+Dialogue: 0,0:04:23.14,0:04:23.74,Cap,,0,0,0,,{\c&H0043B7E6&}do-not-freeze{\c&H00FFFFFF&} list,
+Dialogue: 0,0:04:23.74,0:04:24.42,Cap,,0,0,0,,do-not-freeze {\c&H0043B7E6&}list,{\c&H00FFFFFF&}
+Dialogue: 0,0:04:24.42,0:04:24.68,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} Washington State University
+Dialogue: 0,0:04:24.68,0:04:25.23,Cap,,0,0,0,,and {\c&H0043B7E6&}Washington{\c&H00FFFFFF&} State University
+Dialogue: 0,0:04:25.23,0:04:25.50,Cap,,0,0,0,,and Washington {\c&H0043B7E6&}State{\c&H00FFFFFF&} University
+Dialogue: 0,0:04:25.50,0:04:25.98,Cap,,0,0,0,,and Washington State {\c&H0043B7E6&}University{\c&H00FFFFFF&}
+Dialogue: 0,0:04:25.98,0:04:26.43,Cap,,0,0,0,,{\c&H0043B7E6&}Extension{\c&H00FFFFFF&} says it separates
+Dialogue: 0,0:04:26.43,0:04:27.08,Cap,,0,0,0,,Extension {\c&H0043B7E6&}says{\c&H00FFFFFF&} it separates
+Dialogue: 0,0:04:27.08,0:04:27.33,Cap,,0,0,0,,Extension says {\c&H0043B7E6&}it{\c&H00FFFFFF&} separates
+Dialogue: 0,0:04:27.33,0:04:27.94,Cap,,0,0,0,,Extension says it {\c&H0043B7E6&}separates{\c&H00FFFFFF&}
+Dialogue: 0,0:04:27.94,0:04:28.12,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} turns watery.
+Dialogue: 0,0:04:28.12,0:04:28.43,Cap,,0,0,0,,and {\c&H0043B7E6&}turns{\c&H00FFFFFF&} watery.
+Dialogue: 0,0:04:28.43,0:04:29.44,Cap,,0,0,0,,and turns {\c&H0043B7E6&}watery.{\c&H00FFFFFF&}
+Dialogue: 0,0:04:29.87,0:04:30.17,Cap,,0,0,0,,{\c&H0043B7E6&}North{\c&H00FFFFFF&} Dakota State explains
+Dialogue: 0,0:04:30.17,0:04:30.52,Cap,,0,0,0,,North {\c&H0043B7E6&}Dakota{\c&H00FFFFFF&} State explains
+Dialogue: 0,0:04:30.52,0:04:30.84,Cap,,0,0,0,,North Dakota {\c&H0043B7E6&}State{\c&H00FFFFFF&} explains
+Dialogue: 0,0:04:30.84,0:04:31.36,Cap,,0,0,0,,North Dakota State {\c&H0043B7E6&}explains{\c&H00FFFFFF&}
+Dialogue: 0,0:04:31.36,0:04:32.29,Cap,,0,0,0,,{\c&H0043B7E6&}why.{\c&H00FFFFFF&}
+Dialogue: 0,0:04:32.72,0:04:33.17,Cap,,0,0,0,,{\c&H0043B7E6&}Cultured{\c&H00FFFFFF&} dairy like sour
+Dialogue: 0,0:04:33.17,0:04:33.53,Cap,,0,0,0,,Cultured {\c&H0043B7E6&}dairy{\c&H00FFFFFF&} like sour
+Dialogue: 0,0:04:33.53,0:04:33.73,Cap,,0,0,0,,Cultured dairy {\c&H0043B7E6&}like{\c&H00FFFFFF&} sour
+Dialogue: 0,0:04:33.73,0:04:34.03,Cap,,0,0,0,,Cultured dairy like {\c&H0043B7E6&}sour{\c&H00FFFFFF&}
+Dialogue: 0,0:04:34.03,0:04:34.35,Cap,,0,0,0,,{\c&H0043B7E6&}cream{\c&H00FFFFFF&} and yogurt loses
+Dialogue: 0,0:04:34.35,0:04:34.50,Cap,,0,0,0,,cream {\c&H0043B7E6&}and{\c&H00FFFFFF&} yogurt loses
+Dialogue: 0,0:04:34.50,0:04:35.32,Cap,,0,0,0,,cream and {\c&H0043B7E6&}yogurt{\c&H00FFFFFF&} loses
+Dialogue: 0,0:04:35.32,0:04:35.77,Cap,,0,0,0,,cream and yogurt {\c&H0043B7E6&}loses{\c&H00FFFFFF&}
+Dialogue: 0,0:04:35.77,0:04:35.94,Cap,,0,0,0,,{\c&H0043B7E6&}its{\c&H00FFFFFF&} smooth texture in
+Dialogue: 0,0:04:35.94,0:04:36.36,Cap,,0,0,0,,its {\c&H0043B7E6&}smooth{\c&H00FFFFFF&} texture in
+Dialogue: 0,0:04:36.36,0:04:36.83,Cap,,0,0,0,,its smooth {\c&H0043B7E6&}texture{\c&H00FFFFFF&} in
+Dialogue: 0,0:04:36.83,0:04:36.92,Cap,,0,0,0,,its smooth texture {\c&H0043B7E6&}in{\c&H00FFFFFF&}
+Dialogue: 0,0:04:36.92,0:04:37.03,Cap,,0,0,0,,{\c&H0043B7E6&}the{\c&H00FFFFFF&} freezer and turns
+Dialogue: 0,0:04:37.03,0:04:37.73,Cap,,0,0,0,,the {\c&H0043B7E6&}freezer{\c&H00FFFFFF&} and turns
+Dialogue: 0,0:04:37.73,0:04:37.98,Cap,,0,0,0,,the freezer {\c&H0043B7E6&}and{\c&H00FFFFFF&} turns
+Dialogue: 0,0:04:37.98,0:04:38.36,Cap,,0,0,0,,the freezer and {\c&H0043B7E6&}turns{\c&H00FFFFFF&}
+Dialogue: 0,0:04:38.36,0:04:39.34,Cap,,0,0,0,,{\c&H0043B7E6&}grainy.{\c&H00FFFFFF&}
+Dialogue: 0,0:04:39.34,0:04:39.54,Cap,,0,0,0,,{\c&H0043B7E6&}What{\c&H00FFFFFF&} to do instead.
+Dialogue: 0,0:04:39.54,0:04:39.63,Cap,,0,0,0,,What {\c&H0043B7E6&}to{\c&H00FFFFFF&} do instead.
+Dialogue: 0,0:04:39.63,0:04:39.75,Cap,,0,0,0,,What to {\c&H0043B7E6&}do{\c&H00FFFFFF&} instead.
+Dialogue: 0,0:04:39.75,0:04:40.65,Cap,,0,0,0,,What to do {\c&H0043B7E6&}instead.{\c&H00FFFFFF&}
+Dialogue: 0,0:04:41.07,0:04:41.22,Cap,,0,0,0,,{\c&H0043B7E6&}If{\c&H00FFFFFF&} you need a
+Dialogue: 0,0:04:41.22,0:04:41.33,Cap,,0,0,0,,If {\c&H0043B7E6&}you{\c&H00FFFFFF&} need a
+Dialogue: 0,0:04:41.33,0:04:41.49,Cap,,0,0,0,,If you {\c&H0043B7E6&}need{\c&H00FFFFFF&} a
+Dialogue: 0,0:04:41.49,0:04:41.56,Cap,,0,0,0,,If you need {\c&H0043B7E6&}a{\c&H00FFFFFF&}
+Dialogue: 0,0:04:41.56,0:04:41.95,Cap,,0,0,0,,{\c&H0043B7E6&}dollop{\c&H00FFFFFF&} on a baked
+Dialogue: 0,0:04:41.95,0:04:42.08,Cap,,0,0,0,,dollop {\c&H0043B7E6&}on{\c&H00FFFFFF&} a baked
+Dialogue: 0,0:04:42.08,0:04:42.17,Cap,,0,0,0,,dollop on {\c&H0043B7E6&}a{\c&H00FFFFFF&} baked
+Dialogue: 0,0:04:42.17,0:04:42.45,Cap,,0,0,0,,dollop on a {\c&H0043B7E6&}baked{\c&H00FFFFFF&}
+Dialogue: 0,0:04:42.45,0:04:42.92,Cap,,0,0,0,,{\c&H0043B7E6&}potato{\c&H00FFFFFF&} or a bowl
+Dialogue: 0,0:04:42.92,0:04:43.03,Cap,,0,0,0,,potato {\c&H0043B7E6&}or{\c&H00FFFFFF&} a bowl
+Dialogue: 0,0:04:43.03,0:04:43.09,Cap,,0,0,0,,potato or {\c&H0043B7E6&}a{\c&H00FFFFFF&} bowl
+Dialogue: 0,0:04:43.09,0:04:43.38,Cap,,0,0,0,,potato or a {\c&H0043B7E6&}bowl{\c&H00FFFFFF&}
+Dialogue: 0,0:04:43.38,0:04:43.49,Cap,,0,0,0,,{\c&H0043B7E6&}of{\c&H00FFFFFF&} chili,
+Dialogue: 0,0:04:43.49,0:04:44.26,Cap,,0,0,0,,of {\c&H0043B7E6&}chili,{\c&H00FFFFFF&}
+Dialogue: 0,0:04:44.26,0:04:44.47,Cap,,0,0,0,,{\c&H0043B7E6&}don't{\c&H00FFFFFF&} freeze it.
+Dialogue: 0,0:04:44.47,0:04:44.69,Cap,,0,0,0,,don't {\c&H0043B7E6&}freeze{\c&H00FFFFFF&} it.
+Dialogue: 0,0:04:44.69,0:04:45.38,Cap,,0,0,0,,don't freeze {\c&H0043B7E6&}it.{\c&H00FFFFFF&}
+Dialogue: 0,0:04:45.60,0:04:45.90,Cap,,0,0,0,,{\c&H0043B7E6&}Buy{\c&H00FFFFFF&} the smaller tub.
+Dialogue: 0,0:04:45.90,0:04:46.02,Cap,,0,0,0,,Buy {\c&H0043B7E6&}the{\c&H00FFFFFF&} smaller tub.
+Dialogue: 0,0:04:46.02,0:04:46.34,Cap,,0,0,0,,Buy the {\c&H0043B7E6&}smaller{\c&H00FFFFFF&} tub.
+Dialogue: 0,0:04:46.34,0:04:47.14,Cap,,0,0,0,,Buy the smaller {\c&H0043B7E6&}tub.{\c&H00FFFFFF&}
+Dialogue: 0,0:04:47.70,0:04:47.85,Cap,,0,0,0,,{\c&H0043B7E6&}But{\c&H00FFFFFF&} if a container
+Dialogue: 0,0:04:47.85,0:04:47.96,Cap,,0,0,0,,But {\c&H0043B7E6&}if{\c&H00FFFFFF&} a container
+Dialogue: 0,0:04:47.96,0:04:48.03,Cap,,0,0,0,,But if {\c&H0043B7E6&}a{\c&H00FFFFFF&} container
+Dialogue: 0,0:04:48.03,0:04:48.52,Cap,,0,0,0,,But if a {\c&H0043B7E6&}container{\c&H00FFFFFF&}
+Dialogue: 0,0:04:48.52,0:04:48.66,Cap,,0,0,0,,{\c&H0043B7E6&}is{\c&H00FFFFFF&} about to go
+Dialogue: 0,0:04:48.66,0:04:48.94,Cap,,0,0,0,,is {\c&H0043B7E6&}about{\c&H00FFFFFF&} to go
+Dialogue: 0,0:04:48.94,0:04:49.04,Cap,,0,0,0,,is about {\c&H0043B7E6&}to{\c&H00FFFFFF&} go
+Dialogue: 0,0:04:49.04,0:04:49.19,Cap,,0,0,0,,is about to {\c&H0043B7E6&}go{\c&H00FFFFFF&}
+Dialogue: 0,0:04:49.19,0:04:50.05,Cap,,0,0,0,,{\c&H0043B7E6&}bad,{\c&H00FFFFFF&}
+Dialogue: 0,0:04:50.06,0:04:50.38,Cap,,0,0,0,,{\c&H0043B7E6&}North{\c&H00FFFFFF&} Dakota State says
+Dialogue: 0,0:04:50.38,0:04:50.73,Cap,,0,0,0,,North {\c&H0043B7E6&}Dakota{\c&H00FFFFFF&} State says
+Dialogue: 0,0:04:50.73,0:04:51.09,Cap,,0,0,0,,North Dakota {\c&H0043B7E6&}State{\c&H00FFFFFF&} says
+Dialogue: 0,0:04:51.09,0:04:51.44,Cap,,0,0,0,,North Dakota State {\c&H0043B7E6&}says{\c&H00FFFFFF&}
+Dialogue: 0,0:04:51.44,0:04:51.55,Cap,,0,0,0,,{\c&H0043B7E6&}the{\c&H00FFFFFF&} grainy texture still
+Dialogue: 0,0:04:51.55,0:04:51.91,Cap,,0,0,0,,the {\c&H0043B7E6&}grainy{\c&H00FFFFFF&} texture still
+Dialogue: 0,0:04:51.91,0:04:52.35,Cap,,0,0,0,,the grainy {\c&H0043B7E6&}texture{\c&H00FFFFFF&} still
+Dialogue: 0,0:04:52.35,0:04:52.63,Cap,,0,0,0,,the grainy texture {\c&H0043B7E6&}still{\c&H00FFFFFF&}
+Dialogue: 0,0:04:52.63,0:04:53.23,Cap,,0,0,0,,{\c&H0043B7E6&}works{\c&H00FFFFFF&} in cooking.
+Dialogue: 0,0:04:53.23,0:04:53.44,Cap,,0,0,0,,works {\c&H0043B7E6&}in{\c&H00FFFFFF&} cooking.
+Dialogue: 0,0:04:53.44,0:04:54.29,Cap,,0,0,0,,works in {\c&H0043B7E6&}cooking.{\c&H00FFFFFF&}
+Dialogue: 0,0:04:54.85,0:04:55.03,Cap,,0,0,0,,{\c&H0043B7E6&}So{\c&H00FFFFFF&} you can freeze
+Dialogue: 0,0:04:55.03,0:04:55.12,Cap,,0,0,0,,So {\c&H0043B7E6&}you{\c&H00FFFFFF&} can freeze
+Dialogue: 0,0:04:55.12,0:04:55.26,Cap,,0,0,0,,So you {\c&H0043B7E6&}can{\c&H00FFFFFF&} freeze
+Dialogue: 0,0:04:55.26,0:04:55.51,Cap,,0,0,0,,So you can {\c&H0043B7E6&}freeze{\c&H00FFFFFF&}
+Dialogue: 0,0:04:55.51,0:04:55.61,Cap,,0,0,0,,{\c&H0043B7E6&}it{\c&H00FFFFFF&} for a coffee
+Dialogue: 0,0:04:55.61,0:04:55.76,Cap,,0,0,0,,it {\c&H0043B7E6&}for{\c&H00FFFFFF&} a coffee
+Dialogue: 0,0:04:55.76,0:04:55.83,Cap,,0,0,0,,it for {\c&H0043B7E6&}a{\c&H00FFFFFF&} coffee
+Dialogue: 0,0:04:55.83,0:04:56.18,Cap,,0,0,0,,it for a {\c&H0043B7E6&}coffee{\c&H00FFFFFF&}
+Dialogue: 0,0:04:56.18,0:04:56.76,Cap,,0,0,0,,{\c&H0043B7E6&}cake,{\c&H00FFFFFF&}
+Dialogue: 0,0:04:56.76,0:04:56.88,Cap,,0,0,0,,{\c&H0043B7E6&}a{\c&H00FFFFFF&} casserole or a
+Dialogue: 0,0:04:56.88,0:04:57.53,Cap,,0,0,0,,a {\c&H0043B7E6&}casserole{\c&H00FFFFFF&} or a
+Dialogue: 0,0:04:57.53,0:04:57.71,Cap,,0,0,0,,a casserole {\c&H0043B7E6&}or{\c&H00FFFFFF&} a
+Dialogue: 0,0:04:57.71,0:04:57.79,Cap,,0,0,0,,a casserole or {\c&H0043B7E6&}a{\c&H00FFFFFF&}
+Dialogue: 0,0:04:57.79,0:04:58.55,Cap,,0,0,0,,{\c&H0043B7E6&}soup,{\c&H00FFFFFF&}
+Dialogue: 0,0:04:58.55,0:04:58.81,Cap,,0,0,0,,{\c&H0043B7E6&}where{\c&H00FFFFFF&} no one will
+Dialogue: 0,0:04:58.81,0:04:58.97,Cap,,0,0,0,,where {\c&H0043B7E6&}no{\c&H00FFFFFF&} one will
+Dialogue: 0,0:04:58.97,0:04:59.10,Cap,,0,0,0,,where no {\c&H0043B7E6&}one{\c&H00FFFFFF&} will
+Dialogue: 0,0:04:59.10,0:04:59.27,Cap,,0,0,0,,where no one {\c&H0043B7E6&}will{\c&H00FFFFFF&}
+Dialogue: 0,0:04:59.27,0:04:59.49,Cap,,0,0,0,,{\c&H0043B7E6&}ever{\c&H00FFFFFF&} see the texture.
+Dialogue: 0,0:04:59.49,0:04:59.64,Cap,,0,0,0,,ever {\c&H0043B7E6&}see{\c&H00FFFFFF&} the texture.
+Dialogue: 0,0:04:59.64,0:04:59.75,Cap,,0,0,0,,ever see {\c&H0043B7E6&}the{\c&H00FFFFFF&} texture.
+Dialogue: 0,0:04:59.75,0:05:00.71,Cap,,0,0,0,,ever see the {\c&H0043B7E6&}texture.{\c&H00FFFFFF&}
+Dialogue: 0,0:05:01.12,0:05:01.43,Cap,,0,0,0,,{\c&H0043B7E6&}Before{\c&H00FFFFFF&} we go on,
+Dialogue: 0,0:05:01.43,0:05:01.55,Cap,,0,0,0,,Before {\c&H0043B7E6&}we{\c&H00FFFFFF&} go on,
+Dialogue: 0,0:05:01.55,0:05:01.71,Cap,,0,0,0,,Before we {\c&H0043B7E6&}go{\c&H00FFFFFF&} on,
+Dialogue: 0,0:05:01.71,0:05:02.37,Cap,,0,0,0,,Before we go {\c&H0043B7E6&}on,{\c&H00FFFFFF&}
+Dialogue: 0,0:05:02.37,0:05:02.63,Cap,,0,0,0,,{\c&H0043B7E6&}I'd{\c&H00FFFFFF&} love to hear
+Dialogue: 0,0:05:02.63,0:05:02.94,Cap,,0,0,0,,I'd {\c&H0043B7E6&}love{\c&H00FFFFFF&} to hear
+Dialogue: 0,0:05:02.94,0:05:03.11,Cap,,0,0,0,,I'd love {\c&H0043B7E6&}to{\c&H00FFFFFF&} hear
+Dialogue: 0,0:05:03.11,0:05:03.28,Cap,,0,0,0,,I'd love to {\c&H0043B7E6&}hear{\c&H00FFFFFF&}
+Dialogue: 0,0:05:03.28,0:05:03.44,Cap,,0,0,0,,{\c&H0043B7E6&}from{\c&H00FFFFFF&} you.
+Dialogue: 0,0:05:03.44,0:05:04.06,Cap,,0,0,0,,from {\c&H0043B7E6&}you.{\c&H00FFFFFF&}
+Dialogue: 0,0:05:04.78,0:05:05.09,Cap,,0,0,0,,{\c&H0043B7E6&}What's{\c&H00FFFFFF&} the worst thing
+Dialogue: 0,0:05:05.09,0:05:05.26,Cap,,0,0,0,,What's {\c&H0043B7E6&}the{\c&H00FFFFFF&} worst thing
+Dialogue: 0,0:05:05.26,0:05:05.55,Cap,,0,0,0,,What's the {\c&H0043B7E6&}worst{\c&H00FFFFFF&} thing
+Dialogue: 0,0:05:05.55,0:05:05.75,Cap,,0,0,0,,What's the worst {\c&H0043B7E6&}thing{\c&H00FFFFFF&}
+Dialogue: 0,0:05:05.75,0:05:06.00,Cap,,0,0,0,,{\c&H0043B7E6&}you've{\c&H00FFFFFF&} ever pulled out
+Dialogue: 0,0:05:06.00,0:05:06.30,Cap,,0,0,0,,you've {\c&H0043B7E6&}ever{\c&H00FFFFFF&} pulled out
+Dialogue: 0,0:05:06.30,0:05:06.69,Cap,,0,0,0,,you've ever {\c&H0043B7E6&}pulled{\c&H00FFFFFF&} out
+Dialogue: 0,0:05:06.69,0:05:06.86,Cap,,0,0,0,,you've ever pulled {\c&H0043B7E6&}out{\c&H00FFFFFF&}
+Dialogue: 0,0:05:06.86,0:05:06.95,Cap,,0,0,0,,{\c&H0043B7E6&}of{\c&H00FFFFFF&} your freezer?
+Dialogue: 0,0:05:06.95,0:05:07.09,Cap,,0,0,0,,of {\c&H0043B7E6&}your{\c&H00FFFFFF&} freezer?
+Dialogue: 0,0:05:07.09,0:05:07.98,Cap,,0,0,0,,of your {\c&H0043B7E6&}freezer?{\c&H00FFFFFF&}
+Dialogue: 0,0:05:08.55,0:05:08.83,Cap,,0,0,0,,{\c&H0043B7E6&}Tell{\c&H00FFFFFF&} me in the
+Dialogue: 0,0:05:08.83,0:05:09.08,Cap,,0,0,0,,Tell {\c&H0043B7E6&}me{\c&H00FFFFFF&} in the
+Dialogue: 0,0:05:09.08,0:05:09.32,Cap,,0,0,0,,Tell me {\c&H0043B7E6&}in{\c&H00FFFFFF&} the
+Dialogue: 0,0:05:09.32,0:05:09.42,Cap,,0,0,0,,Tell me in {\c&H0043B7E6&}the{\c&H00FFFFFF&}
+Dialogue: 0,0:05:09.42,0:05:10.45,Cap,,0,0,0,,{\c&H0043B7E6&}comments.{\c&H00FFFFFF&}
+Dialogue: 0,0:05:10.75,0:05:10.94,Cap,,0,0,0,,{\c&H0043B7E6&}I{\c&H00FFFFFF&} read them,
+Dialogue: 0,0:05:10.94,0:05:11.14,Cap,,0,0,0,,I {\c&H0043B7E6&}read{\c&H00FFFFFF&} them,
+Dialogue: 0,0:05:11.14,0:05:11.79,Cap,,0,0,0,,I read {\c&H0043B7E6&}them,{\c&H00FFFFFF&}
+Dialogue: 0,0:05:11.79,0:05:11.97,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} I promise you're
+Dialogue: 0,0:05:11.97,0:05:12.11,Cap,,0,0,0,,and {\c&H0043B7E6&}I{\c&H00FFFFFF&} promise you're
+Dialogue: 0,0:05:12.11,0:05:12.53,Cap,,0,0,0,,and I {\c&H0043B7E6&}promise{\c&H00FFFFFF&} you're
+Dialogue: 0,0:05:12.53,0:05:12.75,Cap,,0,0,0,,and I promise {\c&H0043B7E6&}you're{\c&H00FFFFFF&}
+Dialogue: 0,0:05:12.75,0:05:12.95,Cap,,0,0,0,,{\c&H0043B7E6&}not{\c&H00FFFFFF&} the only one.
+Dialogue: 0,0:05:12.95,0:05:13.07,Cap,,0,0,0,,not {\c&H0043B7E6&}the{\c&H00FFFFFF&} only one.
+Dialogue: 0,0:05:13.07,0:05:13.33,Cap,,0,0,0,,not the {\c&H0043B7E6&}only{\c&H00FFFFFF&} one.
+Dialogue: 0,0:05:13.33,0:05:14.00,Cap,,0,0,0,,not the only {\c&H0043B7E6&}one.{\c&H00FFFFFF&}
+Dialogue: 0,0:05:14.57,0:05:14.87,Cap,,0,0,0,,{\c&H0043B7E6&}Number{\c&H00FFFFFF&} five.
+Dialogue: 0,0:05:14.87,0:05:15.76,Cap,,0,0,0,,Number {\c&H0043B7E6&}five.{\c&H00FFFFFF&}
+Dialogue: 0,0:05:15.98,0:05:16.32,Cap,,0,0,0,,{\c&H0043B7E6&}Cream{\c&H00FFFFFF&} sauces and milk
+Dialogue: 0,0:05:16.32,0:05:16.80,Cap,,0,0,0,,Cream {\c&H0043B7E6&}sauces{\c&H00FFFFFF&} and milk
+Dialogue: 0,0:05:16.80,0:05:16.99,Cap,,0,0,0,,Cream sauces {\c&H0043B7E6&}and{\c&H00FFFFFF&} milk
+Dialogue: 0,0:05:16.99,0:05:17.43,Cap,,0,0,0,,Cream sauces and {\c&H0043B7E6&}milk{\c&H00FFFFFF&}
+Dialogue: 0,0:05:17.43,0:05:18.55,Cap,,0,0,0,,{\c&H0043B7E6&}gravies.{\c&H00FFFFFF&}
+Dialogue: 0,0:05:18.98,0:05:19.18,Cap,,0,0,0,,{\c&H0043B7E6&}The{\c&H00FFFFFF&} USDA names cream
+Dialogue: 0,0:05:19.18,0:05:20.00,Cap,,0,0,0,,The {\c&H0043B7E6&}USDA{\c&H00FFFFFF&} names cream
+Dialogue: 0,0:05:20.00,0:05:20.28,Cap,,0,0,0,,The USDA {\c&H0043B7E6&}names{\c&H00FFFFFF&} cream
+Dialogue: 0,0:05:20.28,0:05:20.57,Cap,,0,0,0,,The USDA names {\c&H0043B7E6&}cream{\c&H00FFFFFF&}
+Dialogue: 0,0:05:20.57,0:05:21.11,Cap,,0,0,0,,{\c&H0043B7E6&}sauce{\c&H00FFFFFF&} as a food
+Dialogue: 0,0:05:21.11,0:05:21.31,Cap,,0,0,0,,sauce {\c&H0043B7E6&}as{\c&H00FFFFFF&} a food
+Dialogue: 0,0:05:21.31,0:05:21.41,Cap,,0,0,0,,sauce as {\c&H0043B7E6&}a{\c&H00FFFFFF&} food
+Dialogue: 0,0:05:21.41,0:05:21.70,Cap,,0,0,0,,sauce as a {\c&H0043B7E6&}food{\c&H00FFFFFF&}
+Dialogue: 0,0:05:21.70,0:05:21.89,Cap,,0,0,0,,{\c&H0043B7E6&}that{\c&H00FFFFFF&} doesn't freeze well.
+Dialogue: 0,0:05:21.89,0:05:22.21,Cap,,0,0,0,,that {\c&H0043B7E6&}doesn't{\c&H00FFFFFF&} freeze well.
+Dialogue: 0,0:05:22.21,0:05:22.48,Cap,,0,0,0,,that doesn't {\c&H0043B7E6&}freeze{\c&H00FFFFFF&} well.
+Dialogue: 0,0:05:22.48,0:05:23.25,Cap,,0,0,0,,that doesn't freeze {\c&H0043B7E6&}well.{\c&H00FFFFFF&}
+Dialogue: 0,0:05:23.67,0:05:24.16,Cap,,0,0,0,,{\c&H0043B7E6&}Washington{\c&H00FFFFFF&} State says milk
+Dialogue: 0,0:05:24.16,0:05:24.58,Cap,,0,0,0,,Washington {\c&H0043B7E6&}State{\c&H00FFFFFF&} says milk
+Dialogue: 0,0:05:24.58,0:05:25.09,Cap,,0,0,0,,Washington State {\c&H0043B7E6&}says{\c&H00FFFFFF&} milk
+Dialogue: 0,0:05:25.09,0:05:25.34,Cap,,0,0,0,,Washington State says {\c&H0043B7E6&}milk{\c&H00FFFFFF&}
+Dialogue: 0,0:05:25.34,0:05:25.79,Cap,,0,0,0,,{\c&H0043B7E6&}sauces{\c&H00FFFFFF&} may curdle or
+Dialogue: 0,0:05:25.79,0:05:25.99,Cap,,0,0,0,,sauces {\c&H0043B7E6&}may{\c&H00FFFFFF&} curdle or
+Dialogue: 0,0:05:25.99,0:05:26.38,Cap,,0,0,0,,sauces may {\c&H0043B7E6&}curdle{\c&H00FFFFFF&} or
+Dialogue: 0,0:05:26.38,0:05:26.57,Cap,,0,0,0,,sauces may curdle {\c&H0043B7E6&}or{\c&H00FFFFFF&}
+Dialogue: 0,0:05:26.57,0:05:27.51,Cap,,0,0,0,,{\c&H0043B7E6&}separate,{\c&H00FFFFFF&}
+Dialogue: 0,0:05:27.51,0:05:27.67,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} the University of
+Dialogue: 0,0:05:27.67,0:05:27.80,Cap,,0,0,0,,and {\c&H0043B7E6&}the{\c&H00FFFFFF&} University of
+Dialogue: 0,0:05:27.80,0:05:28.30,Cap,,0,0,0,,and the {\c&H0043B7E6&}University{\c&H00FFFFFF&} of
+Dialogue: 0,0:05:28.30,0:05:28.38,Cap,,0,0,0,,and the University {\c&H0043B7E6&}of{\c&H00FFFFFF&}
+Dialogue: 0,0:05:28.38,0:05:28.80,Cap,,0,0,0,,{\c&H0043B7E6&}Missouri{\c&H00FFFFFF&} says milk-based
+Dialogue: 0,0:05:28.80,0:05:29.25,Cap,,0,0,0,,Missouri {\c&H0043B7E6&}says{\c&H00FFFFFF&} milk-based
+Dialogue: 0,0:05:29.25,0:05:29.79,Cap,,0,0,0,,Missouri says {\c&H0043B7E6&}milk-based{\c&H00FFFFFF&}
+Dialogue: 0,0:05:29.79,0:05:30.17,Cap,,0,0,0,,{\c&H0043B7E6&}gravies{\c&H00FFFFFF&} can separate too.
+Dialogue: 0,0:05:30.17,0:05:30.32,Cap,,0,0,0,,gravies {\c&H0043B7E6&}can{\c&H00FFFFFF&} separate too.
+Dialogue: 0,0:05:30.32,0:05:30.75,Cap,,0,0,0,,gravies can {\c&H0043B7E6&}separate{\c&H00FFFFFF&} too.
+Dialogue: 0,0:05:30.75,0:05:31.54,Cap,,0,0,0,,gravies can separate {\c&H0043B7E6&}too.{\c&H00FFFFFF&}
+Dialogue: 0,0:05:31.76,0:05:32.02,Cap,,0,0,0,,{\c&H0043B7E6&}That's{\c&H00FFFFFF&} your alfredo,
+Dialogue: 0,0:05:32.02,0:05:32.18,Cap,,0,0,0,,That's {\c&H0043B7E6&}your{\c&H00FFFFFF&} alfredo,
+Dialogue: 0,0:05:32.18,0:05:33.04,Cap,,0,0,0,,That's your {\c&H0043B7E6&}alfredo,{\c&H00FFFFFF&}
+Dialogue: 0,0:05:33.04,0:05:33.22,Cap,,0,0,0,,{\c&H0043B7E6&}your{\c&H00FFFFFF&} white gravy,
+Dialogue: 0,0:05:33.22,0:05:33.44,Cap,,0,0,0,,your {\c&H0043B7E6&}white{\c&H00FFFFFF&} gravy,
+Dialogue: 0,0:05:33.44,0:05:34.26,Cap,,0,0,0,,your white {\c&H0043B7E6&}gravy,{\c&H00FFFFFF&}
+Dialogue: 0,0:05:34.26,0:05:34.44,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} the creamy casserole
+Dialogue: 0,0:05:34.44,0:05:34.54,Cap,,0,0,0,,and {\c&H0043B7E6&}the{\c&H00FFFFFF&} creamy casserole
+Dialogue: 0,0:05:34.54,0:05:34.91,Cap,,0,0,0,,and the {\c&H0043B7E6&}creamy{\c&H00FFFFFF&} casserole
+Dialogue: 0,0:05:34.91,0:05:35.55,Cap,,0,0,0,,and the creamy {\c&H0043B7E6&}casserole{\c&H00FFFFFF&}
+Dialogue: 0,0:05:35.55,0:05:35.74,Cap,,0,0,0,,{\c&H0043B7E6&}you{\c&H00FFFFFF&} made ahead.
+Dialogue: 0,0:05:35.74,0:05:35.92,Cap,,0,0,0,,you {\c&H0043B7E6&}made{\c&H00FFFFFF&} ahead.
+Dialogue: 0,0:05:35.92,0:05:36.83,Cap,,0,0,0,,you made {\c&H0043B7E6&}ahead.{\c&H00FFFFFF&}
+Dialogue: 0,0:05:37.25,0:05:37.47,Cap,,0,0,0,,{\c&H0043B7E6&}What{\c&H00FFFFFF&} to do instead.
+Dialogue: 0,0:05:37.47,0:05:37.57,Cap,,0,0,0,,What {\c&H0043B7E6&}to{\c&H00FFFFFF&} do instead.
+Dialogue: 0,0:05:37.57,0:05:37.69,Cap,,0,0,0,,What to {\c&H0043B7E6&}do{\c&H00FFFFFF&} instead.
+Dialogue: 0,0:05:37.69,0:05:38.69,Cap,,0,0,0,,What to do {\c&H0043B7E6&}instead.{\c&H00FFFFFF&}
+Dialogue: 0,0:05:39.00,0:05:39.35,Cap,,0,0,0,,{\c&H0043B7E6&}Freeze{\c&H00FFFFFF&} the dish without
+Dialogue: 0,0:05:39.35,0:05:39.48,Cap,,0,0,0,,Freeze {\c&H0043B7E6&}the{\c&H00FFFFFF&} dish without
+Dialogue: 0,0:05:39.48,0:05:39.76,Cap,,0,0,0,,Freeze the {\c&H0043B7E6&}dish{\c&H00FFFFFF&} without
+Dialogue: 0,0:05:39.76,0:05:40.05,Cap,,0,0,0,,Freeze the dish {\c&H0043B7E6&}without{\c&H00FFFFFF&}
+Dialogue: 0,0:05:40.05,0:05:40.15,Cap,,0,0,0,,{\c&H0043B7E6&}the{\c&H00FFFFFF&} cream,
+Dialogue: 0,0:05:40.15,0:05:40.52,Cap,,0,0,0,,the {\c&H0043B7E6&}cream,{\c&H00FFFFFF&}
+Dialogue: 0,0:05:40.52,0:05:40.74,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} add it when
+Dialogue: 0,0:05:40.74,0:05:40.99,Cap,,0,0,0,,and {\c&H0043B7E6&}add{\c&H00FFFFFF&} it when
+Dialogue: 0,0:05:40.99,0:05:41.12,Cap,,0,0,0,,and add {\c&H0043B7E6&}it{\c&H00FFFFFF&} when
+Dialogue: 0,0:05:41.12,0:05:41.31,Cap,,0,0,0,,and add it {\c&H0043B7E6&}when{\c&H00FFFFFF&}
+Dialogue: 0,0:05:41.31,0:05:41.43,Cap,,0,0,0,,{\c&H0043B7E6&}you{\c&H00FFFFFF&} reheat.
+Dialogue: 0,0:05:41.43,0:05:42.41,Cap,,0,0,0,,you {\c&H0043B7E6&}reheat.{\c&H00FFFFFF&}
+Dialogue: 0,0:05:42.97,0:05:43.25,Cap,,0,0,0,,{\c&H0043B7E6&}Freeze{\c&H00FFFFFF&} the chicken and
+Dialogue: 0,0:05:43.25,0:05:43.36,Cap,,0,0,0,,Freeze {\c&H0043B7E6&}the{\c&H00FFFFFF&} chicken and
+Dialogue: 0,0:05:43.36,0:05:43.77,Cap,,0,0,0,,Freeze the {\c&H0043B7E6&}chicken{\c&H00FFFFFF&} and
+Dialogue: 0,0:05:43.77,0:05:43.90,Cap,,0,0,0,,Freeze the chicken {\c&H0043B7E6&}and{\c&H00FFFFFF&}
+Dialogue: 0,0:05:43.90,0:05:44.53,Cap,,0,0,0,,{\c&H0043B7E6&}broth,{\c&H00FFFFFF&}
+Dialogue: 0,0:05:44.53,0:05:44.74,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} stir in the
+Dialogue: 0,0:05:44.74,0:05:44.95,Cap,,0,0,0,,and {\c&H0043B7E6&}stir{\c&H00FFFFFF&} in the
+Dialogue: 0,0:05:44.95,0:05:45.04,Cap,,0,0,0,,and stir {\c&H0043B7E6&}in{\c&H00FFFFFF&} the
+Dialogue: 0,0:05:45.04,0:05:45.13,Cap,,0,0,0,,and stir in {\c&H0043B7E6&}the{\c&H00FFFFFF&}
+Dialogue: 0,0:05:45.13,0:05:45.39,Cap,,0,0,0,,{\c&H0043B7E6&}cream{\c&H00FFFFFF&} on the stove.
+Dialogue: 0,0:05:45.39,0:05:45.51,Cap,,0,0,0,,cream {\c&H0043B7E6&}on{\c&H00FFFFFF&} the stove.
+Dialogue: 0,0:05:45.51,0:05:45.61,Cap,,0,0,0,,cream on {\c&H0043B7E6&}the{\c&H00FFFFFF&} stove.
+Dialogue: 0,0:05:45.61,0:05:46.50,Cap,,0,0,0,,cream on the {\c&H0043B7E6&}stove.{\c&H00FFFFFF&}
+Dialogue: 0,0:05:46.72,0:05:46.95,Cap,,0,0,0,,{\c&H0043B7E6&}For{\c&H00FFFFFF&} gravies,
+Dialogue: 0,0:05:46.95,0:05:47.46,Cap,,0,0,0,,For {\c&H0043B7E6&}gravies,{\c&H00FFFFFF&}
+Dialogue: 0,0:05:47.46,0:05:47.59,Cap,,0,0,0,,{\c&H0043B7E6&}a{\c&H00FFFFFF&} broth-based gravy freezes
+Dialogue: 0,0:05:47.59,0:05:48.21,Cap,,0,0,0,,a {\c&H0043B7E6&}broth-based{\c&H00FFFFFF&} gravy freezes
+Dialogue: 0,0:05:48.21,0:05:48.65,Cap,,0,0,0,,a broth-based {\c&H0043B7E6&}gravy{\c&H00FFFFFF&} freezes
+Dialogue: 0,0:05:48.65,0:05:49.11,Cap,,0,0,0,,a broth-based gravy {\c&H0043B7E6&}freezes{\c&H00FFFFFF&}
+Dialogue: 0,0:05:49.11,0:05:49.36,Cap,,0,0,0,,{\c&H0043B7E6&}far{\c&H00FFFFFF&} better than a
+Dialogue: 0,0:05:49.36,0:05:49.65,Cap,,0,0,0,,far {\c&H0043B7E6&}better{\c&H00FFFFFF&} than a
+Dialogue: 0,0:05:49.65,0:05:49.82,Cap,,0,0,0,,far better {\c&H0043B7E6&}than{\c&H00FFFFFF&} a
+Dialogue: 0,0:05:49.82,0:05:49.88,Cap,,0,0,0,,far better than {\c&H0043B7E6&}a{\c&H00FFFFFF&}
+Dialogue: 0,0:05:49.88,0:05:50.07,Cap,,0,0,0,,{\c&H0043B7E6&}milk{\c&H00FFFFFF&} gravy.
+Dialogue: 0,0:05:50.07,0:05:50.94,Cap,,0,0,0,,milk {\c&H0043B7E6&}gravy.{\c&H00FFFFFF&}
+Dialogue: 0,0:05:51.16,0:05:51.32,Cap,,0,0,0,,{\c&H0043B7E6&}And{\c&H00FFFFFF&} the Missouri guide
+Dialogue: 0,0:05:51.32,0:05:51.43,Cap,,0,0,0,,And {\c&H0043B7E6&}the{\c&H00FFFFFF&} Missouri guide
+Dialogue: 0,0:05:51.43,0:05:51.79,Cap,,0,0,0,,And the {\c&H0043B7E6&}Missouri{\c&H00FFFFFF&} guide
+Dialogue: 0,0:05:51.79,0:05:52.13,Cap,,0,0,0,,And the Missouri {\c&H0043B7E6&}guide{\c&H00FFFFFF&}
+Dialogue: 0,0:05:52.13,0:05:52.32,Cap,,0,0,0,,{\c&H0043B7E6&}has{\c&H00FFFFFF&} a trick if
+Dialogue: 0,0:05:52.32,0:05:52.40,Cap,,0,0,0,,has {\c&H0043B7E6&}a{\c&H00FFFFFF&} trick if
+Dialogue: 0,0:05:52.40,0:05:52.72,Cap,,0,0,0,,has a {\c&H0043B7E6&}trick{\c&H00FFFFFF&} if
+Dialogue: 0,0:05:52.72,0:05:52.89,Cap,,0,0,0,,has a trick {\c&H0043B7E6&}if{\c&H00FFFFFF&}
+Dialogue: 0,0:05:52.89,0:05:53.06,Cap,,0,0,0,,{\c&H0043B7E6&}you{\c&H00FFFFFF&} really want to
+Dialogue: 0,0:05:53.06,0:05:53.32,Cap,,0,0,0,,you {\c&H0043B7E6&}really{\c&H00FFFFFF&} want to
+Dialogue: 0,0:05:53.32,0:05:53.51,Cap,,0,0,0,,you really {\c&H0043B7E6&}want{\c&H00FFFFFF&} to
+Dialogue: 0,0:05:53.51,0:05:53.62,Cap,,0,0,0,,you really want {\c&H0043B7E6&}to{\c&H00FFFFFF&}
+Dialogue: 0,0:05:53.62,0:05:53.99,Cap,,0,0,0,,{\c&H0043B7E6&}freeze{\c&H00FFFFFF&} a creamy sauce.
+Dialogue: 0,0:05:53.99,0:05:54.12,Cap,,0,0,0,,freeze {\c&H0043B7E6&}a{\c&H00FFFFFF&} creamy sauce.
+Dialogue: 0,0:05:54.12,0:05:54.43,Cap,,0,0,0,,freeze a {\c&H0043B7E6&}creamy{\c&H00FFFFFF&} sauce.
+Dialogue: 0,0:05:54.43,0:05:55.34,Cap,,0,0,0,,freeze a creamy {\c&H0043B7E6&}sauce.{\c&H00FFFFFF&}
+Dialogue: 0,0:05:55.66,0:05:56.02,Cap,,0,0,0,,{\c&H0043B7E6&}Thicken{\c&H00FFFFFF&} it with waxy
+Dialogue: 0,0:05:56.02,0:05:56.13,Cap,,0,0,0,,Thicken {\c&H0043B7E6&}it{\c&H00FFFFFF&} with waxy
+Dialogue: 0,0:05:56.13,0:05:56.31,Cap,,0,0,0,,Thicken it {\c&H0043B7E6&}with{\c&H00FFFFFF&} waxy
+Dialogue: 0,0:05:56.31,0:05:56.71,Cap,,0,0,0,,Thicken it with {\c&H0043B7E6&}waxy{\c&H00FFFFFF&}
+Dialogue: 0,0:05:56.71,0:05:56.99,Cap,,0,0,0,,{\c&H0043B7E6&}rice{\c&H00FFFFFF&} flour instead of
+Dialogue: 0,0:05:56.99,0:05:57.43,Cap,,0,0,0,,rice {\c&H0043B7E6&}flour{\c&H00FFFFFF&} instead of
+Dialogue: 0,0:05:57.43,0:05:57.73,Cap,,0,0,0,,rice flour {\c&H0043B7E6&}instead{\c&H00FFFFFF&} of
+Dialogue: 0,0:05:57.73,0:05:57.88,Cap,,0,0,0,,rice flour instead {\c&H0043B7E6&}of{\c&H00FFFFFF&}
+Dialogue: 0,0:05:57.88,0:05:58.25,Cap,,0,0,0,,{\c&H0043B7E6&}regular{\c&H00FFFFFF&} flour,
+Dialogue: 0,0:05:58.25,0:05:58.60,Cap,,0,0,0,,regular {\c&H0043B7E6&}flour,{\c&H00FFFFFF&}
+Dialogue: 0,0:05:58.60,0:05:58.73,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} it holds together
+Dialogue: 0,0:05:58.73,0:05:58.86,Cap,,0,0,0,,and {\c&H0043B7E6&}it{\c&H00FFFFFF&} holds together
+Dialogue: 0,0:05:58.86,0:05:59.27,Cap,,0,0,0,,and it {\c&H0043B7E6&}holds{\c&H00FFFFFF&} together
+Dialogue: 0,0:05:59.27,0:05:59.65,Cap,,0,0,0,,and it holds {\c&H0043B7E6&}together{\c&H00FFFFFF&}
+Dialogue: 0,0:05:59.65,0:06:00.18,Cap,,0,0,0,,{\c&H0043B7E6&}better.{\c&H00FFFFFF&}
+Dialogue: 0,0:06:00.18,0:06:00.51,Cap,,0,0,0,,{\c&H0043B7E6&}Number{\c&H00FFFFFF&} four.
+Dialogue: 0,0:06:00.51,0:06:01.35,Cap,,0,0,0,,Number {\c&H0043B7E6&}four.{\c&H00FFFFFF&}
+Dialogue: 0,0:06:01.48,0:06:02.02,Cap,,0,0,0,,{\c&H0043B7E6&}Custard{\c&H00FFFFFF&} and cream pies.
+Dialogue: 0,0:06:02.02,0:06:02.15,Cap,,0,0,0,,Custard {\c&H0043B7E6&}and{\c&H00FFFFFF&} cream pies.
+Dialogue: 0,0:06:02.15,0:06:02.44,Cap,,0,0,0,,Custard and {\c&H0043B7E6&}cream{\c&H00FFFFFF&} pies.
+Dialogue: 0,0:06:02.44,0:06:03.50,Cap,,0,0,0,,Custard and cream {\c&H0043B7E6&}pies.{\c&H00FFFFFF&}
+Dialogue: 0,0:06:03.63,0:06:03.83,Cap,,0,0,0,,{\c&H0043B7E6&}The{\c&H00FFFFFF&} FoodSafety.gov chart
+Dialogue: 0,0:06:03.83,0:06:05.18,Cap,,0,0,0,,The {\c&H0043B7E6&}FoodSafety.gov{\c&H00FFFFFF&} chart
+Dialogue: 0,0:06:05.18,0:06:05.54,Cap,,0,0,0,,The FoodSafety.gov {\c&H0043B7E6&}chart{\c&H00FFFFFF&}
+Dialogue: 0,0:06:05.54,0:06:06.04,Cap,,0,0,0,,{\c&H0043B7E6&}says{\c&H00FFFFFF&} custard and chiffon
+Dialogue: 0,0:06:06.04,0:06:06.49,Cap,,0,0,0,,says {\c&H0043B7E6&}custard{\c&H00FFFFFF&} and chiffon
+Dialogue: 0,0:06:06.49,0:06:06.59,Cap,,0,0,0,,says custard {\c&H0043B7E6&}and{\c&H00FFFFFF&} chiffon
+Dialogue: 0,0:06:06.59,0:06:06.96,Cap,,0,0,0,,says custard and {\c&H0043B7E6&}chiffon{\c&H00FFFFFF&}
+Dialogue: 0,0:06:06.96,0:06:07.84,Cap,,0,0,0,,{\c&H0043B7E6&}pies,{\c&H00FFFFFF&}
+Dialogue: 0,0:06:07.84,0:06:08.08,Cap,,0,0,0,,{\c&H0043B7E6&}do{\c&H00FFFFFF&} not freeze.
+Dialogue: 0,0:06:08.08,0:06:08.35,Cap,,0,0,0,,do {\c&H0043B7E6&}not{\c&H00FFFFFF&} freeze.
+Dialogue: 0,0:06:08.35,0:06:09.30,Cap,,0,0,0,,do not {\c&H0043B7E6&}freeze.{\c&H00FFFFFF&}
+Dialogue: 0,0:06:09.44,0:06:09.59,Cap,,0,0,0,,{\c&H0043B7E6&}The{\c&H00FFFFFF&} University of Missouri
+Dialogue: 0,0:06:09.59,0:06:10.07,Cap,,0,0,0,,The {\c&H0043B7E6&}University{\c&H00FFFFFF&} of Missouri
+Dialogue: 0,0:06:10.07,0:06:10.16,Cap,,0,0,0,,The University {\c&H0043B7E6&}of{\c&H00FFFFFF&} Missouri
+Dialogue: 0,0:06:10.16,0:06:10.47,Cap,,0,0,0,,The University of {\c&H0043B7E6&}Missouri{\c&H00FFFFFF&}
+Dialogue: 0,0:06:10.47,0:06:10.79,Cap,,0,0,0,,{\c&H0043B7E6&}guide{\c&H00FFFFFF&} adds that the
+Dialogue: 0,0:06:10.79,0:06:11.07,Cap,,0,0,0,,guide {\c&H0043B7E6&}adds{\c&H00FFFFFF&} that the
+Dialogue: 0,0:06:11.07,0:06:11.19,Cap,,0,0,0,,guide adds {\c&H0043B7E6&}that{\c&H00FFFFFF&} the
+Dialogue: 0,0:06:11.19,0:06:11.30,Cap,,0,0,0,,guide adds that {\c&H0043B7E6&}the{\c&H00FFFFFF&}
+Dialogue: 0,0:06:11.30,0:06:11.64,Cap,,0,0,0,,{\c&H0043B7E6&}crust{\c&H00FFFFFF&} in a frozen
+Dialogue: 0,0:06:11.64,0:06:11.74,Cap,,0,0,0,,crust {\c&H0043B7E6&}in{\c&H00FFFFFF&} a frozen
+Dialogue: 0,0:06:11.74,0:06:11.83,Cap,,0,0,0,,crust in {\c&H0043B7E6&}a{\c&H00FFFFFF&} frozen
+Dialogue: 0,0:06:11.83,0:06:12.20,Cap,,0,0,0,,crust in a {\c&H0043B7E6&}frozen{\c&H00FFFFFF&}
+Dialogue: 0,0:06:12.20,0:06:12.44,Cap,,0,0,0,,{\c&H0043B7E6&}cream{\c&H00FFFFFF&} pie turns soggy.
+Dialogue: 0,0:06:12.44,0:06:12.74,Cap,,0,0,0,,cream {\c&H0043B7E6&}pie{\c&H00FFFFFF&} turns soggy.
+Dialogue: 0,0:06:12.74,0:06:13.07,Cap,,0,0,0,,cream pie {\c&H0043B7E6&}turns{\c&H00FFFFFF&} soggy.
+Dialogue: 0,0:06:13.07,0:06:13.97,Cap,,0,0,0,,cream pie turns {\c&H0043B7E6&}soggy.{\c&H00FFFFFF&}
+Dialogue: 0,0:06:14.10,0:06:14.24,Cap,,0,0,0,,{\c&H0043B7E6&}It{\c&H00FFFFFF&} also says meringue
+Dialogue: 0,0:06:14.24,0:06:14.49,Cap,,0,0,0,,It {\c&H0043B7E6&}also{\c&H00FFFFFF&} says meringue
+Dialogue: 0,0:06:14.49,0:06:15.03,Cap,,0,0,0,,It also {\c&H0043B7E6&}says{\c&H00FFFFFF&} meringue
+Dialogue: 0,0:06:15.03,0:06:15.35,Cap,,0,0,0,,It also says {\c&H0043B7E6&}meringue{\c&H00FFFFFF&}
+Dialogue: 0,0:06:15.35,0:06:15.75,Cap,,0,0,0,,{\c&H0043B7E6&}toppings{\c&H00FFFFFF&} toughen and stick
+Dialogue: 0,0:06:15.75,0:06:16.34,Cap,,0,0,0,,toppings {\c&H0043B7E6&}toughen{\c&H00FFFFFF&} and stick
+Dialogue: 0,0:06:16.34,0:06:16.62,Cap,,0,0,0,,toppings toughen {\c&H0043B7E6&}and{\c&H00FFFFFF&} stick
+Dialogue: 0,0:06:16.62,0:06:16.88,Cap,,0,0,0,,toppings toughen and {\c&H0043B7E6&}stick{\c&H00FFFFFF&}
+Dialogue: 0,0:06:16.88,0:06:16.97,Cap,,0,0,0,,{\c&H0043B7E6&}to{\c&H00FFFFFF&} the wrapping.
+Dialogue: 0,0:06:16.97,0:06:17.07,Cap,,0,0,0,,to {\c&H0043B7E6&}the{\c&H00FFFFFF&} wrapping.
+Dialogue: 0,0:06:17.07,0:06:17.93,Cap,,0,0,0,,to the {\c&H0043B7E6&}wrapping.{\c&H00FFFFFF&}
+Dialogue: 0,0:06:18.07,0:06:18.33,Cap,,0,0,0,,{\c&H0043B7E6&}What{\c&H00FFFFFF&} to do instead.
+Dialogue: 0,0:06:18.33,0:06:18.45,Cap,,0,0,0,,What {\c&H0043B7E6&}to{\c&H00FFFFFF&} do instead.
+Dialogue: 0,0:06:18.45,0:06:18.59,Cap,,0,0,0,,What to {\c&H0043B7E6&}do{\c&H00FFFFFF&} instead.
+Dialogue: 0,0:06:18.59,0:06:19.47,Cap,,0,0,0,,What to do {\c&H0043B7E6&}instead.{\c&H00FFFFFF&}
+Dialogue: 0,0:06:19.79,0:06:20.15,Cap,,0,0,0,,{\c&H0043B7E6&}Freeze{\c&H00FFFFFF&} the pie crust,
+Dialogue: 0,0:06:20.15,0:06:20.28,Cap,,0,0,0,,Freeze {\c&H0043B7E6&}the{\c&H00FFFFFF&} pie crust,
+Dialogue: 0,0:06:20.28,0:06:20.52,Cap,,0,0,0,,Freeze the {\c&H0043B7E6&}pie{\c&H00FFFFFF&} crust,
+Dialogue: 0,0:06:20.52,0:06:21.09,Cap,,0,0,0,,Freeze the pie {\c&H0043B7E6&}crust,{\c&H00FFFFFF&}
+Dialogue: 0,0:06:21.09,0:06:21.26,Cap,,0,0,0,,{\c&H0043B7E6&}not{\c&H00FFFFFF&} the pie.
+Dialogue: 0,0:06:21.26,0:06:21.37,Cap,,0,0,0,,not {\c&H0043B7E6&}the{\c&H00FFFFFF&} pie.
+Dialogue: 0,0:06:21.37,0:06:22.21,Cap,,0,0,0,,not the {\c&H0043B7E6&}pie.{\c&H00FFFFFF&}
+Dialogue: 0,0:06:22.43,0:06:22.67,Cap,,0,0,0,,{\c&H0043B7E6&}An{\c&H00FFFFFF&} unbaked crust keeps
+Dialogue: 0,0:06:22.67,0:06:23.24,Cap,,0,0,0,,An {\c&H0043B7E6&}unbaked{\c&H00FFFFFF&} crust keeps
+Dialogue: 0,0:06:23.24,0:06:23.68,Cap,,0,0,0,,An unbaked {\c&H0043B7E6&}crust{\c&H00FFFFFF&} keeps
+Dialogue: 0,0:06:23.68,0:06:24.01,Cap,,0,0,0,,An unbaked crust {\c&H0043B7E6&}keeps{\c&H00FFFFFF&}
+Dialogue: 0,0:06:24.01,0:06:24.35,Cap,,0,0,0,,{\c&H0043B7E6&}six{\c&H00FFFFFF&} to eight weeks
+Dialogue: 0,0:06:24.35,0:06:24.53,Cap,,0,0,0,,six {\c&H0043B7E6&}to{\c&H00FFFFFF&} eight weeks
+Dialogue: 0,0:06:24.53,0:06:24.78,Cap,,0,0,0,,six to {\c&H0043B7E6&}eight{\c&H00FFFFFF&} weeks
+Dialogue: 0,0:06:24.78,0:06:25.11,Cap,,0,0,0,,six to eight {\c&H0043B7E6&}weeks{\c&H00FFFFFF&}
+Dialogue: 0,0:06:25.11,0:06:25.23,Cap,,0,0,0,,{\c&H0043B7E6&}in{\c&H00FFFFFF&} the freezer,
+Dialogue: 0,0:06:25.23,0:06:25.34,Cap,,0,0,0,,in {\c&H0043B7E6&}the{\c&H00FFFFFF&} freezer,
+Dialogue: 0,0:06:25.34,0:06:26.20,Cap,,0,0,0,,in the {\c&H0043B7E6&}freezer,{\c&H00FFFFFF&}
+Dialogue: 0,0:06:26.20,0:06:26.35,Cap,,0,0,0,,{\c&H0043B7E6&}by{\c&H00FFFFFF&} the Missouri guide,
+Dialogue: 0,0:06:26.35,0:06:26.44,Cap,,0,0,0,,by {\c&H0043B7E6&}the{\c&H00FFFFFF&} Missouri guide,
+Dialogue: 0,0:06:26.44,0:06:26.78,Cap,,0,0,0,,by the {\c&H0043B7E6&}Missouri{\c&H00FFFFFF&} guide,
+Dialogue: 0,0:06:26.78,0:06:27.41,Cap,,0,0,0,,by the Missouri {\c&H0043B7E6&}guide,{\c&H00FFFFFF&}
+Dialogue: 0,0:06:27.41,0:06:27.58,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} you can bake
+Dialogue: 0,0:06:27.58,0:06:27.69,Cap,,0,0,0,,and {\c&H0043B7E6&}you{\c&H00FFFFFF&} can bake
+Dialogue: 0,0:06:27.69,0:06:27.85,Cap,,0,0,0,,and you {\c&H0043B7E6&}can{\c&H00FFFFFF&} bake
+Dialogue: 0,0:06:27.85,0:06:28.11,Cap,,0,0,0,,and you can {\c&H0043B7E6&}bake{\c&H00FFFFFF&}
+Dialogue: 0,0:06:28.11,0:06:28.21,Cap,,0,0,0,,{\c&H0043B7E6&}it{\c&H00FFFFFF&} without thawing.
+Dialogue: 0,0:06:28.21,0:06:28.49,Cap,,0,0,0,,it {\c&H0043B7E6&}without{\c&H00FFFFFF&} thawing.
+Dialogue: 0,0:06:28.49,0:06:29.37,Cap,,0,0,0,,it without {\c&H0043B7E6&}thawing.{\c&H00FFFFFF&}
+Dialogue: 0,0:06:29.37,0:06:29.62,Cap,,0,0,0,,{\c&H0043B7E6&}Then{\c&H00FFFFFF&} make the custard
+Dialogue: 0,0:06:29.62,0:06:29.80,Cap,,0,0,0,,Then {\c&H0043B7E6&}make{\c&H00FFFFFF&} the custard
+Dialogue: 0,0:06:29.80,0:06:29.91,Cap,,0,0,0,,Then make {\c&H0043B7E6&}the{\c&H00FFFFFF&} custard
+Dialogue: 0,0:06:29.91,0:06:30.39,Cap,,0,0,0,,Then make the {\c&H0043B7E6&}custard{\c&H00FFFFFF&}
+Dialogue: 0,0:06:30.39,0:06:30.58,Cap,,0,0,0,,{\c&H0043B7E6&}or{\c&H00FFFFFF&} cream filling fresh,
+Dialogue: 0,0:06:30.58,0:06:30.96,Cap,,0,0,0,,or {\c&H0043B7E6&}cream{\c&H00FFFFFF&} filling fresh,
+Dialogue: 0,0:06:30.96,0:06:31.40,Cap,,0,0,0,,or cream {\c&H0043B7E6&}filling{\c&H00FFFFFF&} fresh,
+Dialogue: 0,0:06:31.40,0:06:32.27,Cap,,0,0,0,,or cream filling {\c&H0043B7E6&}fresh,{\c&H00FFFFFF&}
+Dialogue: 0,0:06:32.27,0:06:32.42,Cap,,0,0,0,,{\c&H0043B7E6&}the{\c&H00FFFFFF&} day before you
+Dialogue: 0,0:06:32.42,0:06:32.59,Cap,,0,0,0,,the {\c&H0043B7E6&}day{\c&H00FFFFFF&} before you
+Dialogue: 0,0:06:32.59,0:06:32.90,Cap,,0,0,0,,the day {\c&H0043B7E6&}before{\c&H00FFFFFF&} you
+Dialogue: 0,0:06:32.90,0:06:33.02,Cap,,0,0,0,,the day before {\c&H0043B7E6&}you{\c&H00FFFFFF&}
+Dialogue: 0,0:06:33.02,0:06:33.28,Cap,,0,0,0,,{\c&H0043B7E6&}serve{\c&H00FFFFFF&} it.
+Dialogue: 0,0:06:33.28,0:06:34.01,Cap,,0,0,0,,serve {\c&H0043B7E6&}it.{\c&H00FFFFFF&}
+Dialogue: 0,0:06:34.32,0:06:34.62,Cap,,0,0,0,,{\c&H0043B7E6&}Number{\c&H00FFFFFF&} three.
+Dialogue: 0,0:06:34.62,0:06:35.44,Cap,,0,0,0,,Number {\c&H0043B7E6&}three.{\c&H00FFFFFF&}
+Dialogue: 0,0:06:35.66,0:06:36.08,Cap,,0,0,0,,{\c&H0043B7E6&}Boiled{\c&H00FFFFFF&} and baked potatoes.
+Dialogue: 0,0:06:36.08,0:06:36.22,Cap,,0,0,0,,Boiled {\c&H0043B7E6&}and{\c&H00FFFFFF&} baked potatoes.
+Dialogue: 0,0:06:36.22,0:06:36.57,Cap,,0,0,0,,Boiled and {\c&H0043B7E6&}baked{\c&H00FFFFFF&} potatoes.
+Dialogue: 0,0:06:36.57,0:06:37.91,Cap,,0,0,0,,Boiled and baked {\c&H0043B7E6&}potatoes.{\c&H00FFFFFF&}
+Dialogue: 0,0:06:38.33,0:06:38.62,Cap,,0,0,0,,{\c&H0043B7E6&}This{\c&H00FFFFFF&} is the one
+Dialogue: 0,0:06:38.62,0:06:38.76,Cap,,0,0,0,,This {\c&H0043B7E6&}is{\c&H00FFFFFF&} the one
+Dialogue: 0,0:06:38.76,0:06:38.89,Cap,,0,0,0,,This is {\c&H0043B7E6&}the{\c&H00FFFFFF&} one
+Dialogue: 0,0:06:38.89,0:06:39.05,Cap,,0,0,0,,This is the {\c&H0043B7E6&}one{\c&H00FFFFFF&}
+Dialogue: 0,0:06:39.05,0:06:39.20,Cap,,0,0,0,,{\c&H0043B7E6&}that{\c&H00FFFFFF&} looks perfect going
+Dialogue: 0,0:06:39.20,0:06:39.48,Cap,,0,0,0,,that {\c&H0043B7E6&}looks{\c&H00FFFFFF&} perfect going
+Dialogue: 0,0:06:39.48,0:06:39.97,Cap,,0,0,0,,that looks {\c&H0043B7E6&}perfect{\c&H00FFFFFF&} going
+Dialogue: 0,0:06:39.97,0:06:40.27,Cap,,0,0,0,,that looks perfect {\c&H0043B7E6&}going{\c&H00FFFFFF&}
+Dialogue: 0,0:06:40.27,0:06:40.52,Cap,,0,0,0,,{\c&H0043B7E6&}in{\c&H00FFFFFF&} and comes out
+Dialogue: 0,0:06:40.52,0:06:40.72,Cap,,0,0,0,,in {\c&H0043B7E6&}and{\c&H00FFFFFF&} comes out
+Dialogue: 0,0:06:40.72,0:06:41.00,Cap,,0,0,0,,in and {\c&H0043B7E6&}comes{\c&H00FFFFFF&} out
+Dialogue: 0,0:06:41.00,0:06:41.19,Cap,,0,0,0,,in and comes {\c&H0043B7E6&}out{\c&H00FFFFFF&}
+Dialogue: 0,0:06:41.19,0:06:41.41,Cap,,0,0,0,,{\c&H0043B7E6&}like{\c&H00FFFFFF&} wet sand.
+Dialogue: 0,0:06:41.41,0:06:41.72,Cap,,0,0,0,,like {\c&H0043B7E6&}wet{\c&H00FFFFFF&} sand.
+Dialogue: 0,0:06:41.72,0:06:42.73,Cap,,0,0,0,,like wet {\c&H0043B7E6&}sand.{\c&H00FFFFFF&}
+Dialogue: 0,0:06:43.16,0:06:43.31,Cap,,0,0,0,,{\c&H0043B7E6&}A{\c&H00FFFFFF&} freeze-ahead guide from
+Dialogue: 0,0:06:43.31,0:06:43.85,Cap,,0,0,0,,A {\c&H0043B7E6&}freeze-ahead{\c&H00FFFFFF&} guide from
+Dialogue: 0,0:06:43.85,0:06:44.16,Cap,,0,0,0,,A freeze-ahead {\c&H0043B7E6&}guide{\c&H00FFFFFF&} from
+Dialogue: 0,0:06:44.16,0:06:44.34,Cap,,0,0,0,,A freeze-ahead guide {\c&H0043B7E6&}from{\c&H00FFFFFF&}
+Dialogue: 0,0:06:44.34,0:06:44.79,Cap,,0,0,0,,{\c&H0043B7E6&}Washington{\c&H00FFFFFF&} State University
+Dialogue: 0,0:06:44.79,0:06:45.04,Cap,,0,0,0,,Washington {\c&H0043B7E6&}State{\c&H00FFFFFF&} University
+Dialogue: 0,0:06:45.04,0:06:45.51,Cap,,0,0,0,,Washington State {\c&H0043B7E6&}University{\c&H00FFFFFF&}
+Dialogue: 0,0:06:45.51,0:06:46.45,Cap,,0,0,0,,{\c&H0043B7E6&}Extension{\c&H00FFFFFF&} lists boiled
+Dialogue: 0,0:06:46.45,0:06:46.88,Cap,,0,0,0,,Extension {\c&H0043B7E6&}lists{\c&H00FFFFFF&} boiled
+Dialogue: 0,0:06:46.88,0:06:47.30,Cap,,0,0,0,,Extension lists {\c&H0043B7E6&}boiled{\c&H00FFFFFF&}
+Dialogue: 0,0:06:47.30,0:06:47.47,Cap,,0,0,0,,{\c&H0043B7E6&}or{\c&H00FFFFFF&} baked potatoes as
+Dialogue: 0,0:06:47.47,0:06:47.76,Cap,,0,0,0,,or {\c&H0043B7E6&}baked{\c&H00FFFFFF&} potatoes as
+Dialogue: 0,0:06:47.76,0:06:48.70,Cap,,0,0,0,,or baked {\c&H0043B7E6&}potatoes{\c&H00FFFFFF&} as
+Dialogue: 0,0:06:48.70,0:06:49.00,Cap,,0,0,0,,or baked potatoes {\c&H0043B7E6&}as{\c&H00FFFFFF&}
+Dialogue: 0,0:06:49.00,0:06:49.31,Cap,,0,0,0,,{\c&H0043B7E6&}foods{\c&H00FFFFFF&} that don't freeze
+Dialogue: 0,0:06:49.31,0:06:49.49,Cap,,0,0,0,,foods {\c&H0043B7E6&}that{\c&H00FFFFFF&} don't freeze
+Dialogue: 0,0:06:49.49,0:06:49.76,Cap,,0,0,0,,foods that {\c&H0043B7E6&}don't{\c&H00FFFFFF&} freeze
+Dialogue: 0,0:06:49.76,0:06:50.07,Cap,,0,0,0,,foods that don't {\c&H0043B7E6&}freeze{\c&H00FFFFFF&}
+Dialogue: 0,0:06:50.07,0:06:50.81,Cap,,0,0,0,,{\c&H0043B7E6&}well,{\c&H00FFFFFF&}
+Dialogue: 0,0:06:50.81,0:06:50.99,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} describes them after
+Dialogue: 0,0:06:50.99,0:06:51.43,Cap,,0,0,0,,and {\c&H0043B7E6&}describes{\c&H00FFFFFF&} them after
+Dialogue: 0,0:06:51.43,0:06:51.60,Cap,,0,0,0,,and describes {\c&H0043B7E6&}them{\c&H00FFFFFF&} after
+Dialogue: 0,0:06:51.60,0:06:52.06,Cap,,0,0,0,,and describes them {\c&H0043B7E6&}after{\c&H00FFFFFF&}
+Dialogue: 0,0:06:52.06,0:06:52.58,Cap,,0,0,0,,{\c&H0043B7E6&}thawing{\c&H00FFFFFF&} as soft,
+Dialogue: 0,0:06:52.58,0:06:53.07,Cap,,0,0,0,,thawing {\c&H0043B7E6&}as{\c&H00FFFFFF&} soft,
+Dialogue: 0,0:06:53.07,0:06:53.56,Cap,,0,0,0,,thawing as {\c&H0043B7E6&}soft,{\c&H00FFFFFF&}
+Dialogue: 0,0:06:53.56,0:06:54.05,Cap,,0,0,0,,{\c&H0043B7E6&}crumbly,{\c&H00FFFFFF&}
+Dialogue: 0,0:06:54.05,0:06:54.65,Cap,,0,0,0,,{\c&H0043B7E6&}waterlogged{\c&H00FFFFFF&} and mealy.
+Dialogue: 0,0:06:54.65,0:06:54.78,Cap,,0,0,0,,waterlogged {\c&H0043B7E6&}and{\c&H00FFFFFF&} mealy.
+Dialogue: 0,0:06:54.78,0:06:55.70,Cap,,0,0,0,,waterlogged and {\c&H0043B7E6&}mealy.{\c&H00FFFFFF&}
+Dialogue: 0,0:06:56.02,0:06:56.23,Cap,,0,0,0,,{\c&H0043B7E6&}That's{\c&H00FFFFFF&} what happens to
+Dialogue: 0,0:06:56.23,0:06:56.38,Cap,,0,0,0,,That's {\c&H0043B7E6&}what{\c&H00FFFFFF&} happens to
+Dialogue: 0,0:06:56.38,0:06:56.76,Cap,,0,0,0,,That's what {\c&H0043B7E6&}happens{\c&H00FFFFFF&} to
+Dialogue: 0,0:06:56.76,0:06:56.89,Cap,,0,0,0,,That's what happens {\c&H0043B7E6&}to{\c&H00FFFFFF&}
+Dialogue: 0,0:06:56.89,0:06:56.99,Cap,,0,0,0,,{\c&H0043B7E6&}the{\c&H00FFFFFF&} potatoes in your
+Dialogue: 0,0:06:56.99,0:06:57.63,Cap,,0,0,0,,the {\c&H0043B7E6&}potatoes{\c&H00FFFFFF&} in your
+Dialogue: 0,0:06:57.63,0:06:57.78,Cap,,0,0,0,,the potatoes {\c&H0043B7E6&}in{\c&H00FFFFFF&} your
+Dialogue: 0,0:06:57.78,0:06:57.93,Cap,,0,0,0,,the potatoes in {\c&H0043B7E6&}your{\c&H00FFFFFF&}
+Dialogue: 0,0:06:57.93,0:06:58.57,Cap,,0,0,0,,{\c&H0043B7E6&}soup,{\c&H00FFFFFF&}
+Dialogue: 0,0:06:58.57,0:06:58.77,Cap,,0,0,0,,{\c&H0043B7E6&}your{\c&H00FFFFFF&} stew and your
+Dialogue: 0,0:06:58.77,0:06:59.26,Cap,,0,0,0,,your {\c&H0043B7E6&}stew{\c&H00FFFFFF&} and your
+Dialogue: 0,0:06:59.26,0:06:59.49,Cap,,0,0,0,,your stew {\c&H0043B7E6&}and{\c&H00FFFFFF&} your
+Dialogue: 0,0:06:59.49,0:06:59.64,Cap,,0,0,0,,your stew and {\c&H0043B7E6&}your{\c&H00FFFFFF&}
+Dialogue: 0,0:06:59.64,0:07:00.09,Cap,,0,0,0,,{\c&H0043B7E6&}leftover{\c&H00FFFFFF&} baked potato.
+Dialogue: 0,0:07:00.09,0:07:00.35,Cap,,0,0,0,,leftover {\c&H0043B7E6&}baked{\c&H00FFFFFF&} potato.
+Dialogue: 0,0:07:00.35,0:07:01.36,Cap,,0,0,0,,leftover baked {\c&H0043B7E6&}potato.{\c&H00FFFFFF&}
+Dialogue: 0,0:07:01.59,0:07:01.80,Cap,,0,0,0,,{\c&H0043B7E6&}What{\c&H00FFFFFF&} to do instead.
+Dialogue: 0,0:07:01.80,0:07:01.91,Cap,,0,0,0,,What {\c&H0043B7E6&}to{\c&H00FFFFFF&} do instead.
+Dialogue: 0,0:07:01.91,0:07:02.03,Cap,,0,0,0,,What to {\c&H0043B7E6&}do{\c&H00FFFFFF&} instead.
+Dialogue: 0,0:07:02.03,0:07:02.96,Cap,,0,0,0,,What to do {\c&H0043B7E6&}instead.{\c&H00FFFFFF&}
+Dialogue: 0,0:07:03.52,0:07:03.86,Cap,,0,0,0,,{\c&H0043B7E6&}Mashed{\c&H00FFFFFF&} potatoes are a
+Dialogue: 0,0:07:03.86,0:07:04.53,Cap,,0,0,0,,Mashed {\c&H0043B7E6&}potatoes{\c&H00FFFFFF&} are a
+Dialogue: 0,0:07:04.53,0:07:04.78,Cap,,0,0,0,,Mashed potatoes {\c&H0043B7E6&}are{\c&H00FFFFFF&} a
+Dialogue: 0,0:07:04.78,0:07:04.92,Cap,,0,0,0,,Mashed potatoes are {\c&H0043B7E6&}a{\c&H00FFFFFF&}
+Dialogue: 0,0:07:04.92,0:07:05.25,Cap,,0,0,0,,{\c&H0043B7E6&}different{\c&H00FFFFFF&} story.
+Dialogue: 0,0:07:05.25,0:07:06.11,Cap,,0,0,0,,different {\c&H0043B7E6&}story.{\c&H00FFFFFF&}
+Dialogue: 0,0:07:06.67,0:07:06.82,Cap,,0,0,0,,{\c&H0043B7E6&}The{\c&H00FFFFFF&} same Washington State
+Dialogue: 0,0:07:06.82,0:07:07.04,Cap,,0,0,0,,The {\c&H0043B7E6&}same{\c&H00FFFFFF&} Washington State
+Dialogue: 0,0:07:07.04,0:07:07.55,Cap,,0,0,0,,The same {\c&H0043B7E6&}Washington{\c&H00FFFFFF&} State
+Dialogue: 0,0:07:07.55,0:07:07.88,Cap,,0,0,0,,The same Washington {\c&H0043B7E6&}State{\c&H00FFFFFF&}
+Dialogue: 0,0:07:07.88,0:07:08.62,Cap,,0,0,0,,{\c&H0043B7E6&}guide{\c&H00FFFFFF&} lists mashed potatoes
+Dialogue: 0,0:07:08.62,0:07:09.07,Cap,,0,0,0,,guide {\c&H0043B7E6&}lists{\c&H00FFFFFF&} mashed potatoes
+Dialogue: 0,0:07:09.07,0:07:09.38,Cap,,0,0,0,,guide lists {\c&H0043B7E6&}mashed{\c&H00FFFFFF&} potatoes
+Dialogue: 0,0:07:09.38,0:07:10.12,Cap,,0,0,0,,guide lists mashed {\c&H0043B7E6&}potatoes{\c&H00FFFFFF&}
+Dialogue: 0,0:07:10.12,0:07:10.32,Cap,,0,0,0,,{\c&H0043B7E6&}as{\c&H00FFFFFF&} a freeze-ahead food.
+Dialogue: 0,0:07:10.32,0:07:10.41,Cap,,0,0,0,,as {\c&H0043B7E6&}a{\c&H00FFFFFF&} freeze-ahead food.
+Dialogue: 0,0:07:10.41,0:07:10.98,Cap,,0,0,0,,as a {\c&H0043B7E6&}freeze-ahead{\c&H00FFFFFF&} food.
+Dialogue: 0,0:07:10.98,0:07:11.85,Cap,,0,0,0,,as a freeze-ahead {\c&H0043B7E6&}food.{\c&H00FFFFFF&}
+Dialogue: 0,0:07:12.16,0:07:12.31,Cap,,0,0,0,,{\c&H0043B7E6&}And{\c&H00FFFFFF&} if you're freezing
+Dialogue: 0,0:07:12.31,0:07:12.39,Cap,,0,0,0,,And {\c&H0043B7E6&}if{\c&H00FFFFFF&} you're freezing
+Dialogue: 0,0:07:12.39,0:07:12.58,Cap,,0,0,0,,And if {\c&H0043B7E6&}you're{\c&H00FFFFFF&} freezing
+Dialogue: 0,0:07:12.58,0:07:13.01,Cap,,0,0,0,,And if you're {\c&H0043B7E6&}freezing{\c&H00FFFFFF&}
+Dialogue: 0,0:07:13.01,0:07:13.27,Cap,,0,0,0,,{\c&H0043B7E6&}soup{\c&H00FFFFFF&} or stew,
+Dialogue: 0,0:07:13.27,0:07:13.43,Cap,,0,0,0,,soup {\c&H0043B7E6&}or{\c&H00FFFFFF&} stew,
+Dialogue: 0,0:07:13.43,0:07:14.22,Cap,,0,0,0,,soup or {\c&H0043B7E6&}stew,{\c&H00FFFFFF&}
+Dialogue: 0,0:07:14.22,0:07:14.47,Cap,,0,0,0,,{\c&H0043B7E6&}leave{\c&H00FFFFFF&} the potatoes out.
+Dialogue: 0,0:07:14.47,0:07:14.57,Cap,,0,0,0,,leave {\c&H0043B7E6&}the{\c&H00FFFFFF&} potatoes out.
+Dialogue: 0,0:07:14.57,0:07:14.99,Cap,,0,0,0,,leave the {\c&H0043B7E6&}potatoes{\c&H00FFFFFF&} out.
+Dialogue: 0,0:07:14.99,0:07:15.70,Cap,,0,0,0,,leave the potatoes {\c&H0043B7E6&}out.{\c&H00FFFFFF&}
+Dialogue: 0,0:07:15.76,0:07:16.02,Cap,,0,0,0,,{\c&H0043B7E6&}Add{\c&H00FFFFFF&} freshly cooked potatoes
+Dialogue: 0,0:07:16.02,0:07:16.42,Cap,,0,0,0,,Add {\c&H0043B7E6&}freshly{\c&H00FFFFFF&} cooked potatoes
+Dialogue: 0,0:07:16.42,0:07:16.62,Cap,,0,0,0,,Add freshly {\c&H0043B7E6&}cooked{\c&H00FFFFFF&} potatoes
+Dialogue: 0,0:07:16.62,0:07:17.18,Cap,,0,0,0,,Add freshly cooked {\c&H0043B7E6&}potatoes{\c&H00FFFFFF&}
+Dialogue: 0,0:07:17.18,0:07:17.37,Cap,,0,0,0,,{\c&H0043B7E6&}when{\c&H00FFFFFF&} you reheat it,
+Dialogue: 0,0:07:17.37,0:07:17.51,Cap,,0,0,0,,when {\c&H0043B7E6&}you{\c&H00FFFFFF&} reheat it,
+Dialogue: 0,0:07:17.51,0:07:17.83,Cap,,0,0,0,,when you {\c&H0043B7E6&}reheat{\c&H00FFFFFF&} it,
+Dialogue: 0,0:07:17.83,0:07:18.31,Cap,,0,0,0,,when you reheat {\c&H0043B7E6&}it,{\c&H00FFFFFF&}
+Dialogue: 0,0:07:18.31,0:07:18.53,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} it'll taste the
+Dialogue: 0,0:07:18.53,0:07:18.76,Cap,,0,0,0,,and {\c&H0043B7E6&}it'll{\c&H00FFFFFF&} taste the
+Dialogue: 0,0:07:18.76,0:07:19.10,Cap,,0,0,0,,and it'll {\c&H0043B7E6&}taste{\c&H00FFFFFF&} the
+Dialogue: 0,0:07:19.10,0:07:19.21,Cap,,0,0,0,,and it'll taste {\c&H0043B7E6&}the{\c&H00FFFFFF&}
+Dialogue: 0,0:07:19.21,0:07:19.36,Cap,,0,0,0,,{\c&H0043B7E6&}way{\c&H00FFFFFF&} it should.
+Dialogue: 0,0:07:19.36,0:07:19.44,Cap,,0,0,0,,way {\c&H0043B7E6&}it{\c&H00FFFFFF&} should.
+Dialogue: 0,0:07:19.44,0:07:20.26,Cap,,0,0,0,,way it {\c&H0043B7E6&}should.{\c&H00FFFFFF&}
+Dialogue: 0,0:07:20.69,0:07:21.02,Cap,,0,0,0,,{\c&H0043B7E6&}Number{\c&H00FFFFFF&} two.
+Dialogue: 0,0:07:21.02,0:07:21.75,Cap,,0,0,0,,Number {\c&H0043B7E6&}two.{\c&H00FFFFFF&}
+Dialogue: 0,0:07:21.88,0:07:22.18,Cap,,0,0,0,,{\c&H0043B7E6&}Cooked{\c&H00FFFFFF&} pasta and rice
+Dialogue: 0,0:07:22.18,0:07:22.64,Cap,,0,0,0,,Cooked {\c&H0043B7E6&}pasta{\c&H00FFFFFF&} and rice
+Dialogue: 0,0:07:22.64,0:07:22.82,Cap,,0,0,0,,Cooked pasta {\c&H0043B7E6&}and{\c&H00FFFFFF&} rice
+Dialogue: 0,0:07:22.82,0:07:23.21,Cap,,0,0,0,,Cooked pasta and {\c&H0043B7E6&}rice{\c&H00FFFFFF&}
+Dialogue: 0,0:07:23.21,0:07:23.36,Cap,,0,0,0,,{\c&H0043B7E6&}in{\c&H00FFFFFF&} a sauce.
+Dialogue: 0,0:07:23.36,0:07:23.47,Cap,,0,0,0,,in {\c&H0043B7E6&}a{\c&H00FFFFFF&} sauce.
+Dialogue: 0,0:07:23.47,0:07:24.43,Cap,,0,0,0,,in a {\c&H0043B7E6&}sauce.{\c&H00FFFFFF&}
+Dialogue: 0,0:07:24.86,0:07:25.36,Cap,,0,0,0,,{\c&H0043B7E6&}Washington{\c&H00FFFFFF&} State lists
+Dialogue: 0,0:07:25.36,0:07:25.79,Cap,,0,0,0,,Washington {\c&H0043B7E6&}State{\c&H00FFFFFF&} lists
+Dialogue: 0,0:07:25.79,0:07:26.45,Cap,,0,0,0,,Washington State {\c&H0043B7E6&}lists{\c&H00FFFFFF&}
+Dialogue: 0,0:07:26.45,0:07:26.74,Cap,,0,0,0,,{\c&H0043B7E6&}cooked{\c&H00FFFFFF&} macaroni,
+Dialogue: 0,0:07:26.74,0:07:27.40,Cap,,0,0,0,,cooked {\c&H0043B7E6&}macaroni,{\c&H00FFFFFF&}
+Dialogue: 0,0:07:27.40,0:07:28.10,Cap,,0,0,0,,{\c&H0043B7E6&}spaghetti{\c&H00FFFFFF&} and rice as
+Dialogue: 0,0:07:28.10,0:07:28.32,Cap,,0,0,0,,spaghetti {\c&H0043B7E6&}and{\c&H00FFFFFF&} rice as
+Dialogue: 0,0:07:28.32,0:07:28.73,Cap,,0,0,0,,spaghetti and {\c&H0043B7E6&}rice{\c&H00FFFFFF&} as
+Dialogue: 0,0:07:28.73,0:07:28.95,Cap,,0,0,0,,spaghetti and rice {\c&H0043B7E6&}as{\c&H00FFFFFF&}
+Dialogue: 0,0:07:28.95,0:07:29.31,Cap,,0,0,0,,{\c&H0043B7E6&}foods{\c&H00FFFFFF&} that turn mushy
+Dialogue: 0,0:07:29.31,0:07:29.49,Cap,,0,0,0,,foods {\c&H0043B7E6&}that{\c&H00FFFFFF&} turn mushy
+Dialogue: 0,0:07:29.49,0:07:29.73,Cap,,0,0,0,,foods that {\c&H0043B7E6&}turn{\c&H00FFFFFF&} mushy
+Dialogue: 0,0:07:29.73,0:07:30.27,Cap,,0,0,0,,foods that turn {\c&H0043B7E6&}mushy{\c&H00FFFFFF&}
+Dialogue: 0,0:07:30.27,0:07:30.77,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} taste warmed over
+Dialogue: 0,0:07:30.77,0:07:31.10,Cap,,0,0,0,,and {\c&H0043B7E6&}taste{\c&H00FFFFFF&} warmed over
+Dialogue: 0,0:07:31.10,0:07:31.39,Cap,,0,0,0,,and taste {\c&H0043B7E6&}warmed{\c&H00FFFFFF&} over
+Dialogue: 0,0:07:31.39,0:07:31.60,Cap,,0,0,0,,and taste warmed {\c&H0043B7E6&}over{\c&H00FFFFFF&}
+Dialogue: 0,0:07:31.60,0:07:31.86,Cap,,0,0,0,,{\c&H0043B7E6&}after{\c&H00FFFFFF&} freezing.
+Dialogue: 0,0:07:31.86,0:07:32.76,Cap,,0,0,0,,after {\c&H0043B7E6&}freezing.{\c&H00FFFFFF&}
+Dialogue: 0,0:07:33.33,0:07:33.62,Cap,,0,0,0,,{\c&H0043B7E6&}Sitting{\c&H00FFFFFF&} in sauce or
+Dialogue: 0,0:07:33.62,0:07:33.73,Cap,,0,0,0,,Sitting {\c&H0043B7E6&}in{\c&H00FFFFFF&} sauce or
+Dialogue: 0,0:07:33.73,0:07:34.04,Cap,,0,0,0,,Sitting in {\c&H0043B7E6&}sauce{\c&H00FFFFFF&} or
+Dialogue: 0,0:07:34.04,0:07:34.16,Cap,,0,0,0,,Sitting in sauce {\c&H0043B7E6&}or{\c&H00FFFFFF&}
+Dialogue: 0,0:07:34.16,0:07:34.73,Cap,,0,0,0,,{\c&H0043B7E6&}broth{\c&H00FFFFFF&} makes it worse,
+Dialogue: 0,0:07:34.73,0:07:34.99,Cap,,0,0,0,,broth {\c&H0043B7E6&}makes{\c&H00FFFFFF&} it worse,
+Dialogue: 0,0:07:34.99,0:07:35.11,Cap,,0,0,0,,broth makes {\c&H0043B7E6&}it{\c&H00FFFFFF&} worse,
+Dialogue: 0,0:07:35.11,0:07:35.82,Cap,,0,0,0,,broth makes it {\c&H0043B7E6&}worse,{\c&H00FFFFFF&}
+Dialogue: 0,0:07:35.82,0:07:36.10,Cap,,0,0,0,,{\c&H0043B7E6&}because{\c&H00FFFFFF&} they keep soaking
+Dialogue: 0,0:07:36.10,0:07:36.29,Cap,,0,0,0,,because {\c&H0043B7E6&}they{\c&H00FFFFFF&} keep soaking
+Dialogue: 0,0:07:36.29,0:07:36.53,Cap,,0,0,0,,because they {\c&H0043B7E6&}keep{\c&H00FFFFFF&} soaking
+Dialogue: 0,0:07:36.53,0:07:36.82,Cap,,0,0,0,,because they keep {\c&H0043B7E6&}soaking{\c&H00FFFFFF&}
+Dialogue: 0,0:07:36.82,0:07:36.97,Cap,,0,0,0,,{\c&H0043B7E6&}up{\c&H00FFFFFF&} liquid until they
+Dialogue: 0,0:07:36.97,0:07:37.54,Cap,,0,0,0,,up {\c&H0043B7E6&}liquid{\c&H00FFFFFF&} until they
+Dialogue: 0,0:07:37.54,0:07:37.88,Cap,,0,0,0,,up liquid {\c&H0043B7E6&}until{\c&H00FFFFFF&} they
+Dialogue: 0,0:07:37.88,0:07:38.03,Cap,,0,0,0,,up liquid until {\c&H0043B7E6&}they{\c&H00FFFFFF&}
+Dialogue: 0,0:07:38.03,0:07:38.23,Cap,,0,0,0,,{\c&H0043B7E6&}fall{\c&H00FFFFFF&} apart.
+Dialogue: 0,0:07:38.23,0:07:39.13,Cap,,0,0,0,,fall {\c&H0043B7E6&}apart.{\c&H00FFFFFF&}
+Dialogue: 0,0:07:39.35,0:07:39.57,Cap,,0,0,0,,{\c&H0043B7E6&}What{\c&H00FFFFFF&} to do instead.
+Dialogue: 0,0:07:39.57,0:07:39.70,Cap,,0,0,0,,What {\c&H0043B7E6&}to{\c&H00FFFFFF&} do instead.
+Dialogue: 0,0:07:39.70,0:07:39.86,Cap,,0,0,0,,What to {\c&H0043B7E6&}do{\c&H00FFFFFF&} instead.
+Dialogue: 0,0:07:39.86,0:07:40.84,Cap,,0,0,0,,What to do {\c&H0043B7E6&}instead.{\c&H00FFFFFF&}
+Dialogue: 0,0:07:41.40,0:07:41.68,Cap,,0,0,0,,{\c&H0043B7E6&}Freeze{\c&H00FFFFFF&} the sauce alone.
+Dialogue: 0,0:07:41.68,0:07:41.80,Cap,,0,0,0,,Freeze {\c&H0043B7E6&}the{\c&H00FFFFFF&} sauce alone.
+Dialogue: 0,0:07:41.80,0:07:42.19,Cap,,0,0,0,,Freeze the {\c&H0043B7E6&}sauce{\c&H00FFFFFF&} alone.
+Dialogue: 0,0:07:42.19,0:07:43.19,Cap,,0,0,0,,Freeze the sauce {\c&H0043B7E6&}alone.{\c&H00FFFFFF&}
+Dialogue: 0,0:07:43.76,0:07:44.21,Cap,,0,0,0,,{\c&H0043B7E6&}Spaghetti{\c&H00FFFFFF&} sauce,
+Dialogue: 0,0:07:44.21,0:07:44.89,Cap,,0,0,0,,Spaghetti {\c&H0043B7E6&}sauce,{\c&H00FFFFFF&}
+Dialogue: 0,0:07:44.89,0:07:45.28,Cap,,0,0,0,,{\c&H0043B7E6&}chili{\c&H00FFFFFF&} and soup base
+Dialogue: 0,0:07:45.28,0:07:45.46,Cap,,0,0,0,,chili {\c&H0043B7E6&}and{\c&H00FFFFFF&} soup base
+Dialogue: 0,0:07:45.46,0:07:45.79,Cap,,0,0,0,,chili and {\c&H0043B7E6&}soup{\c&H00FFFFFF&} base
+Dialogue: 0,0:07:45.79,0:07:46.13,Cap,,0,0,0,,chili and soup {\c&H0043B7E6&}base{\c&H00FFFFFF&}
+Dialogue: 0,0:07:46.13,0:07:46.48,Cap,,0,0,0,,{\c&H0043B7E6&}all{\c&H00FFFFFF&} freeze well.
+Dialogue: 0,0:07:46.48,0:07:46.93,Cap,,0,0,0,,all {\c&H0043B7E6&}freeze{\c&H00FFFFFF&} well.
+Dialogue: 0,0:07:46.93,0:07:47.78,Cap,,0,0,0,,all freeze {\c&H0043B7E6&}well.{\c&H00FFFFFF&}
+Dialogue: 0,0:07:48.35,0:07:48.56,Cap,,0,0,0,,{\c&H0043B7E6&}Then{\c&H00FFFFFF&} cook the pasta
+Dialogue: 0,0:07:48.56,0:07:48.76,Cap,,0,0,0,,Then {\c&H0043B7E6&}cook{\c&H00FFFFFF&} the pasta
+Dialogue: 0,0:07:48.76,0:07:48.86,Cap,,0,0,0,,Then cook {\c&H0043B7E6&}the{\c&H00FFFFFF&} pasta
+Dialogue: 0,0:07:48.86,0:07:49.37,Cap,,0,0,0,,Then cook the {\c&H0043B7E6&}pasta{\c&H00FFFFFF&}
+Dialogue: 0,0:07:49.37,0:07:49.53,Cap,,0,0,0,,{\c&H0043B7E6&}or{\c&H00FFFFFF&} rice fresh on
+Dialogue: 0,0:07:49.53,0:07:49.99,Cap,,0,0,0,,or {\c&H0043B7E6&}rice{\c&H00FFFFFF&} fresh on
+Dialogue: 0,0:07:49.99,0:07:50.37,Cap,,0,0,0,,or rice {\c&H0043B7E6&}fresh{\c&H00FFFFFF&} on
+Dialogue: 0,0:07:50.37,0:07:50.52,Cap,,0,0,0,,or rice fresh {\c&H0043B7E6&}on{\c&H00FFFFFF&}
+Dialogue: 0,0:07:50.52,0:07:50.63,Cap,,0,0,0,,{\c&H0043B7E6&}the{\c&H00FFFFFF&} night you serve
+Dialogue: 0,0:07:50.63,0:07:50.82,Cap,,0,0,0,,the {\c&H0043B7E6&}night{\c&H00FFFFFF&} you serve
+Dialogue: 0,0:07:50.82,0:07:50.97,Cap,,0,0,0,,the night {\c&H0043B7E6&}you{\c&H00FFFFFF&} serve
+Dialogue: 0,0:07:50.97,0:07:51.22,Cap,,0,0,0,,the night you {\c&H0043B7E6&}serve{\c&H00FFFFFF&}
+Dialogue: 0,0:07:51.22,0:07:51.86,Cap,,0,0,0,,{\c&H0043B7E6&}it.{\c&H00FFFFFF&}
+Dialogue: 0,0:07:52.42,0:07:52.57,Cap,,0,0,0,,{\c&H0043B7E6&}It{\c&H00FFFFFF&} takes ten minutes,
+Dialogue: 0,0:07:52.57,0:07:52.86,Cap,,0,0,0,,It {\c&H0043B7E6&}takes{\c&H00FFFFFF&} ten minutes,
+Dialogue: 0,0:07:52.86,0:07:53.15,Cap,,0,0,0,,It takes {\c&H0043B7E6&}ten{\c&H00FFFFFF&} minutes,
+Dialogue: 0,0:07:53.15,0:07:53.54,Cap,,0,0,0,,It takes ten {\c&H0043B7E6&}minutes,{\c&H00FFFFFF&}
+Dialogue: 0,0:07:53.54,0:07:53.67,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} the difference is
+Dialogue: 0,0:07:53.67,0:07:53.79,Cap,,0,0,0,,and {\c&H0043B7E6&}the{\c&H00FFFFFF&} difference is
+Dialogue: 0,0:07:53.79,0:07:54.21,Cap,,0,0,0,,and the {\c&H0043B7E6&}difference{\c&H00FFFFFF&} is
+Dialogue: 0,0:07:54.21,0:07:54.41,Cap,,0,0,0,,and the difference {\c&H0043B7E6&}is{\c&H00FFFFFF&}
+Dialogue: 0,0:07:54.41,0:07:55.86,Cap,,0,0,0,,{\c&H0043B7E6&}enormous.{\c&H00FFFFFF&}
+Dialogue: 0,0:07:56.08,0:07:56.26,Cap,,0,0,0,,{\c&H0043B7E6&}And{\c&H00FFFFFF&} number one.
+Dialogue: 0,0:07:56.26,0:07:56.54,Cap,,0,0,0,,And {\c&H0043B7E6&}number{\c&H00FFFFFF&} one.
+Dialogue: 0,0:07:56.54,0:07:57.34,Cap,,0,0,0,,And number {\c&H0043B7E6&}one.{\c&H00FFFFFF&}
+Dialogue: 0,0:07:57.48,0:07:57.84,Cap,,0,0,0,,{\c&H0043B7E6&}Canned{\c&H00FFFFFF&} food,
+Dialogue: 0,0:07:57.84,0:07:58.67,Cap,,0,0,0,,Canned {\c&H0043B7E6&}food,{\c&H00FFFFFF&}
+Dialogue: 0,0:07:58.67,0:07:58.93,Cap,,0,0,0,,{\c&H0043B7E6&}still{\c&H00FFFFFF&} in the can.
+Dialogue: 0,0:07:58.93,0:07:59.01,Cap,,0,0,0,,still {\c&H0043B7E6&}in{\c&H00FFFFFF&} the can.
+Dialogue: 0,0:07:59.01,0:07:59.11,Cap,,0,0,0,,still in {\c&H0043B7E6&}the{\c&H00FFFFFF&} can.
+Dialogue: 0,0:07:59.11,0:08:00.02,Cap,,0,0,0,,still in the {\c&H0043B7E6&}can.{\c&H00FFFFFF&}
+Dialogue: 0,0:08:00.34,0:08:00.54,Cap,,0,0,0,,{\c&H0043B7E6&}This{\c&H00FFFFFF&} is the one
+Dialogue: 0,0:08:00.54,0:08:00.65,Cap,,0,0,0,,This {\c&H0043B7E6&}is{\c&H00FFFFFF&} the one
+Dialogue: 0,0:08:00.65,0:08:00.78,Cap,,0,0,0,,This is {\c&H0043B7E6&}the{\c&H00FFFFFF&} one
+Dialogue: 0,0:08:00.78,0:08:00.96,Cap,,0,0,0,,This is the {\c&H0043B7E6&}one{\c&H00FFFFFF&}
+Dialogue: 0,0:08:00.96,0:08:01.17,Cap,,0,0,0,,{\c&H0043B7E6&}that{\c&H00FFFFFF&} isn't about taste.
+Dialogue: 0,0:08:01.17,0:08:01.48,Cap,,0,0,0,,that {\c&H0043B7E6&}isn't{\c&H00FFFFFF&} about taste.
+Dialogue: 0,0:08:01.48,0:08:01.77,Cap,,0,0,0,,that isn't {\c&H0043B7E6&}about{\c&H00FFFFFF&} taste.
+Dialogue: 0,0:08:01.77,0:08:02.70,Cap,,0,0,0,,that isn't about {\c&H0043B7E6&}taste.{\c&H00FFFFFF&}
+Dialogue: 0,0:08:02.70,0:08:02.88,Cap,,0,0,0,,{\c&H0043B7E6&}It's{\c&H00FFFFFF&} about safety.
+Dialogue: 0,0:08:02.88,0:08:03.13,Cap,,0,0,0,,It's {\c&H0043B7E6&}about{\c&H00FFFFFF&} safety.
+Dialogue: 0,0:08:03.13,0:08:04.21,Cap,,0,0,0,,It's about {\c&H0043B7E6&}safety.{\c&H00FFFFFF&}
+Dialogue: 0,0:08:04.43,0:08:04.91,Cap,,0,0,0,,{\c&H0043B7E6&}Cans{\c&H00FFFFFF&} and sealed jars
+Dialogue: 0,0:08:04.91,0:08:05.09,Cap,,0,0,0,,Cans {\c&H0043B7E6&}and{\c&H00FFFFFF&} sealed jars
+Dialogue: 0,0:08:05.09,0:08:05.42,Cap,,0,0,0,,Cans and {\c&H0043B7E6&}sealed{\c&H00FFFFFF&} jars
+Dialogue: 0,0:08:05.42,0:08:06.10,Cap,,0,0,0,,Cans and sealed {\c&H0043B7E6&}jars{\c&H00FFFFFF&}
+Dialogue: 0,0:08:06.10,0:08:06.30,Cap,,0,0,0,,{\c&H0043B7E6&}get{\c&H00FFFFFF&} put in the
+Dialogue: 0,0:08:06.30,0:08:06.48,Cap,,0,0,0,,get {\c&H0043B7E6&}put{\c&H00FFFFFF&} in the
+Dialogue: 0,0:08:06.48,0:08:06.56,Cap,,0,0,0,,get put {\c&H0043B7E6&}in{\c&H00FFFFFF&} the
+Dialogue: 0,0:08:06.56,0:08:06.68,Cap,,0,0,0,,get put in {\c&H0043B7E6&}the{\c&H00FFFFFF&}
+Dialogue: 0,0:08:06.68,0:08:07.10,Cap,,0,0,0,,{\c&H0043B7E6&}freezer{\c&H00FFFFFF&} more often than
+Dialogue: 0,0:08:07.10,0:08:07.32,Cap,,0,0,0,,freezer {\c&H0043B7E6&}more{\c&H00FFFFFF&} often than
+Dialogue: 0,0:08:07.32,0:08:07.64,Cap,,0,0,0,,freezer more {\c&H0043B7E6&}often{\c&H00FFFFFF&} than
+Dialogue: 0,0:08:07.64,0:08:07.78,Cap,,0,0,0,,freezer more often {\c&H0043B7E6&}than{\c&H00FFFFFF&}
+Dialogue: 0,0:08:07.78,0:08:07.93,Cap,,0,0,0,,{\c&H0043B7E6&}you'd{\c&H00FFFFFF&} think.
+Dialogue: 0,0:08:07.93,0:08:08.79,Cap,,0,0,0,,you'd {\c&H0043B7E6&}think.{\c&H00FFFFFF&}
+Dialogue: 0,0:08:09.11,0:08:09.64,Cap,,0,0,0,,{\c&H0043B7E6&}Leftover{\c&H00FFFFFF&} soup left in
+Dialogue: 0,0:08:09.64,0:08:10.11,Cap,,0,0,0,,Leftover {\c&H0043B7E6&}soup{\c&H00FFFFFF&} left in
+Dialogue: 0,0:08:10.11,0:08:10.39,Cap,,0,0,0,,Leftover soup {\c&H0043B7E6&}left{\c&H00FFFFFF&} in
+Dialogue: 0,0:08:10.39,0:08:10.49,Cap,,0,0,0,,Leftover soup left {\c&H0043B7E6&}in{\c&H00FFFFFF&}
+Dialogue: 0,0:08:10.49,0:08:10.64,Cap,,0,0,0,,{\c&H0043B7E6&}its{\c&H00FFFFFF&} can.
+Dialogue: 0,0:08:10.64,0:08:11.55,Cap,,0,0,0,,its {\c&H0043B7E6&}can.{\c&H00FFFFFF&}
+Dialogue: 0,0:08:11.77,0:08:11.90,Cap,,0,0,0,,{\c&H0043B7E6&}A{\c&H00FFFFFF&} case of canned
+Dialogue: 0,0:08:11.90,0:08:12.13,Cap,,0,0,0,,A {\c&H0043B7E6&}case{\c&H00FFFFFF&} of canned
+Dialogue: 0,0:08:12.13,0:08:12.26,Cap,,0,0,0,,A case {\c&H0043B7E6&}of{\c&H00FFFFFF&} canned
+Dialogue: 0,0:08:12.26,0:08:12.54,Cap,,0,0,0,,A case of {\c&H0043B7E6&}canned{\c&H00FFFFFF&}
+Dialogue: 0,0:08:12.54,0:08:12.86,Cap,,0,0,0,,{\c&H0043B7E6&}goods{\c&H00FFFFFF&} in a garage
+Dialogue: 0,0:08:12.86,0:08:12.97,Cap,,0,0,0,,goods {\c&H0043B7E6&}in{\c&H00FFFFFF&} a garage
+Dialogue: 0,0:08:12.97,0:08:13.03,Cap,,0,0,0,,goods in {\c&H0043B7E6&}a{\c&H00FFFFFF&} garage
+Dialogue: 0,0:08:13.03,0:08:13.47,Cap,,0,0,0,,goods in a {\c&H0043B7E6&}garage{\c&H00FFFFFF&}
+Dialogue: 0,0:08:13.47,0:08:13.69,Cap,,0,0,0,,{\c&H0043B7E6&}that{\c&H00FFFFFF&} drops below freezing.
+Dialogue: 0,0:08:13.69,0:08:13.99,Cap,,0,0,0,,that {\c&H0043B7E6&}drops{\c&H00FFFFFF&} below freezing.
+Dialogue: 0,0:08:13.99,0:08:14.29,Cap,,0,0,0,,that drops {\c&H0043B7E6&}below{\c&H00FFFFFF&} freezing.
+Dialogue: 0,0:08:14.29,0:08:15.26,Cap,,0,0,0,,that drops below {\c&H0043B7E6&}freezing.{\c&H00FFFFFF&}
+Dialogue: 0,0:08:15.69,0:08:15.83,Cap,,0,0,0,,{\c&H0043B7E6&}A{\c&H00FFFFFF&} jar pushed to
+Dialogue: 0,0:08:15.83,0:08:16.19,Cap,,0,0,0,,A {\c&H0043B7E6&}jar{\c&H00FFFFFF&} pushed to
+Dialogue: 0,0:08:16.19,0:08:16.47,Cap,,0,0,0,,A jar {\c&H0043B7E6&}pushed{\c&H00FFFFFF&} to
+Dialogue: 0,0:08:16.47,0:08:16.59,Cap,,0,0,0,,A jar pushed {\c&H0043B7E6&}to{\c&H00FFFFFF&}
+Dialogue: 0,0:08:16.59,0:08:16.69,Cap,,0,0,0,,{\c&H0043B7E6&}the{\c&H00FFFFFF&} back of a
+Dialogue: 0,0:08:16.69,0:08:16.91,Cap,,0,0,0,,the {\c&H0043B7E6&}back{\c&H00FFFFFF&} of a
+Dialogue: 0,0:08:16.91,0:08:17.02,Cap,,0,0,0,,the back {\c&H0043B7E6&}of{\c&H00FFFFFF&} a
+Dialogue: 0,0:08:17.02,0:08:17.10,Cap,,0,0,0,,the back of {\c&H0043B7E6&}a{\c&H00FFFFFF&}
+Dialogue: 0,0:08:17.10,0:08:17.50,Cap,,0,0,0,,{\c&H0043B7E6&}freezer{\c&H00FFFFFF&} to chill quickly
+Dialogue: 0,0:08:17.50,0:08:17.63,Cap,,0,0,0,,freezer {\c&H0043B7E6&}to{\c&H00FFFFFF&} chill quickly
+Dialogue: 0,0:08:17.63,0:08:17.91,Cap,,0,0,0,,freezer to {\c&H0043B7E6&}chill{\c&H00FFFFFF&} quickly
+Dialogue: 0,0:08:17.91,0:08:18.32,Cap,,0,0,0,,freezer to chill {\c&H0043B7E6&}quickly{\c&H00FFFFFF&}
+Dialogue: 0,0:08:18.32,0:08:18.50,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} forgotten.
+Dialogue: 0,0:08:18.50,0:08:19.54,Cap,,0,0,0,,and {\c&H0043B7E6&}forgotten.{\c&H00FFFFFF&}
+Dialogue: 0,0:08:20.45,0:08:20.64,Cap,,0,0,0,,{\c&H0043B7E6&}When{\c&H00FFFFFF&} the food inside
+Dialogue: 0,0:08:20.64,0:08:20.76,Cap,,0,0,0,,When {\c&H0043B7E6&}the{\c&H00FFFFFF&} food inside
+Dialogue: 0,0:08:20.76,0:08:21.03,Cap,,0,0,0,,When the {\c&H0043B7E6&}food{\c&H00FFFFFF&} inside
+Dialogue: 0,0:08:21.03,0:08:21.47,Cap,,0,0,0,,When the food {\c&H0043B7E6&}inside{\c&H00FFFFFF&}
+Dialogue: 0,0:08:21.47,0:08:22.50,Cap,,0,0,0,,{\c&H0043B7E6&}freezes,{\c&H00FFFFFF&}
+Dialogue: 0,0:08:22.50,0:08:22.65,Cap,,0,0,0,,{\c&H0043B7E6&}it{\c&H00FFFFFF&} expands,
+Dialogue: 0,0:08:22.65,0:08:23.61,Cap,,0,0,0,,it {\c&H0043B7E6&}expands,{\c&H00FFFFFF&}
+Dialogue: 0,0:08:23.61,0:08:23.79,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} it can push
+Dialogue: 0,0:08:23.79,0:08:23.88,Cap,,0,0,0,,and {\c&H0043B7E6&}it{\c&H00FFFFFF&} can push
+Dialogue: 0,0:08:23.88,0:08:24.10,Cap,,0,0,0,,and it {\c&H0043B7E6&}can{\c&H00FFFFFF&} push
+Dialogue: 0,0:08:24.10,0:08:24.43,Cap,,0,0,0,,and it can {\c&H0043B7E6&}push{\c&H00FFFFFF&}
+Dialogue: 0,0:08:24.43,0:08:24.55,Cap,,0,0,0,,{\c&H0043B7E6&}the{\c&H00FFFFFF&} seams of the
+Dialogue: 0,0:08:24.55,0:08:24.86,Cap,,0,0,0,,the {\c&H0043B7E6&}seams{\c&H00FFFFFF&} of the
+Dialogue: 0,0:08:24.86,0:08:24.98,Cap,,0,0,0,,the seams {\c&H0043B7E6&}of{\c&H00FFFFFF&} the
+Dialogue: 0,0:08:24.98,0:08:25.07,Cap,,0,0,0,,the seams of {\c&H0043B7E6&}the{\c&H00FFFFFF&}
+Dialogue: 0,0:08:25.07,0:08:25.45,Cap,,0,0,0,,{\c&H0043B7E6&}can{\c&H00FFFFFF&} open.
+Dialogue: 0,0:08:25.45,0:08:26.44,Cap,,0,0,0,,can {\c&H0043B7E6&}open.{\c&H00FFFFFF&}
+Dialogue: 0,0:08:26.87,0:08:27.06,Cap,,0,0,0,,{\c&H0043B7E6&}The{\c&H00FFFFFF&} USDA is very
+Dialogue: 0,0:08:27.06,0:08:27.95,Cap,,0,0,0,,The {\c&H0043B7E6&}USDA{\c&H00FFFFFF&} is very
+Dialogue: 0,0:08:27.95,0:08:28.19,Cap,,0,0,0,,The USDA {\c&H0043B7E6&}is{\c&H00FFFFFF&} very
+Dialogue: 0,0:08:28.19,0:08:28.59,Cap,,0,0,0,,The USDA is {\c&H0043B7E6&}very{\c&H00FFFFFF&}
+Dialogue: 0,0:08:28.59,0:08:29.01,Cap,,0,0,0,,{\c&H0043B7E6&}direct{\c&H00FFFFFF&} about this.
+Dialogue: 0,0:08:29.01,0:08:29.29,Cap,,0,0,0,,direct {\c&H0043B7E6&}about{\c&H00FFFFFF&} this.
+Dialogue: 0,0:08:29.29,0:08:30.26,Cap,,0,0,0,,direct about {\c&H0043B7E6&}this.{\c&H00FFFFFF&}
+Dialogue: 0,0:08:30.68,0:08:30.87,Cap,,0,0,0,,{\c&H0043B7E6&}If{\c&H00FFFFFF&} a frozen can
+Dialogue: 0,0:08:30.87,0:08:30.94,Cap,,0,0,0,,If {\c&H0043B7E6&}a{\c&H00FFFFFF&} frozen can
+Dialogue: 0,0:08:30.94,0:08:31.32,Cap,,0,0,0,,If a {\c&H0043B7E6&}frozen{\c&H00FFFFFF&} can
+Dialogue: 0,0:08:31.32,0:08:31.58,Cap,,0,0,0,,If a frozen {\c&H0043B7E6&}can{\c&H00FFFFFF&}
+Dialogue: 0,0:08:31.58,0:08:31.79,Cap,,0,0,0,,{\c&H0043B7E6&}has{\c&H00FFFFFF&} rusted or burst
+Dialogue: 0,0:08:31.79,0:08:32.25,Cap,,0,0,0,,has {\c&H0043B7E6&}rusted{\c&H00FFFFFF&} or burst
+Dialogue: 0,0:08:32.25,0:08:32.45,Cap,,0,0,0,,has rusted {\c&H0043B7E6&}or{\c&H00FFFFFF&} burst
+Dialogue: 0,0:08:32.45,0:08:32.75,Cap,,0,0,0,,has rusted or {\c&H0043B7E6&}burst{\c&H00FFFFFF&}
+Dialogue: 0,0:08:32.75,0:08:33.50,Cap,,0,0,0,,{\c&H0043B7E6&}seams,{\c&H00FFFFFF&}
+Dialogue: 0,0:08:33.50,0:08:33.76,Cap,,0,0,0,,{\c&H0043B7E6&}throw{\c&H00FFFFFF&} it out immediately.
+Dialogue: 0,0:08:33.76,0:08:33.85,Cap,,0,0,0,,throw {\c&H0043B7E6&}it{\c&H00FFFFFF&} out immediately.
+Dialogue: 0,0:08:33.85,0:08:33.99,Cap,,0,0,0,,throw it {\c&H0043B7E6&}out{\c&H00FFFFFF&} immediately.
+Dialogue: 0,0:08:33.99,0:08:34.86,Cap,,0,0,0,,throw it out {\c&H0043B7E6&}immediately.{\c&H00FFFFFF&}
+Dialogue: 0,0:08:34.86,0:08:35.03,Cap,,0,0,0,,{\c&H0043B7E6&}And{\c&H00FFFFFF&} it says,
+Dialogue: 0,0:08:35.03,0:08:35.12,Cap,,0,0,0,,And {\c&H0043B7E6&}it{\c&H00FFFFFF&} says,
+Dialogue: 0,0:08:35.12,0:08:36.06,Cap,,0,0,0,,And it {\c&H0043B7E6&}says,{\c&H00FFFFFF&}
+Dialogue: 0,0:08:36.27,0:08:36.45,Cap,,0,0,0,,{\c&H0043B7E6&}in{\c&H00FFFFFF&} capital letters,
+Dialogue: 0,0:08:36.45,0:08:36.84,Cap,,0,0,0,,in {\c&H0043B7E6&}capital{\c&H00FFFFFF&} letters,
+Dialogue: 0,0:08:36.84,0:08:37.58,Cap,,0,0,0,,in capital {\c&H0043B7E6&}letters,{\c&H00FFFFFF&}
+Dialogue: 0,0:08:37.58,0:08:37.80,Cap,,0,0,0,,{\c&H0043B7E6&}do{\c&H00FFFFFF&} not taste it.
+Dialogue: 0,0:08:37.80,0:08:38.07,Cap,,0,0,0,,do {\c&H0043B7E6&}not{\c&H00FFFFFF&} taste it.
+Dialogue: 0,0:08:38.07,0:08:38.41,Cap,,0,0,0,,do not {\c&H0043B7E6&}taste{\c&H00FFFFFF&} it.
+Dialogue: 0,0:08:38.41,0:08:39.13,Cap,,0,0,0,,do not taste {\c&H0043B7E6&}it.{\c&H00FFFFFF&}
+Dialogue: 0,0:08:39.54,0:08:39.77,Cap,,0,0,0,,{\c&H0043B7E6&}What{\c&H00FFFFFF&} to do instead.
+Dialogue: 0,0:08:39.77,0:08:39.89,Cap,,0,0,0,,What {\c&H0043B7E6&}to{\c&H00FFFFFF&} do instead.
+Dialogue: 0,0:08:39.89,0:08:40.05,Cap,,0,0,0,,What to {\c&H0043B7E6&}do{\c&H00FFFFFF&} instead.
+Dialogue: 0,0:08:40.05,0:08:41.06,Cap,,0,0,0,,What to do {\c&H0043B7E6&}instead.{\c&H00FFFFFF&}
+Dialogue: 0,0:08:41.48,0:08:41.78,Cap,,0,0,0,,{\c&H0043B7E6&}Never{\c&H00FFFFFF&} freeze food in
+Dialogue: 0,0:08:41.78,0:08:42.15,Cap,,0,0,0,,Never {\c&H0043B7E6&}freeze{\c&H00FFFFFF&} food in
+Dialogue: 0,0:08:42.15,0:08:42.74,Cap,,0,0,0,,Never freeze {\c&H0043B7E6&}food{\c&H00FFFFFF&} in
+Dialogue: 0,0:08:42.74,0:08:42.91,Cap,,0,0,0,,Never freeze food {\c&H0043B7E6&}in{\c&H00FFFFFF&}
+Dialogue: 0,0:08:42.91,0:08:43.06,Cap,,0,0,0,,{\c&H0043B7E6&}its{\c&H00FFFFFF&} can.
+Dialogue: 0,0:08:43.06,0:08:43.99,Cap,,0,0,0,,its {\c&H0043B7E6&}can.{\c&H00FFFFFF&}
+Dialogue: 0,0:08:44.54,0:08:44.68,Cap,,0,0,0,,{\c&H0043B7E6&}If{\c&H00FFFFFF&} you have leftovers
+Dialogue: 0,0:08:44.68,0:08:44.81,Cap,,0,0,0,,If {\c&H0043B7E6&}you{\c&H00FFFFFF&} have leftovers
+Dialogue: 0,0:08:44.81,0:08:44.97,Cap,,0,0,0,,If you {\c&H0043B7E6&}have{\c&H00FFFFFF&} leftovers
+Dialogue: 0,0:08:44.97,0:08:45.58,Cap,,0,0,0,,If you have {\c&H0043B7E6&}leftovers{\c&H00FFFFFF&}
+Dialogue: 0,0:08:45.58,0:08:45.77,Cap,,0,0,0,,{\c&H0043B7E6&}from{\c&H00FFFFFF&} a can,
+Dialogue: 0,0:08:45.77,0:08:45.83,Cap,,0,0,0,,from {\c&H0043B7E6&}a{\c&H00FFFFFF&} can,
+Dialogue: 0,0:08:45.83,0:08:46.54,Cap,,0,0,0,,from a {\c&H0043B7E6&}can,{\c&H00FFFFFF&}
+Dialogue: 0,0:08:46.54,0:08:46.81,Cap,,0,0,0,,{\c&H0043B7E6&}move{\c&H00FFFFFF&} them into a
+Dialogue: 0,0:08:46.81,0:08:47.01,Cap,,0,0,0,,move {\c&H0043B7E6&}them{\c&H00FFFFFF&} into a
+Dialogue: 0,0:08:47.01,0:08:47.29,Cap,,0,0,0,,move them {\c&H0043B7E6&}into{\c&H00FFFFFF&} a
+Dialogue: 0,0:08:47.29,0:08:47.37,Cap,,0,0,0,,move them into {\c&H0043B7E6&}a{\c&H00FFFFFF&}
+Dialogue: 0,0:08:47.37,0:08:47.72,Cap,,0,0,0,,{\c&H0043B7E6&}freezer{\c&H00FFFFFF&} container,
+Dialogue: 0,0:08:47.72,0:08:48.80,Cap,,0,0,0,,freezer {\c&H0043B7E6&}container,{\c&H00FFFFFF&}
+Dialogue: 0,0:08:48.85,0:08:49.16,Cap,,0,0,0,,{\c&H0043B7E6&}leaving{\c&H00FFFFFF&} some room at
+Dialogue: 0,0:08:49.16,0:08:49.37,Cap,,0,0,0,,leaving {\c&H0043B7E6&}some{\c&H00FFFFFF&} room at
+Dialogue: 0,0:08:49.37,0:08:49.66,Cap,,0,0,0,,leaving some {\c&H0043B7E6&}room{\c&H00FFFFFF&} at
+Dialogue: 0,0:08:49.66,0:08:49.76,Cap,,0,0,0,,leaving some room {\c&H0043B7E6&}at{\c&H00FFFFFF&}
+Dialogue: 0,0:08:49.76,0:08:49.87,Cap,,0,0,0,,{\c&H0043B7E6&}the{\c&H00FFFFFF&} top for expansion.
+Dialogue: 0,0:08:49.87,0:08:50.16,Cap,,0,0,0,,the {\c&H0043B7E6&}top{\c&H00FFFFFF&} for expansion.
+Dialogue: 0,0:08:50.16,0:08:50.32,Cap,,0,0,0,,the top {\c&H0043B7E6&}for{\c&H00FFFFFF&} expansion.
+Dialogue: 0,0:08:50.32,0:08:51.47,Cap,,0,0,0,,the top for {\c&H0043B7E6&}expansion.{\c&H00FFFFFF&}
+Dialogue: 0,0:08:51.89,0:08:52.05,Cap,,0,0,0,,{\c&H0043B7E6&}And{\c&H00FFFFFF&} if you store
+Dialogue: 0,0:08:52.05,0:08:52.14,Cap,,0,0,0,,And {\c&H0043B7E6&}if{\c&H00FFFFFF&} you store
+Dialogue: 0,0:08:52.14,0:08:52.26,Cap,,0,0,0,,And if {\c&H0043B7E6&}you{\c&H00FFFFFF&} store
+Dialogue: 0,0:08:52.26,0:08:52.54,Cap,,0,0,0,,And if you {\c&H0043B7E6&}store{\c&H00FFFFFF&}
+Dialogue: 0,0:08:52.54,0:08:52.86,Cap,,0,0,0,,{\c&H0043B7E6&}canned{\c&H00FFFFFF&} goods in a
+Dialogue: 0,0:08:52.86,0:08:53.18,Cap,,0,0,0,,canned {\c&H0043B7E6&}goods{\c&H00FFFFFF&} in a
+Dialogue: 0,0:08:53.18,0:08:53.29,Cap,,0,0,0,,canned goods {\c&H0043B7E6&}in{\c&H00FFFFFF&} a
+Dialogue: 0,0:08:53.29,0:08:53.36,Cap,,0,0,0,,canned goods in {\c&H0043B7E6&}a{\c&H00FFFFFF&}
+Dialogue: 0,0:08:53.36,0:08:53.83,Cap,,0,0,0,,{\c&H0043B7E6&}garage{\c&H00FFFFFF&} or shed,
+Dialogue: 0,0:08:53.83,0:08:54.00,Cap,,0,0,0,,garage {\c&H0043B7E6&}or{\c&H00FFFFFF&} shed,
+Dialogue: 0,0:08:54.00,0:08:54.89,Cap,,0,0,0,,garage or {\c&H0043B7E6&}shed,{\c&H00FFFFFF&}
+Dialogue: 0,0:08:54.89,0:08:55.14,Cap,,0,0,0,,{\c&H0043B7E6&}bring{\c&H00FFFFFF&} them inside before
+Dialogue: 0,0:08:55.14,0:08:55.29,Cap,,0,0,0,,bring {\c&H0043B7E6&}them{\c&H00FFFFFF&} inside before
+Dialogue: 0,0:08:55.29,0:08:55.70,Cap,,0,0,0,,bring them {\c&H0043B7E6&}inside{\c&H00FFFFFF&} before
+Dialogue: 0,0:08:55.70,0:08:56.01,Cap,,0,0,0,,bring them inside {\c&H0043B7E6&}before{\c&H00FFFFFF&}
+Dialogue: 0,0:08:56.01,0:08:56.13,Cap,,0,0,0,,{\c&H0043B7E6&}the{\c&H00FFFFFF&} first hard freeze
+Dialogue: 0,0:08:56.13,0:08:56.47,Cap,,0,0,0,,the {\c&H0043B7E6&}first{\c&H00FFFFFF&} hard freeze
+Dialogue: 0,0:08:56.47,0:08:56.75,Cap,,0,0,0,,the first {\c&H0043B7E6&}hard{\c&H00FFFFFF&} freeze
+Dialogue: 0,0:08:56.75,0:08:57.12,Cap,,0,0,0,,the first hard {\c&H0043B7E6&}freeze{\c&H00FFFFFF&}
+Dialogue: 0,0:08:57.12,0:08:57.28,Cap,,0,0,0,,{\c&H0043B7E6&}of{\c&H00FFFFFF&} winter.
+Dialogue: 0,0:08:57.28,0:08:58.18,Cap,,0,0,0,,of {\c&H0043B7E6&}winter.{\c&H00FFFFFF&}
+Dialogue: 0,0:08:58.49,0:08:58.80,Cap,,0,0,0,,{\c&H0043B7E6&}Before{\c&H00FFFFFF&} I sum up,
+Dialogue: 0,0:08:58.80,0:08:58.90,Cap,,0,0,0,,Before {\c&H0043B7E6&}I{\c&H00FFFFFF&} sum up,
+Dialogue: 0,0:08:58.90,0:08:59.15,Cap,,0,0,0,,Before I {\c&H0043B7E6&}sum{\c&H00FFFFFF&} up,
+Dialogue: 0,0:08:59.15,0:08:59.77,Cap,,0,0,0,,Before I sum {\c&H0043B7E6&}up,{\c&H00FFFFFF&}
+Dialogue: 0,0:08:59.77,0:08:59.90,Cap,,0,0,0,,{\c&H0043B7E6&}a{\c&H00FFFFFF&} few quick ones
+Dialogue: 0,0:08:59.90,0:09:00.10,Cap,,0,0,0,,a {\c&H0043B7E6&}few{\c&H00FFFFFF&} quick ones
+Dialogue: 0,0:09:00.10,0:09:00.38,Cap,,0,0,0,,a few {\c&H0043B7E6&}quick{\c&H00FFFFFF&} ones
+Dialogue: 0,0:09:00.38,0:09:00.63,Cap,,0,0,0,,a few quick {\c&H0043B7E6&}ones{\c&H00FFFFFF&}
+Dialogue: 0,0:09:00.63,0:09:00.84,Cap,,0,0,0,,{\c&H0043B7E6&}that{\c&H00FFFFFF&} didn't make the
+Dialogue: 0,0:09:00.84,0:09:01.12,Cap,,0,0,0,,that {\c&H0043B7E6&}didn't{\c&H00FFFFFF&} make the
+Dialogue: 0,0:09:01.12,0:09:01.29,Cap,,0,0,0,,that didn't {\c&H0043B7E6&}make{\c&H00FFFFFF&} the
+Dialogue: 0,0:09:01.29,0:09:01.39,Cap,,0,0,0,,that didn't make {\c&H0043B7E6&}the{\c&H00FFFFFF&}
+Dialogue: 0,0:09:01.39,0:09:01.73,Cap,,0,0,0,,{\c&H0043B7E6&}ten{\c&H00FFFFFF&} but still catch
+Dialogue: 0,0:09:01.73,0:09:01.96,Cap,,0,0,0,,ten {\c&H0043B7E6&}but{\c&H00FFFFFF&} still catch
+Dialogue: 0,0:09:01.96,0:09:02.28,Cap,,0,0,0,,ten but {\c&H0043B7E6&}still{\c&H00FFFFFF&} catch
+Dialogue: 0,0:09:02.28,0:09:02.56,Cap,,0,0,0,,ten but still {\c&H0043B7E6&}catch{\c&H00FFFFFF&}
+Dialogue: 0,0:09:02.56,0:09:02.87,Cap,,0,0,0,,{\c&H0043B7E6&}people{\c&H00FFFFFF&} every year.
+Dialogue: 0,0:09:02.87,0:09:03.12,Cap,,0,0,0,,people {\c&H0043B7E6&}every{\c&H00FFFFFF&} year.
+Dialogue: 0,0:09:03.12,0:09:03.88,Cap,,0,0,0,,people every {\c&H0043B7E6&}year.{\c&H00FFFFFF&}
+Dialogue: 0,0:09:04.11,0:09:04.57,Cap,,0,0,0,,{\c&H0043B7E6&}Gelatin{\c&H00FFFFFF&} salads.
+Dialogue: 0,0:09:04.57,0:09:05.62,Cap,,0,0,0,,Gelatin {\c&H0043B7E6&}salads.{\c&H00FFFFFF&}
+Dialogue: 0,0:09:05.67,0:09:05.89,Cap,,0,0,0,,{\c&H0043B7E6&}Both{\c&H00FFFFFF&} the Washington State
+Dialogue: 0,0:09:05.89,0:09:06.01,Cap,,0,0,0,,Both {\c&H0043B7E6&}the{\c&H00FFFFFF&} Washington State
+Dialogue: 0,0:09:06.01,0:09:06.48,Cap,,0,0,0,,Both the {\c&H0043B7E6&}Washington{\c&H00FFFFFF&} State
+Dialogue: 0,0:09:06.48,0:09:06.83,Cap,,0,0,0,,Both the Washington {\c&H0043B7E6&}State{\c&H00FFFFFF&}
+Dialogue: 0,0:09:06.83,0:09:06.95,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} Missouri guides say
+Dialogue: 0,0:09:06.95,0:09:07.33,Cap,,0,0,0,,and {\c&H0043B7E6&}Missouri{\c&H00FFFFFF&} guides say
+Dialogue: 0,0:09:07.33,0:09:07.83,Cap,,0,0,0,,and Missouri {\c&H0043B7E6&}guides{\c&H00FFFFFF&} say
+Dialogue: 0,0:09:07.83,0:09:08.22,Cap,,0,0,0,,and Missouri guides {\c&H0043B7E6&}say{\c&H00FFFFFF&}
+Dialogue: 0,0:09:08.22,0:09:08.58,Cap,,0,0,0,,{\c&H0043B7E6&}plain{\c&H00FFFFFF&} gelatin weeps after
+Dialogue: 0,0:09:08.58,0:09:09.09,Cap,,0,0,0,,plain {\c&H0043B7E6&}gelatin{\c&H00FFFFFF&} weeps after
+Dialogue: 0,0:09:09.09,0:09:09.50,Cap,,0,0,0,,plain gelatin {\c&H0043B7E6&}weeps{\c&H00FFFFFF&} after
+Dialogue: 0,0:09:09.50,0:09:09.84,Cap,,0,0,0,,plain gelatin weeps {\c&H0043B7E6&}after{\c&H00FFFFFF&}
+Dialogue: 0,0:09:09.84,0:09:10.85,Cap,,0,0,0,,{\c&H0043B7E6&}freezing.{\c&H00FFFFFF&}
+Dialogue: 0,0:09:10.85,0:09:11.05,Cap,,0,0,0,,{\c&H0043B7E6&}Make{\c&H00FFFFFF&} it the day
+Dialogue: 0,0:09:11.05,0:09:11.14,Cap,,0,0,0,,Make {\c&H0043B7E6&}it{\c&H00FFFFFF&} the day
+Dialogue: 0,0:09:11.14,0:09:11.25,Cap,,0,0,0,,Make it {\c&H0043B7E6&}the{\c&H00FFFFFF&} day
+Dialogue: 0,0:09:11.25,0:09:11.45,Cap,,0,0,0,,Make it the {\c&H0043B7E6&}day{\c&H00FFFFFF&}
+Dialogue: 0,0:09:11.45,0:09:11.85,Cap,,0,0,0,,{\c&H0043B7E6&}before{\c&H00FFFFFF&} instead.
+Dialogue: 0,0:09:11.85,0:09:12.84,Cap,,0,0,0,,before {\c&H0043B7E6&}instead.{\c&H00FFFFFF&}
+Dialogue: 0,0:09:13.06,0:09:13.40,Cap,,0,0,0,,{\c&H0043B7E6&}Fried{\c&H00FFFFFF&} foods.
+Dialogue: 0,0:09:13.40,0:09:14.43,Cap,,0,0,0,,Fried {\c&H0043B7E6&}foods.{\c&H00FFFFFF&}
+Dialogue: 0,0:09:14.65,0:09:14.80,Cap,,0,0,0,,{\c&H0043B7E6&}The{\c&H00FFFFFF&} Missouri guide says
+Dialogue: 0,0:09:14.80,0:09:15.15,Cap,,0,0,0,,The {\c&H0043B7E6&}Missouri{\c&H00FFFFFF&} guide says
+Dialogue: 0,0:09:15.15,0:09:15.46,Cap,,0,0,0,,The Missouri {\c&H0043B7E6&}guide{\c&H00FFFFFF&} says
+Dialogue: 0,0:09:15.46,0:09:16.21,Cap,,0,0,0,,The Missouri guide {\c&H0043B7E6&}says{\c&H00FFFFFF&}
+Dialogue: 0,0:09:16.22,0:09:16.55,Cap,,0,0,0,,{\c&H0043B7E6&}fried{\c&H00FFFFFF&} meat and poultry
+Dialogue: 0,0:09:16.55,0:09:16.79,Cap,,0,0,0,,fried {\c&H0043B7E6&}meat{\c&H00FFFFFF&} and poultry
+Dialogue: 0,0:09:16.79,0:09:16.91,Cap,,0,0,0,,fried meat {\c&H0043B7E6&}and{\c&H00FFFFFF&} poultry
+Dialogue: 0,0:09:16.91,0:09:17.49,Cap,,0,0,0,,fried meat and {\c&H0043B7E6&}poultry{\c&H00FFFFFF&}
+Dialogue: 0,0:09:17.49,0:09:17.87,Cap,,0,0,0,,{\c&H0043B7E6&}lose{\c&H00FFFFFF&} their crispness in
+Dialogue: 0,0:09:17.87,0:09:18.05,Cap,,0,0,0,,lose {\c&H0043B7E6&}their{\c&H00FFFFFF&} crispness in
+Dialogue: 0,0:09:18.05,0:09:18.58,Cap,,0,0,0,,lose their {\c&H0043B7E6&}crispness{\c&H00FFFFFF&} in
+Dialogue: 0,0:09:18.58,0:09:18.71,Cap,,0,0,0,,lose their crispness {\c&H0043B7E6&}in{\c&H00FFFFFF&}
+Dialogue: 0,0:09:18.71,0:09:18.84,Cap,,0,0,0,,{\c&H0043B7E6&}the{\c&H00FFFFFF&} freezer.
+Dialogue: 0,0:09:18.84,0:09:19.85,Cap,,0,0,0,,the {\c&H0043B7E6&}freezer.{\c&H00FFFFFF&}
+Dialogue: 0,0:09:20.07,0:09:20.22,Cap,,0,0,0,,{\c&H0043B7E6&}If{\c&H00FFFFFF&} you freeze fried
+Dialogue: 0,0:09:20.22,0:09:20.41,Cap,,0,0,0,,If {\c&H0043B7E6&}you{\c&H00FFFFFF&} freeze fried
+Dialogue: 0,0:09:20.41,0:09:20.73,Cap,,0,0,0,,If you {\c&H0043B7E6&}freeze{\c&H00FFFFFF&} fried
+Dialogue: 0,0:09:20.73,0:09:20.98,Cap,,0,0,0,,If you freeze {\c&H0043B7E6&}fried{\c&H00FFFFFF&}
+Dialogue: 0,0:09:20.98,0:09:21.30,Cap,,0,0,0,,{\c&H0043B7E6&}chicken{\c&H00FFFFFF&} anyway,
+Dialogue: 0,0:09:21.30,0:09:22.04,Cap,,0,0,0,,chicken {\c&H0043B7E6&}anyway,{\c&H00FFFFFF&}
+Dialogue: 0,0:09:22.04,0:09:22.41,Cap,,0,0,0,,{\c&H0043B7E6&}reheat{\c&H00FFFFFF&} it in the
+Dialogue: 0,0:09:22.41,0:09:22.56,Cap,,0,0,0,,reheat {\c&H0043B7E6&}it{\c&H00FFFFFF&} in the
+Dialogue: 0,0:09:22.56,0:09:22.68,Cap,,0,0,0,,reheat it {\c&H0043B7E6&}in{\c&H00FFFFFF&} the
+Dialogue: 0,0:09:22.68,0:09:22.80,Cap,,0,0,0,,reheat it in {\c&H0043B7E6&}the{\c&H00FFFFFF&}
+Dialogue: 0,0:09:22.80,0:09:23.26,Cap,,0,0,0,,{\c&H0043B7E6&}oven{\c&H00FFFFFF&} rather than the
+Dialogue: 0,0:09:23.26,0:09:23.58,Cap,,0,0,0,,oven {\c&H0043B7E6&}rather{\c&H00FFFFFF&} than the
+Dialogue: 0,0:09:23.58,0:09:23.78,Cap,,0,0,0,,oven rather {\c&H0043B7E6&}than{\c&H00FFFFFF&} the
+Dialogue: 0,0:09:23.78,0:09:23.90,Cap,,0,0,0,,oven rather than {\c&H0043B7E6&}the{\c&H00FFFFFF&}
+Dialogue: 0,0:09:23.90,0:09:25.00,Cap,,0,0,0,,{\c&H0043B7E6&}microwave.{\c&H00FFFFFF&}
+Dialogue: 0,0:09:25.56,0:09:26.68,Cap,,0,0,0,,{\c&H0043B7E6&}Bacon,{\c&H00FFFFFF&}
+Dialogue: 0,0:09:26.69,0:09:27.14,Cap,,0,0,0,,{\c&H0043B7E6&}ham{\c&H00FFFFFF&} and other cured
+Dialogue: 0,0:09:27.14,0:09:27.37,Cap,,0,0,0,,ham {\c&H0043B7E6&}and{\c&H00FFFFFF&} other cured
+Dialogue: 0,0:09:27.37,0:09:27.67,Cap,,0,0,0,,ham and {\c&H0043B7E6&}other{\c&H00FFFFFF&} cured
+Dialogue: 0,0:09:27.67,0:09:28.00,Cap,,0,0,0,,ham and other {\c&H0043B7E6&}cured{\c&H00FFFFFF&}
+Dialogue: 0,0:09:28.00,0:09:28.85,Cap,,0,0,0,,{\c&H0043B7E6&}meats.{\c&H00FFFFFF&}
+Dialogue: 0,0:09:28.85,0:09:29.01,Cap,,0,0,0,,{\c&H0043B7E6&}They{\c&H00FFFFFF&} can be frozen,
+Dialogue: 0,0:09:29.01,0:09:29.13,Cap,,0,0,0,,They {\c&H0043B7E6&}can{\c&H00FFFFFF&} be frozen,
+Dialogue: 0,0:09:29.13,0:09:29.25,Cap,,0,0,0,,They can {\c&H0043B7E6&}be{\c&H00FFFFFF&} frozen,
+Dialogue: 0,0:09:29.25,0:09:29.98,Cap,,0,0,0,,They can be {\c&H0043B7E6&}frozen,{\c&H00FFFFFF&}
+Dialogue: 0,0:09:29.98,0:09:30.23,Cap,,0,0,0,,{\c&H0043B7E6&}but{\c&H00FFFFFF&} not for long.
+Dialogue: 0,0:09:30.23,0:09:30.52,Cap,,0,0,0,,but {\c&H0043B7E6&}not{\c&H00FFFFFF&} for long.
+Dialogue: 0,0:09:30.52,0:09:30.70,Cap,,0,0,0,,but not {\c&H0043B7E6&}for{\c&H00FFFFFF&} long.
+Dialogue: 0,0:09:30.70,0:09:31.54,Cap,,0,0,0,,but not for {\c&H0043B7E6&}long.{\c&H00FFFFFF&}
+Dialogue: 0,0:09:32.11,0:09:32.34,Cap,,0,0,0,,{\c&H0043B7E6&}The{\c&H00FFFFFF&} USDA gives bacon
+Dialogue: 0,0:09:32.34,0:09:33.38,Cap,,0,0,0,,The {\c&H0043B7E6&}USDA{\c&H00FFFFFF&} gives bacon
+Dialogue: 0,0:09:33.38,0:09:33.65,Cap,,0,0,0,,The USDA {\c&H0043B7E6&}gives{\c&H00FFFFFF&} bacon
+Dialogue: 0,0:09:33.65,0:09:34.02,Cap,,0,0,0,,The USDA gives {\c&H0043B7E6&}bacon{\c&H00FFFFFF&}
+Dialogue: 0,0:09:34.02,0:09:34.15,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} sausage only one
+Dialogue: 0,0:09:34.15,0:09:34.94,Cap,,0,0,0,,and {\c&H0043B7E6&}sausage{\c&H00FFFFFF&} only one
+Dialogue: 0,0:09:34.94,0:09:35.34,Cap,,0,0,0,,and sausage {\c&H0043B7E6&}only{\c&H00FFFFFF&} one
+Dialogue: 0,0:09:35.34,0:09:35.50,Cap,,0,0,0,,and sausage only {\c&H0043B7E6&}one{\c&H00FFFFFF&}
+Dialogue: 0,0:09:35.50,0:09:35.59,Cap,,0,0,0,,{\c&H0043B7E6&}to{\c&H00FFFFFF&} two months in
+Dialogue: 0,0:09:35.59,0:09:35.75,Cap,,0,0,0,,to {\c&H0043B7E6&}two{\c&H00FFFFFF&} months in
+Dialogue: 0,0:09:35.75,0:09:36.03,Cap,,0,0,0,,to two {\c&H0043B7E6&}months{\c&H00FFFFFF&} in
+Dialogue: 0,0:09:36.03,0:09:36.12,Cap,,0,0,0,,to two months {\c&H0043B7E6&}in{\c&H00FFFFFF&}
+Dialogue: 0,0:09:36.12,0:09:36.23,Cap,,0,0,0,,{\c&H0043B7E6&}the{\c&H00FFFFFF&} freezer,
+Dialogue: 0,0:09:36.23,0:09:37.24,Cap,,0,0,0,,the {\c&H0043B7E6&}freezer,{\c&H00FFFFFF&}
+Dialogue: 0,0:09:37.25,0:09:37.43,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} the Missouri guide
+Dialogue: 0,0:09:37.43,0:09:37.53,Cap,,0,0,0,,and {\c&H0043B7E6&}the{\c&H00FFFFFF&} Missouri guide
+Dialogue: 0,0:09:37.53,0:09:37.91,Cap,,0,0,0,,and the {\c&H0043B7E6&}Missouri{\c&H00FFFFFF&} guide
+Dialogue: 0,0:09:37.91,0:09:38.28,Cap,,0,0,0,,and the Missouri {\c&H0043B7E6&}guide{\c&H00FFFFFF&}
+Dialogue: 0,0:09:38.28,0:09:39.05,Cap,,0,0,0,,{\c&H0043B7E6&}says{\c&H00FFFFFF&} cured meats lose
+Dialogue: 0,0:09:39.05,0:09:39.43,Cap,,0,0,0,,says {\c&H0043B7E6&}cured{\c&H00FFFFFF&} meats lose
+Dialogue: 0,0:09:39.43,0:09:39.74,Cap,,0,0,0,,says cured {\c&H0043B7E6&}meats{\c&H00FFFFFF&} lose
+Dialogue: 0,0:09:39.74,0:09:40.00,Cap,,0,0,0,,says cured meats {\c&H0043B7E6&}lose{\c&H00FFFFFF&}
+Dialogue: 0,0:09:40.00,0:09:40.18,Cap,,0,0,0,,{\c&H0043B7E6&}their{\c&H00FFFFFF&} color and turn
+Dialogue: 0,0:09:40.18,0:09:40.76,Cap,,0,0,0,,their {\c&H0043B7E6&}color{\c&H00FFFFFF&} and turn
+Dialogue: 0,0:09:40.76,0:09:41.05,Cap,,0,0,0,,their color {\c&H0043B7E6&}and{\c&H00FFFFFF&} turn
+Dialogue: 0,0:09:41.05,0:09:41.32,Cap,,0,0,0,,their color and {\c&H0043B7E6&}turn{\c&H00FFFFFF&}
+Dialogue: 0,0:09:41.32,0:09:41.83,Cap,,0,0,0,,{\c&H0043B7E6&}rancid{\c&H00FFFFFF&} faster than fresh
+Dialogue: 0,0:09:41.83,0:09:42.29,Cap,,0,0,0,,rancid {\c&H0043B7E6&}faster{\c&H00FFFFFF&} than fresh
+Dialogue: 0,0:09:42.29,0:09:42.46,Cap,,0,0,0,,rancid faster {\c&H0043B7E6&}than{\c&H00FFFFFF&} fresh
+Dialogue: 0,0:09:42.46,0:09:42.75,Cap,,0,0,0,,rancid faster than {\c&H0043B7E6&}fresh{\c&H00FFFFFF&}
+Dialogue: 0,0:09:42.75,0:09:43.55,Cap,,0,0,0,,{\c&H0043B7E6&}meat.{\c&H00FFFFFF&}
+Dialogue: 0,0:09:43.77,0:09:44.08,Cap,,0,0,0,,{\c&H0043B7E6&}Freeze{\c&H00FFFFFF&} them in small
+Dialogue: 0,0:09:44.08,0:09:44.25,Cap,,0,0,0,,Freeze {\c&H0043B7E6&}them{\c&H00FFFFFF&} in small
+Dialogue: 0,0:09:44.25,0:09:44.35,Cap,,0,0,0,,Freeze them {\c&H0043B7E6&}in{\c&H00FFFFFF&} small
+Dialogue: 0,0:09:44.35,0:09:44.66,Cap,,0,0,0,,Freeze them in {\c&H0043B7E6&}small{\c&H00FFFFFF&}
+Dialogue: 0,0:09:44.66,0:09:45.22,Cap,,0,0,0,,{\c&H0043B7E6&}packs{\c&H00FFFFFF&} and use them
+Dialogue: 0,0:09:45.22,0:09:45.52,Cap,,0,0,0,,packs {\c&H0043B7E6&}and{\c&H00FFFFFF&} use them
+Dialogue: 0,0:09:45.52,0:09:45.77,Cap,,0,0,0,,packs and {\c&H0043B7E6&}use{\c&H00FFFFFF&} them
+Dialogue: 0,0:09:45.77,0:09:45.95,Cap,,0,0,0,,packs and use {\c&H0043B7E6&}them{\c&H00FFFFFF&}
+Dialogue: 0,0:09:45.95,0:09:46.88,Cap,,0,0,0,,{\c&H0043B7E6&}first.{\c&H00FFFFFF&}
+Dialogue: 0,0:09:46.94,0:09:47.28,Cap,,0,0,0,,{\c&H0043B7E6&}And{\c&H00FFFFFF&} half-and-half.
+Dialogue: 0,0:09:47.28,0:09:48.66,Cap,,0,0,0,,And {\c&H0043B7E6&}half-and-half.{\c&H00FFFFFF&}
+Dialogue: 0,0:09:48.88,0:09:49.21,Cap,,0,0,0,,{\c&H0043B7E6&}North{\c&H00FFFFFF&} Dakota State says
+Dialogue: 0,0:09:49.21,0:09:49.58,Cap,,0,0,0,,North {\c&H0043B7E6&}Dakota{\c&H00FFFFFF&} State says
+Dialogue: 0,0:09:49.58,0:09:50.02,Cap,,0,0,0,,North Dakota {\c&H0043B7E6&}State{\c&H00FFFFFF&} says
+Dialogue: 0,0:09:50.02,0:09:50.61,Cap,,0,0,0,,North Dakota State {\c&H0043B7E6&}says{\c&H00FFFFFF&}
+Dialogue: 0,0:09:50.61,0:09:50.89,Cap,,0,0,0,,{\c&H0043B7E6&}light{\c&H00FFFFFF&} cream and half-and-half
+Dialogue: 0,0:09:50.89,0:09:51.40,Cap,,0,0,0,,light {\c&H0043B7E6&}cream{\c&H00FFFFFF&} and half-and-half
+Dialogue: 0,0:09:51.40,0:09:51.70,Cap,,0,0,0,,light cream {\c&H0043B7E6&}and{\c&H00FFFFFF&} half-and-half
+Dialogue: 0,0:09:51.70,0:09:52.45,Cap,,0,0,0,,light cream and {\c&H0043B7E6&}half-and-half{\c&H00FFFFFF&}
+Dialogue: 0,0:09:52.45,0:09:52.76,Cap,,0,0,0,,{\c&H0043B7E6&}don't{\c&H00FFFFFF&} freeze well.
+Dialogue: 0,0:09:52.76,0:09:53.08,Cap,,0,0,0,,don't {\c&H0043B7E6&}freeze{\c&H00FFFFFF&} well.
+Dialogue: 0,0:09:53.08,0:09:53.90,Cap,,0,0,0,,don't freeze {\c&H0043B7E6&}well.{\c&H00FFFFFF&}
+Dialogue: 0,0:09:54.12,0:09:54.42,Cap,,0,0,0,,{\c&H0043B7E6&}Only{\c&H00FFFFFF&} heavy cream with
+Dialogue: 0,0:09:54.42,0:09:54.70,Cap,,0,0,0,,Only {\c&H0043B7E6&}heavy{\c&H00FFFFFF&} cream with
+Dialogue: 0,0:09:54.70,0:09:55.15,Cap,,0,0,0,,Only heavy {\c&H0043B7E6&}cream{\c&H00FFFFFF&} with
+Dialogue: 0,0:09:55.15,0:09:55.36,Cap,,0,0,0,,Only heavy cream {\c&H0043B7E6&}with{\c&H00FFFFFF&}
+Dialogue: 0,0:09:55.36,0:09:55.61,Cap,,0,0,0,,{\c&H0043B7E6&}forty{\c&H00FFFFFF&} percent fat or
+Dialogue: 0,0:09:55.61,0:09:55.96,Cap,,0,0,0,,forty {\c&H0043B7E6&}percent{\c&H00FFFFFF&} fat or
+Dialogue: 0,0:09:55.96,0:09:56.34,Cap,,0,0,0,,forty percent {\c&H0043B7E6&}fat{\c&H00FFFFFF&} or
+Dialogue: 0,0:09:56.34,0:09:56.52,Cap,,0,0,0,,forty percent fat {\c&H0043B7E6&}or{\c&H00FFFFFF&}
+Dialogue: 0,0:09:56.52,0:09:56.92,Cap,,0,0,0,,{\c&H0043B7E6&}more{\c&H00FFFFFF&} holds up.
+Dialogue: 0,0:09:56.92,0:09:57.23,Cap,,0,0,0,,more {\c&H0043B7E6&}holds{\c&H00FFFFFF&} up.
+Dialogue: 0,0:09:57.23,0:09:57.96,Cap,,0,0,0,,more holds {\c&H0043B7E6&}up.{\c&H00FFFFFF&}
+Dialogue: 0,0:09:58.18,0:09:58.77,Cap,,0,0,0,,{\c&H0043B7E6&}So{\c&H00FFFFFF&} buy the small
+Dialogue: 0,0:09:58.77,0:09:59.03,Cap,,0,0,0,,So {\c&H0043B7E6&}buy{\c&H00FFFFFF&} the small
+Dialogue: 0,0:09:59.03,0:09:59.13,Cap,,0,0,0,,So buy {\c&H0043B7E6&}the{\c&H00FFFFFF&} small
+Dialogue: 0,0:09:59.13,0:09:59.40,Cap,,0,0,0,,So buy the {\c&H0043B7E6&}small{\c&H00FFFFFF&}
+Dialogue: 0,0:09:59.40,0:09:59.77,Cap,,0,0,0,,{\c&H0043B7E6&}carton{\c&H00FFFFFF&} of half-and-half
+Dialogue: 0,0:09:59.77,0:09:59.94,Cap,,0,0,0,,carton {\c&H0043B7E6&}of{\c&H00FFFFFF&} half-and-half
+Dialogue: 0,0:09:59.94,0:10:00.61,Cap,,0,0,0,,carton of {\c&H0043B7E6&}half-and-half{\c&H00FFFFFF&}
+Dialogue: 0,0:10:00.61,0:10:00.79,Cap,,0,0,0,,{\c&H0043B7E6&}for{\c&H00FFFFFF&} your coffee,
+Dialogue: 0,0:10:00.79,0:10:00.93,Cap,,0,0,0,,for {\c&H0043B7E6&}your{\c&H00FFFFFF&} coffee,
+Dialogue: 0,0:10:00.93,0:10:01.56,Cap,,0,0,0,,for your {\c&H0043B7E6&}coffee,{\c&H00FFFFFF&}
+Dialogue: 0,0:10:01.56,0:10:01.84,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} freeze heavy cream
+Dialogue: 0,0:10:01.84,0:10:02.37,Cap,,0,0,0,,and {\c&H0043B7E6&}freeze{\c&H00FFFFFF&} heavy cream
+Dialogue: 0,0:10:02.37,0:10:02.65,Cap,,0,0,0,,and freeze {\c&H0043B7E6&}heavy{\c&H00FFFFFF&} cream
+Dialogue: 0,0:10:02.65,0:10:03.11,Cap,,0,0,0,,and freeze heavy {\c&H0043B7E6&}cream{\c&H00FFFFFF&}
+Dialogue: 0,0:10:03.11,0:10:03.29,Cap,,0,0,0,,{\c&H0043B7E6&}for{\c&H00FFFFFF&} cooking.
+Dialogue: 0,0:10:03.29,0:10:04.16,Cap,,0,0,0,,for {\c&H0043B7E6&}cooking.{\c&H00FFFFFF&}
+Dialogue: 0,0:10:04.89,0:10:05.08,Cap,,0,0,0,,{\c&H0043B7E6&}And{\c&H00FFFFFF&} one for seasonings.
+Dialogue: 0,0:10:05.08,0:10:05.23,Cap,,0,0,0,,And {\c&H0043B7E6&}one{\c&H00FFFFFF&} for seasonings.
+Dialogue: 0,0:10:05.23,0:10:05.38,Cap,,0,0,0,,And one {\c&H0043B7E6&}for{\c&H00FFFFFF&} seasonings.
+Dialogue: 0,0:10:05.38,0:10:06.52,Cap,,0,0,0,,And one for {\c&H0043B7E6&}seasonings.{\c&H00FFFFFF&}
+Dialogue: 0,0:10:07.25,0:10:07.72,Cap,,0,0,0,,{\c&H0043B7E6&}Washington{\c&H00FFFFFF&} State's guide
+Dialogue: 0,0:10:07.72,0:10:08.06,Cap,,0,0,0,,Washington {\c&H0043B7E6&}State's{\c&H00FFFFFF&} guide
+Dialogue: 0,0:10:08.06,0:10:08.39,Cap,,0,0,0,,Washington State's {\c&H0043B7E6&}guide{\c&H00FFFFFF&}
+Dialogue: 0,0:10:08.39,0:10:09.06,Cap,,0,0,0,,{\c&H0043B7E6&}says{\c&H00FFFFFF&} garlic,
+Dialogue: 0,0:10:09.06,0:10:09.85,Cap,,0,0,0,,says {\c&H0043B7E6&}garlic,{\c&H00FFFFFF&}
+Dialogue: 0,0:10:09.85,0:10:10.12,Cap,,0,0,0,,{\c&H0043B7E6&}green{\c&H00FFFFFF&} pepper and cloves
+Dialogue: 0,0:10:10.12,0:10:10.48,Cap,,0,0,0,,green {\c&H0043B7E6&}pepper{\c&H00FFFFFF&} and cloves
+Dialogue: 0,0:10:10.48,0:10:10.64,Cap,,0,0,0,,green pepper {\c&H0043B7E6&}and{\c&H00FFFFFF&} cloves
+Dialogue: 0,0:10:10.64,0:10:11.36,Cap,,0,0,0,,green pepper and {\c&H0043B7E6&}cloves{\c&H00FFFFFF&}
+Dialogue: 0,0:10:11.36,0:10:11.62,Cap,,0,0,0,,{\c&H0043B7E6&}tend{\c&H00FFFFFF&} to turn strong
+Dialogue: 0,0:10:11.62,0:10:11.73,Cap,,0,0,0,,tend {\c&H0043B7E6&}to{\c&H00FFFFFF&} turn strong
+Dialogue: 0,0:10:11.73,0:10:11.99,Cap,,0,0,0,,tend to {\c&H0043B7E6&}turn{\c&H00FFFFFF&} strong
+Dialogue: 0,0:10:11.99,0:10:12.30,Cap,,0,0,0,,tend to turn {\c&H0043B7E6&}strong{\c&H00FFFFFF&}
+Dialogue: 0,0:10:12.30,0:10:12.43,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} bitter in the
+Dialogue: 0,0:10:12.43,0:10:12.85,Cap,,0,0,0,,and {\c&H0043B7E6&}bitter{\c&H00FFFFFF&} in the
+Dialogue: 0,0:10:12.85,0:10:13.00,Cap,,0,0,0,,and bitter {\c&H0043B7E6&}in{\c&H00FFFFFF&} the
+Dialogue: 0,0:10:13.00,0:10:13.11,Cap,,0,0,0,,and bitter in {\c&H0043B7E6&}the{\c&H00FFFFFF&}
+Dialogue: 0,0:10:13.11,0:10:14.05,Cap,,0,0,0,,{\c&H0043B7E6&}freezer.{\c&H00FFFFFF&}
+Dialogue: 0,0:10:14.37,0:10:15.04,Cap,,0,0,0,,{\c&H0043B7E6&}So{\c&H00FFFFFF&}
+Dialogue: 0,0:10:15.26,0:10:15.62,Cap,,0,0,0,,{\c&H0043B7E6&}season{\c&H00FFFFFF&} a dish lightly
+Dialogue: 0,0:10:15.62,0:10:15.71,Cap,,0,0,0,,season {\c&H0043B7E6&}a{\c&H00FFFFFF&} dish lightly
+Dialogue: 0,0:10:15.71,0:10:16.28,Cap,,0,0,0,,season a {\c&H0043B7E6&}dish{\c&H00FFFFFF&} lightly
+Dialogue: 0,0:10:16.28,0:10:16.80,Cap,,0,0,0,,season a dish {\c&H0043B7E6&}lightly{\c&H00FFFFFF&}
+Dialogue: 0,0:10:16.80,0:10:17.10,Cap,,0,0,0,,{\c&H0043B7E6&}before{\c&H00FFFFFF&} you freeze it,
+Dialogue: 0,0:10:17.10,0:10:17.22,Cap,,0,0,0,,before {\c&H0043B7E6&}you{\c&H00FFFFFF&} freeze it,
+Dialogue: 0,0:10:17.22,0:10:17.52,Cap,,0,0,0,,before you {\c&H0043B7E6&}freeze{\c&H00FFFFFF&} it,
+Dialogue: 0,0:10:17.52,0:10:17.92,Cap,,0,0,0,,before you freeze {\c&H0043B7E6&}it,{\c&H00FFFFFF&}
+Dialogue: 0,0:10:17.92,0:10:18.17,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} add more when
+Dialogue: 0,0:10:18.17,0:10:18.39,Cap,,0,0,0,,and {\c&H0043B7E6&}add{\c&H00FFFFFF&} more when
+Dialogue: 0,0:10:18.39,0:10:18.69,Cap,,0,0,0,,and add {\c&H0043B7E6&}more{\c&H00FFFFFF&} when
+Dialogue: 0,0:10:18.69,0:10:18.89,Cap,,0,0,0,,and add more {\c&H0043B7E6&}when{\c&H00FFFFFF&}
+Dialogue: 0,0:10:18.89,0:10:19.03,Cap,,0,0,0,,{\c&H0043B7E6&}you{\c&H00FFFFFF&} reheat.
+Dialogue: 0,0:10:19.03,0:10:20.03,Cap,,0,0,0,,you {\c&H0043B7E6&}reheat.{\c&H00FFFFFF&}
+Dialogue: 0,0:10:20.59,0:10:20.76,Cap,,0,0,0,,{\c&H0043B7E6&}So{\c&H00FFFFFF&} that's the list.
+Dialogue: 0,0:10:20.76,0:10:20.96,Cap,,0,0,0,,So {\c&H0043B7E6&}that's{\c&H00FFFFFF&} the list.
+Dialogue: 0,0:10:20.96,0:10:21.09,Cap,,0,0,0,,So that's {\c&H0043B7E6&}the{\c&H00FFFFFF&} list.
+Dialogue: 0,0:10:21.09,0:10:22.03,Cap,,0,0,0,,So that's the {\c&H0043B7E6&}list.{\c&H00FFFFFF&}
+Dialogue: 0,0:10:22.16,0:10:23.02,Cap,,0,0,0,,{\c&H0043B7E6&}Lettuce,{\c&H00FFFFFF&}
+Dialogue: 0,0:10:23.02,0:10:23.44,Cap,,0,0,0,,{\c&H0043B7E6&}mayonnaise{\c&H00FFFFFF&} salads,
+Dialogue: 0,0:10:23.44,0:10:24.45,Cap,,0,0,0,,mayonnaise {\c&H0043B7E6&}salads,{\c&H00FFFFFF&}
+Dialogue: 0,0:10:24.45,0:10:24.68,Cap,,0,0,0,,{\c&H0043B7E6&}eggs{\c&H00FFFFFF&} in the shell,
+Dialogue: 0,0:10:24.68,0:10:24.76,Cap,,0,0,0,,eggs {\c&H0043B7E6&}in{\c&H00FFFFFF&} the shell,
+Dialogue: 0,0:10:24.76,0:10:24.85,Cap,,0,0,0,,eggs in {\c&H0043B7E6&}the{\c&H00FFFFFF&} shell,
+Dialogue: 0,0:10:24.85,0:10:25.69,Cap,,0,0,0,,eggs in the {\c&H0043B7E6&}shell,{\c&H00FFFFFF&}
+Dialogue: 0,0:10:25.69,0:10:26.20,Cap,,0,0,0,,{\c&H0043B7E6&}hard-boiled{\c&H00FFFFFF&} eggs,
+Dialogue: 0,0:10:26.20,0:10:26.87,Cap,,0,0,0,,hard-boiled {\c&H0043B7E6&}eggs,{\c&H00FFFFFF&}
+Dialogue: 0,0:10:26.87,0:10:27.15,Cap,,0,0,0,,{\c&H0043B7E6&}sour{\c&H00FFFFFF&} cream,
+Dialogue: 0,0:10:27.15,0:10:27.96,Cap,,0,0,0,,sour {\c&H0043B7E6&}cream,{\c&H00FFFFFF&}
+Dialogue: 0,0:10:27.96,0:10:28.20,Cap,,0,0,0,,{\c&H0043B7E6&}cream{\c&H00FFFFFF&} sauces,
+Dialogue: 0,0:10:28.20,0:10:29.02,Cap,,0,0,0,,cream {\c&H0043B7E6&}sauces,{\c&H00FFFFFF&}
+Dialogue: 0,0:10:29.02,0:10:29.41,Cap,,0,0,0,,{\c&H0043B7E6&}custard{\c&H00FFFFFF&} pies,
+Dialogue: 0,0:10:29.41,0:10:30.25,Cap,,0,0,0,,custard {\c&H0043B7E6&}pies,{\c&H00FFFFFF&}
+Dialogue: 0,0:10:30.25,0:10:30.49,Cap,,0,0,0,,{\c&H0043B7E6&}boiled{\c&H00FFFFFF&} potatoes,
+Dialogue: 0,0:10:30.49,0:10:31.51,Cap,,0,0,0,,boiled {\c&H0043B7E6&}potatoes,{\c&H00FFFFFF&}
+Dialogue: 0,0:10:31.51,0:10:31.90,Cap,,0,0,0,,{\c&H0043B7E6&}pasta{\c&H00FFFFFF&} in sauce,
+Dialogue: 0,0:10:31.90,0:10:32.01,Cap,,0,0,0,,pasta {\c&H0043B7E6&}in{\c&H00FFFFFF&} sauce,
+Dialogue: 0,0:10:32.01,0:10:32.62,Cap,,0,0,0,,pasta in {\c&H0043B7E6&}sauce,{\c&H00FFFFFF&}
+Dialogue: 0,0:10:32.62,0:10:32.84,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} food left in
+Dialogue: 0,0:10:32.84,0:10:33.31,Cap,,0,0,0,,and {\c&H0043B7E6&}food{\c&H00FFFFFF&} left in
+Dialogue: 0,0:10:33.31,0:10:33.51,Cap,,0,0,0,,and food {\c&H0043B7E6&}left{\c&H00FFFFFF&} in
+Dialogue: 0,0:10:33.51,0:10:33.60,Cap,,0,0,0,,and food left {\c&H0043B7E6&}in{\c&H00FFFFFF&}
+Dialogue: 0,0:10:33.60,0:10:33.67,Cap,,0,0,0,,{\c&H0043B7E6&}the{\c&H00FFFFFF&} can.
+Dialogue: 0,0:10:33.67,0:10:34.46,Cap,,0,0,0,,the {\c&H0043B7E6&}can.{\c&H00FFFFFF&}
+Dialogue: 0,0:10:35.15,0:10:35.38,Cap,,0,0,0,,{\c&H0043B7E6&}One{\c&H00FFFFFF&} thing that won't
+Dialogue: 0,0:10:35.38,0:10:35.60,Cap,,0,0,0,,One {\c&H0043B7E6&}thing{\c&H00FFFFFF&} that won't
+Dialogue: 0,0:10:35.60,0:10:35.73,Cap,,0,0,0,,One thing {\c&H0043B7E6&}that{\c&H00FFFFFF&} won't
+Dialogue: 0,0:10:35.73,0:10:35.94,Cap,,0,0,0,,One thing that {\c&H0043B7E6&}won't{\c&H00FFFFFF&}
+Dialogue: 0,0:10:35.94,0:10:36.21,Cap,,0,0,0,,{\c&H0043B7E6&}rescue{\c&H00FFFFFF&} these foods is
+Dialogue: 0,0:10:36.21,0:10:36.37,Cap,,0,0,0,,rescue {\c&H0043B7E6&}these{\c&H00FFFFFF&} foods is
+Dialogue: 0,0:10:36.37,0:10:36.78,Cap,,0,0,0,,rescue these {\c&H0043B7E6&}foods{\c&H00FFFFFF&} is
+Dialogue: 0,0:10:36.78,0:10:36.94,Cap,,0,0,0,,rescue these foods {\c&H0043B7E6&}is{\c&H00FFFFFF&}
+Dialogue: 0,0:10:36.94,0:10:37.00,Cap,,0,0,0,,{\c&H0043B7E6&}a{\c&H00FFFFFF&} vacuum sealer.
+Dialogue: 0,0:10:37.00,0:10:37.33,Cap,,0,0,0,,a {\c&H0043B7E6&}vacuum{\c&H00FFFFFF&} sealer.
+Dialogue: 0,0:10:37.33,0:10:38.04,Cap,,0,0,0,,a vacuum {\c&H0043B7E6&}sealer.{\c&H00FFFFFF&}
+Dialogue: 0,0:10:38.45,0:10:38.57,Cap,,0,0,0,,{\c&H0043B7E6&}The{\c&H00FFFFFF&} problem here is
+Dialogue: 0,0:10:38.57,0:10:38.86,Cap,,0,0,0,,The {\c&H0043B7E6&}problem{\c&H00FFFFFF&} here is
+Dialogue: 0,0:10:38.86,0:10:39.09,Cap,,0,0,0,,The problem {\c&H0043B7E6&}here{\c&H00FFFFFF&} is
+Dialogue: 0,0:10:39.09,0:10:39.61,Cap,,0,0,0,,The problem here {\c&H0043B7E6&}is{\c&H00FFFFFF&}
+Dialogue: 0,0:10:39.61,0:10:39.84,Cap,,0,0,0,,{\c&H0043B7E6&}ice{\c&H00FFFFFF&} crystals and creams
+Dialogue: 0,0:10:39.84,0:10:40.17,Cap,,0,0,0,,ice {\c&H0043B7E6&}crystals{\c&H00FFFFFF&} and creams
+Dialogue: 0,0:10:40.17,0:10:40.27,Cap,,0,0,0,,ice crystals {\c&H0043B7E6&}and{\c&H00FFFFFF&} creams
+Dialogue: 0,0:10:40.27,0:10:40.58,Cap,,0,0,0,,ice crystals and {\c&H0043B7E6&}creams{\c&H00FFFFFF&}
+Dialogue: 0,0:10:40.58,0:10:40.76,Cap,,0,0,0,,{\c&H0043B7E6&}that{\c&H00FFFFFF&} separate,
+Dialogue: 0,0:10:40.76,0:10:41.52,Cap,,0,0,0,,that {\c&H0043B7E6&}separate,{\c&H00FFFFFF&}
+Dialogue: 0,0:10:41.52,0:10:41.77,Cap,,0,0,0,,{\c&H0043B7E6&}not{\c&H00FFFFFF&} air.
+Dialogue: 0,0:10:41.77,0:10:42.59,Cap,,0,0,0,,not {\c&H0043B7E6&}air.{\c&H00FFFFFF&}
+Dialogue: 0,0:10:43.01,0:10:43.14,Cap,,0,0,0,,{\c&H0043B7E6&}A{\c&H00FFFFFF&} vacuum sealer is
+Dialogue: 0,0:10:43.14,0:10:43.46,Cap,,0,0,0,,A {\c&H0043B7E6&}vacuum{\c&H00FFFFFF&} sealer is
+Dialogue: 0,0:10:43.46,0:10:43.78,Cap,,0,0,0,,A vacuum {\c&H0043B7E6&}sealer{\c&H00FFFFFF&} is
+Dialogue: 0,0:10:43.78,0:10:43.96,Cap,,0,0,0,,A vacuum sealer {\c&H0043B7E6&}is{\c&H00FFFFFF&}
+Dialogue: 0,0:10:43.96,0:10:44.33,Cap,,0,0,0,,{\c&H0043B7E6&}useful{\c&H00FFFFFF&} for meat,
+Dialogue: 0,0:10:44.33,0:10:44.49,Cap,,0,0,0,,useful {\c&H0043B7E6&}for{\c&H00FFFFFF&} meat,
+Dialogue: 0,0:10:44.49,0:10:45.08,Cap,,0,0,0,,useful for {\c&H0043B7E6&}meat,{\c&H00FFFFFF&}
+Dialogue: 0,0:10:45.08,0:10:45.30,Cap,,0,0,0,,{\c&H0043B7E6&}hard{\c&H00FFFFFF&} cheese and baked
+Dialogue: 0,0:10:45.30,0:10:45.76,Cap,,0,0,0,,hard {\c&H0043B7E6&}cheese{\c&H00FFFFFF&} and baked
+Dialogue: 0,0:10:45.76,0:10:45.98,Cap,,0,0,0,,hard cheese {\c&H0043B7E6&}and{\c&H00FFFFFF&} baked
+Dialogue: 0,0:10:45.98,0:10:46.22,Cap,,0,0,0,,hard cheese and {\c&H0043B7E6&}baked{\c&H00FFFFFF&}
+Dialogue: 0,0:10:46.22,0:10:47.04,Cap,,0,0,0,,{\c&H0043B7E6&}goods,{\c&H00FFFFFF&}
+Dialogue: 0,0:10:47.04,0:10:47.25,Cap,,0,0,0,,{\c&H0043B7E6&}where{\c&H00FFFFFF&} freezer burn is
+Dialogue: 0,0:10:47.25,0:10:47.57,Cap,,0,0,0,,where {\c&H0043B7E6&}freezer{\c&H00FFFFFF&} burn is
+Dialogue: 0,0:10:47.57,0:10:47.85,Cap,,0,0,0,,where freezer {\c&H0043B7E6&}burn{\c&H00FFFFFF&} is
+Dialogue: 0,0:10:47.85,0:10:47.99,Cap,,0,0,0,,where freezer burn {\c&H0043B7E6&}is{\c&H00FFFFFF&}
+Dialogue: 0,0:10:47.99,0:10:48.11,Cap,,0,0,0,,{\c&H0043B7E6&}the{\c&H00FFFFFF&} main enemy.
+Dialogue: 0,0:10:48.11,0:10:48.33,Cap,,0,0,0,,the {\c&H0043B7E6&}main{\c&H00FFFFFF&} enemy.
+Dialogue: 0,0:10:48.33,0:10:49.25,Cap,,0,0,0,,the main {\c&H0043B7E6&}enemy.{\c&H00FFFFFF&}
+Dialogue: 0,0:10:49.81,0:10:49.97,Cap,,0,0,0,,{\c&H0043B7E6&}But{\c&H00FFFFFF&} it won't turn
+Dialogue: 0,0:10:49.97,0:10:50.05,Cap,,0,0,0,,But {\c&H0043B7E6&}it{\c&H00FFFFFF&} won't turn
+Dialogue: 0,0:10:50.05,0:10:50.22,Cap,,0,0,0,,But it {\c&H0043B7E6&}won't{\c&H00FFFFFF&} turn
+Dialogue: 0,0:10:50.22,0:10:50.47,Cap,,0,0,0,,But it won't {\c&H0043B7E6&}turn{\c&H00FFFFFF&}
+Dialogue: 0,0:10:50.47,0:10:50.80,Cap,,0,0,0,,{\c&H0043B7E6&}sour{\c&H00FFFFFF&} cream or boiled
+Dialogue: 0,0:10:50.80,0:10:51.14,Cap,,0,0,0,,sour {\c&H0043B7E6&}cream{\c&H00FFFFFF&} or boiled
+Dialogue: 0,0:10:51.14,0:10:51.31,Cap,,0,0,0,,sour cream {\c&H0043B7E6&}or{\c&H00FFFFFF&} boiled
+Dialogue: 0,0:10:51.31,0:10:51.61,Cap,,0,0,0,,sour cream or {\c&H0043B7E6&}boiled{\c&H00FFFFFF&}
+Dialogue: 0,0:10:51.61,0:10:52.10,Cap,,0,0,0,,{\c&H0043B7E6&}potatoes{\c&H00FFFFFF&} into foods that
+Dialogue: 0,0:10:52.10,0:10:52.37,Cap,,0,0,0,,potatoes {\c&H0043B7E6&}into{\c&H00FFFFFF&} foods that
+Dialogue: 0,0:10:52.37,0:10:52.67,Cap,,0,0,0,,potatoes into {\c&H0043B7E6&}foods{\c&H00FFFFFF&} that
+Dialogue: 0,0:10:52.67,0:10:52.83,Cap,,0,0,0,,potatoes into foods {\c&H0043B7E6&}that{\c&H00FFFFFF&}
+Dialogue: 0,0:10:52.83,0:10:53.09,Cap,,0,0,0,,{\c&H0043B7E6&}freeze{\c&H00FFFFFF&} well.
+Dialogue: 0,0:10:53.09,0:10:53.91,Cap,,0,0,0,,freeze {\c&H0043B7E6&}well.{\c&H00FFFFFF&}
+Dialogue: 0,0:10:54.48,0:10:54.71,Cap,,0,0,0,,{\c&H0043B7E6&}Two{\c&H00FFFFFF&} last things that
+Dialogue: 0,0:10:54.71,0:10:54.98,Cap,,0,0,0,,Two {\c&H0043B7E6&}last{\c&H00FFFFFF&} things that
+Dialogue: 0,0:10:54.98,0:10:55.27,Cap,,0,0,0,,Two last {\c&H0043B7E6&}things{\c&H00FFFFFF&} that
+Dialogue: 0,0:10:55.27,0:10:55.44,Cap,,0,0,0,,Two last things {\c&H0043B7E6&}that{\c&H00FFFFFF&}
+Dialogue: 0,0:10:55.44,0:10:55.76,Cap,,0,0,0,,{\c&H0043B7E6&}save{\c&H00FFFFFF&} more food than
+Dialogue: 0,0:10:55.76,0:10:55.97,Cap,,0,0,0,,save {\c&H0043B7E6&}more{\c&H00FFFFFF&} food than
+Dialogue: 0,0:10:55.97,0:10:56.43,Cap,,0,0,0,,save more {\c&H0043B7E6&}food{\c&H00FFFFFF&} than
+Dialogue: 0,0:10:56.43,0:10:56.72,Cap,,0,0,0,,save more food {\c&H0043B7E6&}than{\c&H00FFFFFF&}
+Dialogue: 0,0:10:56.72,0:10:56.98,Cap,,0,0,0,,{\c&H0043B7E6&}any{\c&H00FFFFFF&} list.
+Dialogue: 0,0:10:56.98,0:10:57.89,Cap,,0,0,0,,any {\c&H0043B7E6&}list.{\c&H00FFFFFF&}
+Dialogue: 0,0:10:58.11,0:10:59.06,Cap,,0,0,0,,{\c&H0043B7E6&}First,{\c&H00FFFFFF&}
+Dialogue: 0,0:10:59.07,0:11:00.17,Cap,,0,0,0,,{\c&H0043B7E6&}refreezing.{\c&H00FFFFFF&}
+Dialogue: 0,0:11:00.59,0:11:00.87,Cap,,0,0,0,,{\c&H0043B7E6&}People{\c&H00FFFFFF&} throw away good
+Dialogue: 0,0:11:00.87,0:11:01.11,Cap,,0,0,0,,People {\c&H0043B7E6&}throw{\c&H00FFFFFF&} away good
+Dialogue: 0,0:11:01.11,0:11:01.41,Cap,,0,0,0,,People throw {\c&H0043B7E6&}away{\c&H00FFFFFF&} good
+Dialogue: 0,0:11:01.41,0:11:01.63,Cap,,0,0,0,,People throw away {\c&H0043B7E6&}good{\c&H00FFFFFF&}
+Dialogue: 0,0:11:01.63,0:11:01.99,Cap,,0,0,0,,{\c&H0043B7E6&}food{\c&H00FFFFFF&} because they think
+Dialogue: 0,0:11:01.99,0:11:02.32,Cap,,0,0,0,,food {\c&H0043B7E6&}because{\c&H00FFFFFF&} they think
+Dialogue: 0,0:11:02.32,0:11:02.52,Cap,,0,0,0,,food because {\c&H0043B7E6&}they{\c&H00FFFFFF&} think
+Dialogue: 0,0:11:02.52,0:11:02.78,Cap,,0,0,0,,food because they {\c&H0043B7E6&}think{\c&H00FFFFFF&}
+Dialogue: 0,0:11:02.78,0:11:03.11,Cap,,0,0,0,,{\c&H0043B7E6&}thawed{\c&H00FFFFFF&} food can never
+Dialogue: 0,0:11:03.11,0:11:03.72,Cap,,0,0,0,,thawed {\c&H0043B7E6&}food{\c&H00FFFFFF&} can never
+Dialogue: 0,0:11:03.72,0:11:03.93,Cap,,0,0,0,,thawed food {\c&H0043B7E6&}can{\c&H00FFFFFF&} never
+Dialogue: 0,0:11:03.93,0:11:04.20,Cap,,0,0,0,,thawed food can {\c&H0043B7E6&}never{\c&H00FFFFFF&}
+Dialogue: 0,0:11:04.20,0:11:04.35,Cap,,0,0,0,,{\c&H0043B7E6&}go{\c&H00FFFFFF&} back in the
+Dialogue: 0,0:11:04.35,0:11:04.63,Cap,,0,0,0,,go {\c&H0043B7E6&}back{\c&H00FFFFFF&} in the
+Dialogue: 0,0:11:04.63,0:11:04.78,Cap,,0,0,0,,go back {\c&H0043B7E6&}in{\c&H00FFFFFF&} the
+Dialogue: 0,0:11:04.78,0:11:04.89,Cap,,0,0,0,,go back in {\c&H0043B7E6&}the{\c&H00FFFFFF&}
+Dialogue: 0,0:11:04.89,0:11:05.84,Cap,,0,0,0,,{\c&H0043B7E6&}freezer.{\c&H00FFFFFF&}
+Dialogue: 0,0:11:06.41,0:11:06.61,Cap,,0,0,0,,{\c&H0043B7E6&}The{\c&H00FFFFFF&} USDA says that
+Dialogue: 0,0:11:06.61,0:11:07.66,Cap,,0,0,0,,The {\c&H0043B7E6&}USDA{\c&H00FFFFFF&} says that
+Dialogue: 0,0:11:07.66,0:11:08.24,Cap,,0,0,0,,The USDA {\c&H0043B7E6&}says{\c&H00FFFFFF&} that
+Dialogue: 0,0:11:08.24,0:11:08.47,Cap,,0,0,0,,The USDA says {\c&H0043B7E6&}that{\c&H00FFFFFF&}
+Dialogue: 0,0:11:08.47,0:11:08.73,Cap,,0,0,0,,{\c&H0043B7E6&}food{\c&H00FFFFFF&} thawed in the
+Dialogue: 0,0:11:08.73,0:11:09.03,Cap,,0,0,0,,food {\c&H0043B7E6&}thawed{\c&H00FFFFFF&} in the
+Dialogue: 0,0:11:09.03,0:11:09.17,Cap,,0,0,0,,food thawed {\c&H0043B7E6&}in{\c&H00FFFFFF&} the
+Dialogue: 0,0:11:09.17,0:11:09.29,Cap,,0,0,0,,food thawed in {\c&H0043B7E6&}the{\c&H00FFFFFF&}
+Dialogue: 0,0:11:09.29,0:11:10.14,Cap,,0,0,0,,{\c&H0043B7E6&}refrigerator{\c&H00FFFFFF&} is safe to
+Dialogue: 0,0:11:10.14,0:11:10.36,Cap,,0,0,0,,refrigerator {\c&H0043B7E6&}is{\c&H00FFFFFF&} safe to
+Dialogue: 0,0:11:10.36,0:11:10.70,Cap,,0,0,0,,refrigerator is {\c&H0043B7E6&}safe{\c&H00FFFFFF&} to
+Dialogue: 0,0:11:10.70,0:11:10.84,Cap,,0,0,0,,refrigerator is safe {\c&H0043B7E6&}to{\c&H00FFFFFF&}
+Dialogue: 0,0:11:10.84,0:11:11.30,Cap,,0,0,0,,{\c&H0043B7E6&}refreeze{\c&H00FFFFFF&} without cooking,
+Dialogue: 0,0:11:11.30,0:11:11.64,Cap,,0,0,0,,refreeze {\c&H0043B7E6&}without{\c&H00FFFFFF&} cooking,
+Dialogue: 0,0:11:11.64,0:11:12.48,Cap,,0,0,0,,refreeze without {\c&H0043B7E6&}cooking,{\c&H00FFFFFF&}
+Dialogue: 0,0:11:12.48,0:11:12.79,Cap,,0,0,0,,{\c&H0043B7E6&}though{\c&H00FFFFFF&} you may lose
+Dialogue: 0,0:11:12.79,0:11:12.95,Cap,,0,0,0,,though {\c&H0043B7E6&}you{\c&H00FFFFFF&} may lose
+Dialogue: 0,0:11:12.95,0:11:13.13,Cap,,0,0,0,,though you {\c&H0043B7E6&}may{\c&H00FFFFFF&} lose
+Dialogue: 0,0:11:13.13,0:11:13.34,Cap,,0,0,0,,though you may {\c&H0043B7E6&}lose{\c&H00FFFFFF&}
+Dialogue: 0,0:11:13.34,0:11:13.50,Cap,,0,0,0,,{\c&H0043B7E6&}some{\c&H00FFFFFF&} quality.
+Dialogue: 0,0:11:13.50,0:11:14.46,Cap,,0,0,0,,some {\c&H0043B7E6&}quality.{\c&H00FFFFFF&}
+Dialogue: 0,0:11:14.89,0:11:15.09,Cap,,0,0,0,,{\c&H0043B7E6&}What{\c&H00FFFFFF&} you should never
+Dialogue: 0,0:11:15.09,0:11:15.20,Cap,,0,0,0,,What {\c&H0043B7E6&}you{\c&H00FFFFFF&} should never
+Dialogue: 0,0:11:15.20,0:11:15.45,Cap,,0,0,0,,What you {\c&H0043B7E6&}should{\c&H00FFFFFF&} never
+Dialogue: 0,0:11:15.45,0:11:15.77,Cap,,0,0,0,,What you should {\c&H0043B7E6&}never{\c&H00FFFFFF&}
+Dialogue: 0,0:11:15.77,0:11:16.70,Cap,,0,0,0,,{\c&H0043B7E6&}refreeze{\c&H00FFFFFF&} is food that
+Dialogue: 0,0:11:16.70,0:11:17.15,Cap,,0,0,0,,refreeze {\c&H0043B7E6&}is{\c&H00FFFFFF&} food that
+Dialogue: 0,0:11:17.15,0:11:17.49,Cap,,0,0,0,,refreeze is {\c&H0043B7E6&}food{\c&H00FFFFFF&} that
+Dialogue: 0,0:11:17.49,0:11:17.64,Cap,,0,0,0,,refreeze is food {\c&H0043B7E6&}that{\c&H00FFFFFF&}
+Dialogue: 0,0:11:17.64,0:11:17.91,Cap,,0,0,0,,{\c&H0043B7E6&}was{\c&H00FFFFFF&} thawed on the
+Dialogue: 0,0:11:17.91,0:11:18.27,Cap,,0,0,0,,was {\c&H0043B7E6&}thawed{\c&H00FFFFFF&} on the
+Dialogue: 0,0:11:18.27,0:11:18.39,Cap,,0,0,0,,was thawed {\c&H0043B7E6&}on{\c&H00FFFFFF&} the
+Dialogue: 0,0:11:18.39,0:11:18.50,Cap,,0,0,0,,was thawed on {\c&H0043B7E6&}the{\c&H00FFFFFF&}
+Dialogue: 0,0:11:18.50,0:11:19.40,Cap,,0,0,0,,{\c&H0043B7E6&}counter.{\c&H00FFFFFF&}
+Dialogue: 0,0:11:19.82,0:11:20.05,Cap,,0,0,0,,{\c&H0043B7E6&}The{\c&H00FFFFFF&} USDA says the
+Dialogue: 0,0:11:20.05,0:11:21.03,Cap,,0,0,0,,The {\c&H0043B7E6&}USDA{\c&H00FFFFFF&} says the
+Dialogue: 0,0:11:21.03,0:11:21.35,Cap,,0,0,0,,The USDA {\c&H0043B7E6&}says{\c&H00FFFFFF&} the
+Dialogue: 0,0:11:21.35,0:11:21.54,Cap,,0,0,0,,The USDA says {\c&H0043B7E6&}the{\c&H00FFFFFF&}
+Dialogue: 0,0:11:21.54,0:11:21.86,Cap,,0,0,0,,{\c&H0043B7E6&}only{\c&H00FFFFFF&} safe ways to
+Dialogue: 0,0:11:21.86,0:11:22.15,Cap,,0,0,0,,only {\c&H0043B7E6&}safe{\c&H00FFFFFF&} ways to
+Dialogue: 0,0:11:22.15,0:11:22.39,Cap,,0,0,0,,only safe {\c&H0043B7E6&}ways{\c&H00FFFFFF&} to
+Dialogue: 0,0:11:22.39,0:11:22.53,Cap,,0,0,0,,only safe ways {\c&H0043B7E6&}to{\c&H00FFFFFF&}
+Dialogue: 0,0:11:22.53,0:11:23.11,Cap,,0,0,0,,{\c&H0043B7E6&}thaw{\c&H00FFFFFF&} are in the
+Dialogue: 0,0:11:23.11,0:11:23.36,Cap,,0,0,0,,thaw {\c&H0043B7E6&}are{\c&H00FFFFFF&} in the
+Dialogue: 0,0:11:23.36,0:11:23.51,Cap,,0,0,0,,thaw are {\c&H0043B7E6&}in{\c&H00FFFFFF&} the
+Dialogue: 0,0:11:23.51,0:11:23.63,Cap,,0,0,0,,thaw are in {\c&H0043B7E6&}the{\c&H00FFFFFF&}
+Dialogue: 0,0:11:23.63,0:11:24.55,Cap,,0,0,0,,{\c&H0043B7E6&}refrigerator,{\c&H00FFFFFF&}
+Dialogue: 0,0:11:24.55,0:11:24.77,Cap,,0,0,0,,{\c&H0043B7E6&}in{\c&H00FFFFFF&} cold water or
+Dialogue: 0,0:11:24.77,0:11:25.04,Cap,,0,0,0,,in {\c&H0043B7E6&}cold{\c&H00FFFFFF&} water or
+Dialogue: 0,0:11:25.04,0:11:25.71,Cap,,0,0,0,,in cold {\c&H0043B7E6&}water{\c&H00FFFFFF&} or
+Dialogue: 0,0:11:25.71,0:11:26.04,Cap,,0,0,0,,in cold water {\c&H0043B7E6&}or{\c&H00FFFFFF&}
+Dialogue: 0,0:11:26.04,0:11:26.19,Cap,,0,0,0,,{\c&H0043B7E6&}in{\c&H00FFFFFF&} the microwave.
+Dialogue: 0,0:11:26.19,0:11:26.28,Cap,,0,0,0,,in {\c&H0043B7E6&}the{\c&H00FFFFFF&} microwave.
+Dialogue: 0,0:11:26.28,0:11:27.26,Cap,,0,0,0,,in the {\c&H0043B7E6&}microwave.{\c&H00FFFFFF&}
+Dialogue: 0,0:11:27.26,0:11:28.12,Cap,,0,0,0,,{\c&H0043B7E6&}Second,{\c&H00FFFFFF&}
+Dialogue: 0,0:11:28.12,0:11:28.50,Cap,,0,0,0,,{\c&H0043B7E6&}freezer{\c&H00FFFFFF&} burn.
+Dialogue: 0,0:11:28.50,0:11:29.32,Cap,,0,0,0,,freezer {\c&H0043B7E6&}burn.{\c&H00FFFFFF&}
+Dialogue: 0,0:11:29.53,0:11:29.84,Cap,,0,0,0,,{\c&H0043B7E6&}Those{\c&H00FFFFFF&} gray,
+Dialogue: 0,0:11:29.84,0:11:30.14,Cap,,0,0,0,,Those {\c&H0043B7E6&}gray,{\c&H00FFFFFF&}
+Dialogue: 0,0:11:30.14,0:11:30.49,Cap,,0,0,0,,{\c&H0043B7E6&}leathery{\c&H00FFFFFF&} patches don't
+Dialogue: 0,0:11:30.49,0:11:30.98,Cap,,0,0,0,,leathery {\c&H0043B7E6&}patches{\c&H00FFFFFF&} don't
+Dialogue: 0,0:11:30.98,0:11:31.30,Cap,,0,0,0,,leathery patches {\c&H0043B7E6&}don't{\c&H00FFFFFF&}
+Dialogue: 0,0:11:31.30,0:11:31.52,Cap,,0,0,0,,{\c&H0043B7E6&}make{\c&H00FFFFFF&} food unsafe.
+Dialogue: 0,0:11:31.52,0:11:31.81,Cap,,0,0,0,,make {\c&H0043B7E6&}food{\c&H00FFFFFF&} unsafe.
+Dialogue: 0,0:11:31.81,0:11:32.88,Cap,,0,0,0,,make food {\c&H0043B7E6&}unsafe.{\c&H00FFFFFF&}
+Dialogue: 0,0:11:32.94,0:11:33.15,Cap,,0,0,0,,{\c&H0043B7E6&}The{\c&H00FFFFFF&} USDA says freezer
+Dialogue: 0,0:11:33.15,0:11:33.93,Cap,,0,0,0,,The {\c&H0043B7E6&}USDA{\c&H00FFFFFF&} says freezer
+Dialogue: 0,0:11:33.93,0:11:34.57,Cap,,0,0,0,,The USDA {\c&H0043B7E6&}says{\c&H00FFFFFF&} freezer
+Dialogue: 0,0:11:34.57,0:11:34.93,Cap,,0,0,0,,The USDA says {\c&H0043B7E6&}freezer{\c&H00FFFFFF&}
+Dialogue: 0,0:11:34.93,0:11:35.26,Cap,,0,0,0,,{\c&H0043B7E6&}burn{\c&H00FFFFFF&} just means air
+Dialogue: 0,0:11:35.26,0:11:35.60,Cap,,0,0,0,,burn {\c&H0043B7E6&}just{\c&H00FFFFFF&} means air
+Dialogue: 0,0:11:35.60,0:11:36.09,Cap,,0,0,0,,burn just {\c&H0043B7E6&}means{\c&H00FFFFFF&} air
+Dialogue: 0,0:11:36.09,0:11:36.67,Cap,,0,0,0,,burn just means {\c&H0043B7E6&}air{\c&H00FFFFFF&}
+Dialogue: 0,0:11:36.67,0:11:36.93,Cap,,0,0,0,,{\c&H0043B7E6&}reached{\c&H00FFFFFF&} the surface and
+Dialogue: 0,0:11:36.93,0:11:37.03,Cap,,0,0,0,,reached {\c&H0043B7E6&}the{\c&H00FFFFFF&} surface and
+Dialogue: 0,0:11:37.03,0:11:37.50,Cap,,0,0,0,,reached the {\c&H0043B7E6&}surface{\c&H00FFFFFF&} and
+Dialogue: 0,0:11:37.50,0:11:37.70,Cap,,0,0,0,,reached the surface {\c&H0043B7E6&}and{\c&H00FFFFFF&}
+Dialogue: 0,0:11:37.70,0:11:37.98,Cap,,0,0,0,,{\c&H0043B7E6&}dried{\c&H00FFFFFF&} it out.
+Dialogue: 0,0:11:37.98,0:11:38.08,Cap,,0,0,0,,dried {\c&H0043B7E6&}it{\c&H00FFFFFF&} out.
+Dialogue: 0,0:11:38.08,0:11:38.88,Cap,,0,0,0,,dried it {\c&H0043B7E6&}out.{\c&H00FFFFFF&}
+Dialogue: 0,0:11:39.01,0:11:39.29,Cap,,0,0,0,,{\c&H0043B7E6&}Cut{\c&H00FFFFFF&} those spots away
+Dialogue: 0,0:11:39.29,0:11:39.52,Cap,,0,0,0,,Cut {\c&H0043B7E6&}those{\c&H00FFFFFF&} spots away
+Dialogue: 0,0:11:39.52,0:11:39.89,Cap,,0,0,0,,Cut those {\c&H0043B7E6&}spots{\c&H00FFFFFF&} away
+Dialogue: 0,0:11:39.89,0:11:40.23,Cap,,0,0,0,,Cut those spots {\c&H0043B7E6&}away{\c&H00FFFFFF&}
+Dialogue: 0,0:11:40.23,0:11:40.43,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} use the rest.
+Dialogue: 0,0:11:40.43,0:11:40.67,Cap,,0,0,0,,and {\c&H0043B7E6&}use{\c&H00FFFFFF&} the rest.
+Dialogue: 0,0:11:40.67,0:11:40.79,Cap,,0,0,0,,and use {\c&H0043B7E6&}the{\c&H00FFFFFF&} rest.
+Dialogue: 0,0:11:40.79,0:11:41.58,Cap,,0,0,0,,and use the {\c&H0043B7E6&}rest.{\c&H00FFFFFF&}
+Dialogue: 0,0:11:41.58,0:11:41.73,Cap,,0,0,0,,{\c&H0043B7E6&}If{\c&H00FFFFFF&} you take one
+Dialogue: 0,0:11:41.73,0:11:41.86,Cap,,0,0,0,,If {\c&H0043B7E6&}you{\c&H00FFFFFF&} take one
+Dialogue: 0,0:11:41.86,0:11:42.11,Cap,,0,0,0,,If you {\c&H0043B7E6&}take{\c&H00FFFFFF&} one
+Dialogue: 0,0:11:42.11,0:11:42.37,Cap,,0,0,0,,If you take {\c&H0043B7E6&}one{\c&H00FFFFFF&}
+Dialogue: 0,0:11:42.37,0:11:42.63,Cap,,0,0,0,,{\c&H0043B7E6&}thing{\c&H00FFFFFF&} from this video,
+Dialogue: 0,0:11:42.63,0:11:42.80,Cap,,0,0,0,,thing {\c&H0043B7E6&}from{\c&H00FFFFFF&} this video,
+Dialogue: 0,0:11:42.80,0:11:42.95,Cap,,0,0,0,,thing from {\c&H0043B7E6&}this{\c&H00FFFFFF&} video,
+Dialogue: 0,0:11:42.95,0:11:43.70,Cap,,0,0,0,,thing from this {\c&H0043B7E6&}video,{\c&H00FFFFFF&}
+Dialogue: 0,0:11:43.70,0:11:43.85,Cap,,0,0,0,,{\c&H0043B7E6&}let{\c&H00FFFFFF&} it be this.
+Dialogue: 0,0:11:43.85,0:11:43.95,Cap,,0,0,0,,let {\c&H0043B7E6&}it{\c&H00FFFFFF&} be this.
+Dialogue: 0,0:11:43.95,0:11:44.06,Cap,,0,0,0,,let it {\c&H0043B7E6&}be{\c&H00FFFFFF&} this.
+Dialogue: 0,0:11:44.06,0:11:45.01,Cap,,0,0,0,,let it be {\c&H0043B7E6&}this.{\c&H00FFFFFF&}
+Dialogue: 0,0:11:45.74,0:11:46.08,Cap,,0,0,0,,{\c&H0043B7E6&}Before{\c&H00FFFFFF&} something goes into
+Dialogue: 0,0:11:46.08,0:11:46.37,Cap,,0,0,0,,Before {\c&H0043B7E6&}something{\c&H00FFFFFF&} goes into
+Dialogue: 0,0:11:46.37,0:11:46.59,Cap,,0,0,0,,Before something {\c&H0043B7E6&}goes{\c&H00FFFFFF&} into
+Dialogue: 0,0:11:46.59,0:11:46.79,Cap,,0,0,0,,Before something goes {\c&H0043B7E6&}into{\c&H00FFFFFF&}
+Dialogue: 0,0:11:46.79,0:11:46.90,Cap,,0,0,0,,{\c&H0043B7E6&}the{\c&H00FFFFFF&} freezer,
+Dialogue: 0,0:11:46.90,0:11:47.64,Cap,,0,0,0,,the {\c&H0043B7E6&}freezer,{\c&H00FFFFFF&}
+Dialogue: 0,0:11:47.64,0:11:47.87,Cap,,0,0,0,,{\c&H0043B7E6&}ask{\c&H00FFFFFF&} yourself two questions.
+Dialogue: 0,0:11:47.87,0:11:48.30,Cap,,0,0,0,,ask {\c&H0043B7E6&}yourself{\c&H00FFFFFF&} two questions.
+Dialogue: 0,0:11:48.30,0:11:48.49,Cap,,0,0,0,,ask yourself {\c&H0043B7E6&}two{\c&H00FFFFFF&} questions.
+Dialogue: 0,0:11:48.49,0:11:49.64,Cap,,0,0,0,,ask yourself two {\c&H0043B7E6&}questions.{\c&H00FFFFFF&}
+Dialogue: 0,0:11:49.96,0:11:50.15,Cap,,0,0,0,,{\c&H0043B7E6&}Is{\c&H00FFFFFF&} it mostly water,
+Dialogue: 0,0:11:50.15,0:11:50.25,Cap,,0,0,0,,Is {\c&H0043B7E6&}it{\c&H00FFFFFF&} mostly water,
+Dialogue: 0,0:11:50.25,0:11:50.60,Cap,,0,0,0,,Is it {\c&H0043B7E6&}mostly{\c&H00FFFFFF&} water,
+Dialogue: 0,0:11:50.60,0:11:51.45,Cap,,0,0,0,,Is it mostly {\c&H0043B7E6&}water,{\c&H00FFFFFF&}
+Dialogue: 0,0:11:51.45,0:11:51.70,Cap,,0,0,0,,{\c&H0043B7E6&}like{\c&H00FFFFFF&} lettuce or a
+Dialogue: 0,0:11:51.70,0:11:52.38,Cap,,0,0,0,,like {\c&H0043B7E6&}lettuce{\c&H00FFFFFF&} or a
+Dialogue: 0,0:11:52.38,0:11:52.57,Cap,,0,0,0,,like lettuce {\c&H0043B7E6&}or{\c&H00FFFFFF&} a
+Dialogue: 0,0:11:52.57,0:11:52.63,Cap,,0,0,0,,like lettuce or {\c&H0043B7E6&}a{\c&H00FFFFFF&}
+Dialogue: 0,0:11:52.63,0:11:52.91,Cap,,0,0,0,,{\c&H0043B7E6&}boiled{\c&H00FFFFFF&} potato?
+Dialogue: 0,0:11:52.91,0:11:54.00,Cap,,0,0,0,,boiled {\c&H0043B7E6&}potato?{\c&H00FFFFFF&}
+Dialogue: 0,0:11:54.22,0:11:54.38,Cap,,0,0,0,,{\c&H0043B7E6&}Or{\c&H00FFFFFF&} is it creamy,
+Dialogue: 0,0:11:54.38,0:11:54.51,Cap,,0,0,0,,Or {\c&H0043B7E6&}is{\c&H00FFFFFF&} it creamy,
+Dialogue: 0,0:11:54.51,0:11:54.62,Cap,,0,0,0,,Or is {\c&H0043B7E6&}it{\c&H00FFFFFF&} creamy,
+Dialogue: 0,0:11:54.62,0:11:55.50,Cap,,0,0,0,,Or is it {\c&H0043B7E6&}creamy,{\c&H00FFFFFF&}
+Dialogue: 0,0:11:55.50,0:11:55.73,Cap,,0,0,0,,{\c&H0043B7E6&}like{\c&H00FFFFFF&} mayonnaise or a
+Dialogue: 0,0:11:55.73,0:11:56.57,Cap,,0,0,0,,like {\c&H0043B7E6&}mayonnaise{\c&H00FFFFFF&} or a
+Dialogue: 0,0:11:56.57,0:11:56.76,Cap,,0,0,0,,like mayonnaise {\c&H0043B7E6&}or{\c&H00FFFFFF&} a
+Dialogue: 0,0:11:56.76,0:11:56.84,Cap,,0,0,0,,like mayonnaise or {\c&H0043B7E6&}a{\c&H00FFFFFF&}
+Dialogue: 0,0:11:56.84,0:11:57.12,Cap,,0,0,0,,{\c&H0043B7E6&}cream{\c&H00FFFFFF&} sauce?
+Dialogue: 0,0:11:57.12,0:11:58.15,Cap,,0,0,0,,cream {\c&H0043B7E6&}sauce?{\c&H00FFFFFF&}
+Dialogue: 0,0:11:58.72,0:11:58.88,Cap,,0,0,0,,{\c&H0043B7E6&}If{\c&H00FFFFFF&} the answer to
+Dialogue: 0,0:11:58.88,0:11:59.01,Cap,,0,0,0,,If {\c&H0043B7E6&}the{\c&H00FFFFFF&} answer to
+Dialogue: 0,0:11:59.01,0:11:59.35,Cap,,0,0,0,,If the {\c&H0043B7E6&}answer{\c&H00FFFFFF&} to
+Dialogue: 0,0:11:59.35,0:11:59.57,Cap,,0,0,0,,If the answer {\c&H0043B7E6&}to{\c&H00FFFFFF&}
+Dialogue: 0,0:11:59.57,0:11:59.89,Cap,,0,0,0,,{\c&H0043B7E6&}either{\c&H00FFFFFF&} one is yes,
+Dialogue: 0,0:11:59.89,0:12:00.08,Cap,,0,0,0,,either {\c&H0043B7E6&}one{\c&H00FFFFFF&} is yes,
+Dialogue: 0,0:12:00.08,0:12:00.21,Cap,,0,0,0,,either one {\c&H0043B7E6&}is{\c&H00FFFFFF&} yes,
+Dialogue: 0,0:12:00.21,0:12:01.17,Cap,,0,0,0,,either one is {\c&H0043B7E6&}yes,{\c&H00FFFFFF&}
+Dialogue: 0,0:12:01.23,0:12:01.58,Cap,,0,0,0,,{\c&H0043B7E6&}freeze{\c&H00FFFFFF&} the parts,
+Dialogue: 0,0:12:01.58,0:12:01.70,Cap,,0,0,0,,freeze {\c&H0043B7E6&}the{\c&H00FFFFFF&} parts,
+Dialogue: 0,0:12:01.70,0:12:02.61,Cap,,0,0,0,,freeze the {\c&H0043B7E6&}parts,{\c&H00FFFFFF&}
+Dialogue: 0,0:12:02.61,0:12:02.82,Cap,,0,0,0,,{\c&H0043B7E6&}not{\c&H00FFFFFF&} the dish.
+Dialogue: 0,0:12:02.82,0:12:02.93,Cap,,0,0,0,,not {\c&H0043B7E6&}the{\c&H00FFFFFF&} dish.
+Dialogue: 0,0:12:02.93,0:12:03.85,Cap,,0,0,0,,not the {\c&H0043B7E6&}dish.{\c&H00FFFFFF&}
+Dialogue: 0,0:12:04.76,0:12:05.09,Cap,,0,0,0,,{\c&H0043B7E6&}Thank{\c&H00FFFFFF&} you for spending
+Dialogue: 0,0:12:05.09,0:12:05.23,Cap,,0,0,0,,Thank {\c&H0043B7E6&}you{\c&H00FFFFFF&} for spending
+Dialogue: 0,0:12:05.23,0:12:05.37,Cap,,0,0,0,,Thank you {\c&H0043B7E6&}for{\c&H00FFFFFF&} spending
+Dialogue: 0,0:12:05.37,0:12:05.68,Cap,,0,0,0,,Thank you for {\c&H0043B7E6&}spending{\c&H00FFFFFF&}
+Dialogue: 0,0:12:05.68,0:12:05.84,Cap,,0,0,0,,{\c&H0043B7E6&}this{\c&H00FFFFFF&} time with me.
+Dialogue: 0,0:12:05.84,0:12:06.06,Cap,,0,0,0,,this {\c&H0043B7E6&}time{\c&H00FFFFFF&} with me.
+Dialogue: 0,0:12:06.06,0:12:06.23,Cap,,0,0,0,,this time {\c&H0043B7E6&}with{\c&H00FFFFFF&} me.
+Dialogue: 0,0:12:06.23,0:12:06.92,Cap,,0,0,0,,this time with {\c&H0043B7E6&}me.{\c&H00FFFFFF&}
+Dialogue: 0,0:12:06.98,0:12:07.36,Cap,,0,0,0,,{\c&H0043B7E6&}Stay{\c&H00FFFFFF&} stocked,
+Dialogue: 0,0:12:07.36,0:12:08.21,Cap,,0,0,0,,Stay {\c&H0043B7E6&}stocked,{\c&H00FFFFFF&}
+Dialogue: 0,0:12:08.21,0:12:08.41,Cap,,0,0,0,,{\c&H0043B7E6&}and{\c&H00FFFFFF&} stay ready.
+Dialogue: 0,0:12:08.41,0:12:08.67,Cap,,0,0,0,,and {\c&H0043B7E6&}stay{\c&H00FFFFFF&} ready.
+Dialogue: 0,0:12:08.67,0:12:09.68,Cap,,0,0,0,,and stay {\c&H0043B7E6&}ready.{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.40,0:00:04.30,LTB,,0,0,0,,{\pos(0,0)\fad(400,400)\1c&H2E4A3A&\1a&H50&\p1}m 90 790 l 700 790 l 700 905 l 90 905{\p0}
+Dialogue: 1,0:00:00.40,0:00:04.30,LTB,,0,0,0,,{\pos(0,0)\fad(400,400)\1c&H43B7E6&\p1}m 90 790 l 98 790 l 98 905 l 90 905{\p0}
+Dialogue: 2,0:00:00.40,0:00:04.30,LT1,,0,0,0,,{\pos(122,794)\fad(400,400)}Stocked & Ready
+Dialogue: 2,0:00:00.40,0:00:04.30,LT2,,0,0,0,,{\pos(126,862)\fad(400,400)}WITH CATHERINE REESE
+Dialogue: 3,0:02:02.89,0:02:19.80,LblN,,0,0,0,,{\pos(70,60)\fad(250,250)}10/10
+Dialogue: 3,0:02:02.89,0:02:19.80,LblT,,0,0,0,,{\pos(70,112)\fad(250,250)}Lettuce & salad greens
+Dialogue: 3,0:02:28.85,0:02:34.06,LblN,,0,0,0,,{\pos(70,60)\fad(250,250)}10/10
+Dialogue: 3,0:02:28.85,0:02:34.06,LblT,,0,0,0,,{\pos(70,112)\fad(250,250)}Lettuce & salad greens
+Dialogue: 3,0:02:38.69,0:03:00.83,LblN,,0,0,0,,{\pos(70,60)\fad(250,250)}9/10
+Dialogue: 3,0:02:38.69,0:03:00.83,LblT,,0,0,0,,{\pos(70,112)\fad(250,250)}Mayonnaise salads
+Dialogue: 3,0:03:09.70,0:03:15.52,LblN,,0,0,0,,{\pos(70,60)\fad(250,250)}9/10
+Dialogue: 3,0:03:09.70,0:03:15.52,LblT,,0,0,0,,{\pos(70,112)\fad(250,250)}Mayonnaise salads
+Dialogue: 3,0:03:18.68,0:03:35.66,LblN,,0,0,0,,{\pos(70,60)\fad(250,250)}8/10
+Dialogue: 3,0:03:18.68,0:03:35.66,LblT,,0,0,0,,{\pos(70,112)\fad(250,250)}Eggs in the shell
+Dialogue: 3,0:03:42.70,0:03:49.30,LblN,,0,0,0,,{\pos(70,60)\fad(250,250)}8/10
+Dialogue: 3,0:03:42.70,0:03:49.30,LblT,,0,0,0,,{\pos(70,112)\fad(250,250)}Eggs in the shell
+Dialogue: 3,0:03:52.49,0:04:09.79,LblN,,0,0,0,,{\pos(70,60)\fad(250,250)}7/10
+Dialogue: 3,0:03:52.49,0:04:09.79,LblT,,0,0,0,,{\pos(70,112)\fad(250,250)}Hard-boiled eggs
+Dialogue: 3,0:04:13.31,0:04:16.49,LblN,,0,0,0,,{\pos(70,60)\fad(250,250)}7/10
+Dialogue: 3,0:04:13.31,0:04:16.49,LblT,,0,0,0,,{\pos(70,112)\fad(250,250)}Hard-boiled eggs
+Dialogue: 3,0:04:19.69,0:04:47.02,LblN,,0,0,0,,{\pos(70,60)\fad(250,250)}6/10
+Dialogue: 3,0:04:19.69,0:04:47.02,LblT,,0,0,0,,{\pos(70,112)\fad(250,250)}Sour cream
+Dialogue: 3,0:04:55.90,0:05:13.88,LblN,,0,0,0,,{\pos(70,60)\fad(250,250)}6/10
+Dialogue: 3,0:04:55.90,0:05:13.88,LblT,,0,0,0,,{\pos(70,112)\fad(250,250)}Sour cream
+Dialogue: 3,0:05:18.93,0:05:49.00,LblN,,0,0,0,,{\pos(70,60)\fad(250,250)}5/10
+Dialogue: 3,0:05:18.93,0:05:49.00,LblT,,0,0,0,,{\pos(70,112)\fad(250,250)}Cream sauces & milk gravies
+Dialogue: 3,0:05:57.90,0:05:59.98,LblN,,0,0,0,,{\pos(70,60)\fad(250,250)}5/10
+Dialogue: 3,0:05:57.90,0:05:59.98,LblT,,0,0,0,,{\pos(70,112)\fad(250,250)}Cream sauces & milk gravies
+Dialogue: 3,0:06:03.58,0:06:22.09,LblN,,0,0,0,,{\pos(70,60)\fad(250,250)}4/10
+Dialogue: 3,0:06:03.58,0:06:22.09,LblT,,0,0,0,,{\pos(70,112)\fad(250,250)}Custard & cream pies
+Dialogue: 3,0:06:27.50,0:06:34.12,LblN,,0,0,0,,{\pos(70,60)\fad(250,250)}4/10
+Dialogue: 3,0:06:27.50,0:06:34.12,LblT,,0,0,0,,{\pos(70,112)\fad(250,250)}Custard & cream pies
+Dialogue: 3,0:06:38.28,0:07:05.97,LblN,,0,0,0,,{\pos(70,60)\fad(250,250)}3/10
+Dialogue: 3,0:06:38.28,0:07:05.97,LblT,,0,0,0,,{\pos(70,112)\fad(250,250)}Boiled & baked potatoes
+Dialogue: 3,0:07:15.00,0:07:20.49,LblN,,0,0,0,,{\pos(70,60)\fad(250,250)}3/10
+Dialogue: 3,0:07:15.00,0:07:20.49,LblT,,0,0,0,,{\pos(70,112)\fad(250,250)}Boiled & baked potatoes
+Dialogue: 3,0:07:24.81,0:07:43.06,LblN,,0,0,0,,{\pos(70,60)\fad(250,250)}2/10
+Dialogue: 3,0:07:24.81,0:07:43.06,LblT,,0,0,0,,{\pos(70,112)\fad(250,250)}Pasta & rice in sauce
+Dialogue: 3,0:07:48.30,0:07:55.88,LblN,,0,0,0,,{\pos(70,60)\fad(250,250)}2/10
+Dialogue: 3,0:07:48.30,0:07:55.88,LblT,,0,0,0,,{\pos(70,112)\fad(250,250)}Pasta & rice in sauce
+Dialogue: 3,0:08:00.29,0:08:30.63,LblN,,0,0,0,,{\pos(70,60)\fad(250,250)}1/10
+Dialogue: 3,0:08:00.29,0:08:30.63,LblT,,0,0,0,,{\pos(70,112)\fad(250,250)}Food left in the can
+Dialogue: 3,0:08:39.49,0:08:51.84,LblN,,0,0,0,,{\pos(70,60)\fad(250,250)}1/10
+Dialogue: 3,0:08:39.49,0:08:51.84,LblT,,0,0,0,,{\pos(70,112)\fad(250,250)}Food left in the can

@@ -1,0 +1,1528 @@
+[
+{
+"t": 0,
+"kind": "TH",
+"id": "TH00",
+"ms": 0,
+"dur": 4.633,
+"move": "none"
+},
+{
+"t": 4.633,
+"kind": "BR",
+"id": "F01",
+"dur": 1.761,
+"move": "zin"
+},
+{
+"t": 6.394,
+"kind": "BR",
+"id": "V5B80",
+"dur": 2.741,
+"move": "panR"
+},
+{
+"t": 9.135,
+"kind": "BR",
+"id": "F02",
+"dur": 2.371,
+"move": "zout"
+},
+{
+"t": 11.506,
+"kind": "BR",
+"id": "F01~",
+"dur": 2.444,
+"move": "tightL"
+},
+{
+"t": 13.95,
+"kind": "BR",
+"id": "V5B06",
+"dur": 2.542,
+"move": "zin"
+},
+{
+"t": 16.492,
+"kind": "BR",
+"id": "E01v142698",
+"dur": 2.541,
+"move": "zout"
+},
+{
+"t": 19.033,
+"kind": "TH",
+"id": "TH01",
+"ms": 0.0,
+"dur": 5.732,
+"move": "thclose"
+},
+{
+"t": 24.765,
+"kind": "TH",
+"id": "TH01",
+"ms": 5.732,
+"dur": 10.72,
+"move": "thpush"
+},
+{
+"t": 35.485,
+"kind": "BR",
+"id": "E57p5013763",
+"dur": 1.428,
+"move": "panR"
+},
+{
+"t": 36.913,
+"kind": "BR",
+"id": "V7F01",
+"dur": 2.579,
+"move": "panL"
+},
+{
+"t": 39.492,
+"kind": "BR",
+"id": "E01v255499~",
+"dur": 2.578,
+"move": "tightR"
+},
+{
+"t": 42.07,
+"kind": "TH",
+"id": "TH02",
+"ms": 0.0,
+"dur": 4.88,
+"move": "thclose"
+},
+{
+"t": 46.95,
+"kind": "TH",
+"id": "TH02",
+"ms": 4.88,
+"dur": 9.794,
+"move": "none"
+},
+{
+"t": 56.744,
+"kind": "BR",
+"id": "T01",
+"dur": 4.28,
+"move": "panR"
+},
+{
+"t": 61.024,
+"kind": "BR",
+"id": "E07p957583",
+"dur": 2.475,
+"move": "zout"
+},
+{
+"t": 63.499,
+"kind": "BR",
+"id": "E08p1714174",
+"dur": 2.476,
+"move": "panL"
+},
+{
+"t": 65.975,
+"kind": "BR",
+"id": "E36v12564",
+"dur": 2.784,
+"move": "zin"
+},
+{
+"t": 68.759,
+"kind": "BR",
+"id": "E54v7207",
+"dur": 2.784,
+"move": "zout"
+},
+{
+"t": 71.543,
+"kind": "BR",
+"id": "E43p2972634",
+"dur": 1.333,
+"move": "panR"
+},
+{
+"t": 72.876,
+"kind": "GFX",
+"id": "part1",
+"dur": 2.593,
+"move": "none"
+},
+{
+"t": 75.469,
+"kind": "BR",
+"id": "V5B01",
+"dur": 2.296,
+"move": "panL"
+},
+{
+"t": 77.765,
+"kind": "BR",
+"id": "E01p1997289",
+"dur": 3.37,
+"move": "zin"
+},
+{
+"t": 81.135,
+"kind": "GFX",
+"id": "safe",
+"dur": 9.827,
+"move": "none"
+},
+{
+"t": 90.962,
+"kind": "BR",
+"id": "V5B07",
+"dur": 3.185,
+"move": "panR"
+},
+{
+"t": 94.147,
+"kind": "BR",
+"id": "V5B07~",
+"dur": 1.655,
+"move": "tightR"
+},
+{
+"t": 95.802,
+"kind": "BR",
+"id": "E45p2686020",
+"dur": 2.766,
+"move": "panL"
+},
+{
+"t": 98.568,
+"kind": "BR",
+"id": "T01~",
+"dur": 4.493,
+"move": "tightR"
+},
+{
+"t": 103.061,
+"kind": "BR",
+"id": "Q02~",
+"dur": 3.111,
+"move": "tightL"
+},
+{
+"t": 106.172,
+"kind": "BR",
+"id": "W01~",
+"dur": 3.359,
+"move": "tightR"
+},
+{
+"t": 109.531,
+"kind": "BR",
+"id": "V7F01~",
+"dur": 3.925,
+"move": "tightL"
+},
+{
+"t": 113.456,
+"kind": "GFX",
+"id": "full",
+"dur": 7.63,
+"move": "none"
+},
+{
+"t": 121.086,
+"kind": "BR",
+"id": "V5B06~",
+"dur": 3.086,
+"move": "tightR"
+},
+{
+"t": 124.172,
+"kind": "BR",
+"id": "U13_2",
+"dur": 1.37,
+"move": "panR"
+},
+{
+"t": 125.542,
+"kind": "BR",
+"id": "E40p3679443",
+"dur": 1.371,
+"move": "zout"
+},
+{
+"t": 126.913,
+"kind": "BR",
+"id": "W01",
+"dur": 3.087,
+"move": "panL"
+},
+{
+"t": 130.0,
+"kind": "BR",
+"id": "W01^1",
+"dur": 3.086,
+"move": "tightR"
+},
+{
+"t": 133.086,
+"kind": "BR",
+"id": "E37v7951",
+"dur": 2.457,
+"move": "zout"
+},
+{
+"t": 135.543,
+"kind": "BR",
+"id": "E37p3506781",
+"dur": 2.456,
+"move": "panR"
+},
+{
+"t": 137.999,
+"kind": "BR",
+"id": "E48v50007",
+"dur": 3.062,
+"move": "panL"
+},
+{
+"t": 141.061,
+"kind": "BR",
+"id": "F02~",
+"dur": 4.0,
+"move": "tightR"
+},
+{
+"t": 145.061,
+"kind": "BR",
+"id": "V5B80~",
+"dur": 3.454,
+"move": "tightL"
+},
+{
+"t": 148.515,
+"kind": "TH",
+"id": "TH03",
+"ms": 0.0,
+"dur": 7.711,
+"move": "thclose"
+},
+{
+"t": 156.226,
+"kind": "BR",
+"id": "V5B13",
+"dur": 1.65,
+"move": "zout"
+},
+{
+"t": 157.876,
+"kind": "BR",
+"id": "V5B13~",
+"dur": 3.333,
+"move": "tightL"
+},
+{
+"t": 161.209,
+"kind": "BR",
+"id": "V5B12",
+"dur": 3.334,
+"move": "zin"
+},
+{
+"t": 164.543,
+"kind": "BR",
+"id": "P02~",
+"dur": 2.703,
+"move": "tightL"
+},
+{
+"t": 167.246,
+"kind": "BR",
+"id": "P02~^1",
+"dur": 2.704,
+"move": "tightR"
+},
+{
+"t": 169.95,
+"kind": "BR",
+"id": "V5B11",
+"dur": 2.185,
+"move": "panL"
+},
+{
+"t": 172.135,
+"kind": "BR",
+"id": "E49p1703298",
+"dur": 4.482,
+"move": "zin"
+},
+{
+"t": 176.617,
+"kind": "BR",
+"id": "V5B11~",
+"dur": 2.528,
+"move": "tightL"
+},
+{
+"t": 179.145,
+"kind": "BR",
+"id": "V5B11~^1",
+"dur": 2.527,
+"move": "tightR"
+},
+{
+"t": 181.672,
+"kind": "BR",
+"id": "V5B18",
+"dur": 2.528,
+"move": "panL"
+},
+{
+"t": 184.2,
+"kind": "BR",
+"id": "V5B18^1",
+"dur": 2.528,
+"move": "tightR"
+},
+{
+"t": 186.728,
+"kind": "BR",
+"id": "P01",
+"dur": 3.0,
+"move": "zout"
+},
+{
+"t": 189.728,
+"kind": "BR",
+"id": "E05p1747910",
+"dur": 3.506,
+"move": "panR"
+},
+{
+"t": 193.234,
+"kind": "BR",
+"id": "E05p6018373",
+"dur": 3.506,
+"move": "panL"
+},
+{
+"t": 196.74,
+"kind": "BR",
+"id": "V5B19",
+"dur": 3.432,
+"move": "zin"
+},
+{
+"t": 200.172,
+"kind": "BR",
+"id": "V5B22",
+"dur": 3.704,
+"move": "panR"
+},
+{
+"t": 203.876,
+"kind": "BR",
+"id": "P02",
+"dur": 1.926,
+"move": "zout"
+},
+{
+"t": 205.802,
+"kind": "BR",
+"id": "U11_1",
+"dur": 1.926,
+"move": "panL"
+},
+{
+"t": 207.728,
+"kind": "BR",
+"id": "V5B48",
+"dur": 2.741,
+"move": "zin"
+},
+{
+"t": 210.469,
+"kind": "BR",
+"id": "V5B49",
+"dur": 2.74,
+"move": "zout"
+},
+{
+"t": 213.209,
+"kind": "BR",
+"id": "L01",
+"dur": 3.037,
+"move": "panR"
+},
+{
+"t": 216.246,
+"kind": "BR",
+"id": "V5B12~",
+"dur": 2.47,
+"move": "tightL"
+},
+{
+"t": 218.716,
+"kind": "BR",
+"id": "X02",
+"dur": 3.234,
+"move": "zin"
+},
+{
+"t": 221.95,
+"kind": "BR",
+"id": "E47v131993",
+"dur": 2.37,
+"move": "panR"
+},
+{
+"t": 224.32,
+"kind": "BR",
+"id": "E46p2178656",
+"dur": 2.322,
+"move": "zout"
+},
+{
+"t": 226.642,
+"kind": "BR",
+"id": "L01~",
+"dur": 1.774,
+"move": "tightL"
+},
+{
+"t": 228.416,
+"kind": "TH",
+"id": "TH04",
+"ms": 0.0,
+"dur": 5.784,
+"move": "thpush"
+},
+{
+"t": 234.2,
+"kind": "BR",
+"id": "E57v71710",
+"dur": 1.4,
+"move": "zin"
+},
+{
+"t": 235.6,
+"kind": "TH",
+"id": "TH04",
+"ms": 7.184,
+"dur": 2.404,
+"move": "thclose"
+},
+{
+"t": 238.004,
+"kind": "GFX",
+"id": "part2",
+"dur": 2.621,
+"move": "none"
+},
+{
+"t": 240.625,
+"kind": "BR",
+"id": "E07p1851161",
+"dur": 2.519,
+"move": "zout"
+},
+{
+"t": 243.144,
+"kind": "BR",
+"id": "U04_0",
+"dur": 3.703,
+"move": "panR"
+},
+{
+"t": 246.847,
+"kind": "BR",
+"id": "E07v235776",
+"dur": 3.778,
+"move": "panL"
+},
+{
+"t": 250.625,
+"kind": "GFX",
+"id": "cran",
+"dur": 7.852,
+"move": "none"
+},
+{
+"t": 258.477,
+"kind": "BR",
+"id": "C01",
+"dur": 2.222,
+"move": "zin"
+},
+{
+"t": 260.699,
+"kind": "BR",
+"id": "C01~",
+"dur": 3.741,
+"move": "tightL"
+},
+{
+"t": 264.44,
+"kind": "BR",
+"id": "U02_2",
+"dur": 2.185,
+"move": "zout"
+},
+{
+"t": 266.625,
+"kind": "BR",
+"id": "C02",
+"dur": 2.852,
+"move": "panL"
+},
+{
+"t": 269.477,
+"kind": "BR",
+"id": "V4B20",
+"dur": 2.852,
+"move": "zin"
+},
+{
+"t": 272.329,
+"kind": "BR",
+"id": "E08p5675652",
+"dur": 1.975,
+"move": "zout"
+},
+{
+"t": 274.304,
+"kind": "BR",
+"id": "V4B20~",
+"dur": 1.976,
+"move": "tightR"
+},
+{
+"t": 276.28,
+"kind": "BR",
+"id": "E57p6874834",
+"dur": 1.975,
+"move": "panL"
+},
+{
+"t": 278.255,
+"kind": "BR",
+"id": "U01",
+"dur": 1.333,
+"move": "zin"
+},
+{
+"t": 279.588,
+"kind": "BR",
+"id": "E01v255499",
+"dur": 1.333,
+"move": "panR"
+},
+{
+"t": 280.921,
+"kind": "BR",
+"id": "U05_3",
+"dur": 4.195,
+"move": "zout"
+},
+{
+"t": 285.116,
+"kind": "TH",
+"id": "TH05",
+"ms": 0.0,
+"dur": 6.176,
+"move": "none"
+},
+{
+"t": 291.292,
+"kind": "TH",
+"id": "TH05",
+"ms": 6.176,
+"dur": 6.868,
+"move": "thclose"
+},
+{
+"t": 298.16,
+"kind": "BR",
+"id": "U05_2",
+"dur": 4.317,
+"move": "panL"
+},
+{
+"t": 302.477,
+"kind": "BR",
+"id": "E12p4658412",
+"dur": 3.926,
+"move": "zin"
+},
+{
+"t": 306.403,
+"kind": "GFX",
+"id": "turkey",
+"dur": 17.333,
+"move": "none"
+},
+{
+"t": 323.736,
+"kind": "BR",
+"id": "U02",
+"dur": 3.685,
+"move": "zout"
+},
+{
+"t": 327.421,
+"kind": "BR",
+"id": "U02^1",
+"dur": 3.685,
+"move": "tightR"
+},
+{
+"t": 331.106,
+"kind": "BR",
+"id": "U06_2",
+"dur": 1.766,
+"move": "panL"
+},
+{
+"t": 332.872,
+"kind": "BR",
+"id": "U16_6",
+"dur": 1.765,
+"move": "zin"
+},
+{
+"t": 334.637,
+"kind": "BR",
+"id": "E17v210336~",
+"dur": 1.766,
+"move": "tightL"
+},
+{
+"t": 336.403,
+"kind": "BR",
+"id": "U07_2",
+"dur": 3.629,
+"move": "zout"
+},
+{
+"t": 340.032,
+"kind": "BR",
+"id": "U07_3",
+"dur": 2.617,
+"move": "panL"
+},
+{
+"t": 342.649,
+"kind": "BR",
+"id": "E04v14241",
+"dur": 2.618,
+"move": "zin"
+},
+{
+"t": 345.267,
+"kind": "BR",
+"id": "U07_6",
+"dur": 2.617,
+"move": "zout"
+},
+{
+"t": 347.884,
+"kind": "BR",
+"id": "H01",
+"dur": 2.371,
+"move": "panR"
+},
+{
+"t": 350.255,
+"kind": "BR",
+"id": "E15v221961",
+"dur": 2.37,
+"move": "panL"
+},
+{
+"t": 352.625,
+"kind": "BR",
+"id": "E67p627837",
+"dur": 1.481,
+"move": "zin"
+},
+{
+"t": 354.106,
+"kind": "BR",
+"id": "H02",
+"dur": 2.124,
+"move": "panR"
+},
+{
+"t": 356.23,
+"kind": "BR",
+"id": "E14v267~",
+"dur": 2.123,
+"move": "tightR"
+},
+{
+"t": 358.353,
+"kind": "BR",
+"id": "E16p5390121",
+"dur": 2.124,
+"move": "panL"
+},
+{
+"t": 360.477,
+"kind": "BR",
+"id": "E18v237019",
+"dur": 3.407,
+"move": "zin"
+},
+{
+"t": 363.884,
+"kind": "BR",
+"id": "E17v210336",
+"dur": 3.111,
+"move": "zout"
+},
+{
+"t": 366.995,
+"kind": "BR",
+"id": "S01",
+"dur": 3.926,
+"move": "panR"
+},
+{
+"t": 370.921,
+"kind": "BR",
+"id": "S01^1",
+"dur": 3.926,
+"move": "tightL"
+},
+{
+"t": 374.847,
+"kind": "BR",
+"id": "V5B15",
+"dur": 2.741,
+"move": "zin"
+},
+{
+"t": 377.588,
+"kind": "BR",
+"id": "V5B15^1",
+"dur": 2.741,
+"move": "tightL"
+},
+{
+"t": 380.329,
+"kind": "BR",
+"id": "V5B14",
+"dur": 2.565,
+"move": "zout"
+},
+{
+"t": 382.894,
+"kind": "TH",
+"id": "TH06",
+"ms": 0.0,
+"dur": 5.192,
+"move": "thpush"
+},
+{
+"t": 388.086,
+"kind": "BR",
+"id": "E19v66",
+"dur": 3.428,
+"move": "panL"
+},
+{
+"t": 391.514,
+"kind": "BR",
+"id": "E19v100315",
+"dur": 2.815,
+"move": "zin"
+},
+{
+"t": 394.329,
+"kind": "BR",
+"id": "E65p2566665",
+"dur": 2.426,
+"move": "zout"
+},
+{
+"t": 396.755,
+"kind": "BR",
+"id": "U08_6",
+"dur": 2.426,
+"move": "panR"
+},
+{
+"t": 399.181,
+"kind": "BR",
+"id": "K01",
+"dur": 3.166,
+"move": "panL"
+},
+{
+"t": 402.347,
+"kind": "BR",
+"id": "K01^1",
+"dur": 3.167,
+"move": "tightR"
+},
+{
+"t": 405.514,
+"kind": "BR",
+"id": "E19p2975570",
+"dur": 2.592,
+"move": "panR"
+},
+{
+"t": 408.106,
+"kind": "BR",
+"id": "E20v191429",
+"dur": 2.593,
+"move": "zout"
+},
+{
+"t": 410.699,
+"kind": "BR",
+"id": "E19p2953719",
+"dur": 1.593,
+"move": "panL"
+},
+{
+"t": 412.292,
+"kind": "BR",
+"id": "E20v191429~",
+"dur": 1.592,
+"move": "tightR"
+},
+{
+"t": 413.884,
+"kind": "BR",
+"id": "M01",
+"dur": 3.482,
+"move": "zout"
+},
+{
+"t": 417.366,
+"kind": "BR",
+"id": "E21p2602031",
+"dur": 2.111,
+"move": "panR"
+},
+{
+"t": 419.477,
+"kind": "GFX",
+"id": "eat",
+"dur": 11.935,
+"move": "none"
+},
+{
+"t": 431.412,
+"kind": "TH",
+"id": "TH07",
+"ms": 0.0,
+"dur": 8.822,
+"move": "thclose"
+},
+{
+"t": 440.234,
+"kind": "BR",
+"id": "E22v319443",
+"dur": 2.862,
+"move": "panL"
+},
+{
+"t": 443.096,
+"kind": "BR",
+"id": "E22v319443^1",
+"dur": 2.862,
+"move": "tightR"
+},
+{
+"t": 445.958,
+"kind": "GFX",
+"id": "short",
+"dur": 6.742,
+"move": "none"
+},
+{
+"t": 452.7,
+"kind": "TH",
+"id": "TH08",
+"ms": 0.819,
+"dur": 3.6,
+"move": "none"
+},
+{
+"t": 456.3,
+"kind": "BR",
+"id": "N01",
+"dur": 2.5,
+"move": "panR"
+},
+{
+"t": 458.8,
+"kind": "TH",
+"id": "TH08",
+"ms": 6.919,
+"dur": 6.619,
+"move": "thclose"
+},
+{
+"t": 465.419,
+"kind": "GFX",
+"id": "part3",
+"dur": 2.44,
+"move": "none"
+},
+{
+"t": 467.859,
+"kind": "BR",
+"id": "E26p3281585",
+"dur": 2.988,
+"move": "zout"
+},
+{
+"t": 470.847,
+"kind": "BR",
+"id": "E01",
+"dur": 2.198,
+"move": "panL"
+},
+{
+"t": 473.045,
+"kind": "BR",
+"id": "E25v220476",
+"dur": 2.197,
+"move": "zin"
+},
+{
+"t": 475.242,
+"kind": "BR",
+"id": "E25p943413",
+"dur": 2.198,
+"move": "zout"
+},
+{
+"t": 477.44,
+"kind": "BR",
+"id": "E25v246644",
+"dur": 2.988,
+"move": "panR"
+},
+{
+"t": 480.428,
+"kind": "BR",
+"id": "E27p4836398",
+"dur": 2.189,
+"move": "panL"
+},
+{
+"t": 482.617,
+"kind": "BR",
+"id": "E27v14421",
+"dur": 2.189,
+"move": "zin"
+},
+{
+"t": 484.806,
+"kind": "BR",
+"id": "U15_1",
+"dur": 2.189,
+"move": "panR"
+},
+{
+"t": 486.995,
+"kind": "BR",
+"id": "E27p5966356",
+"dur": 4.39,
+"move": "zout"
+},
+{
+"t": 491.385,
+"kind": "BR",
+"id": "E29v36008",
+"dur": 4.222,
+"move": "panL"
+},
+{
+"t": 495.607,
+"kind": "BR",
+"id": "E30v8259",
+"dur": 1.753,
+"move": "zin"
+},
+{
+"t": 497.36,
+"kind": "BR",
+"id": "E31p2077379",
+"dur": 1.753,
+"move": "zout"
+},
+{
+"t": 499.113,
+"kind": "BR",
+"id": "E32v147",
+"dur": 1.753,
+"move": "panR"
+},
+{
+"t": 500.866,
+"kind": "BR",
+"id": "G01",
+"dur": 2.574,
+"move": "panL"
+},
+{
+"t": 503.44,
+"kind": "BR",
+"id": "E30v14129",
+"dur": 2.575,
+"move": "zin"
+},
+{
+"t": 506.015,
+"kind": "BR",
+"id": "E32p7433786",
+"dur": 1.463,
+"move": "panR"
+},
+{
+"t": 507.478,
+"kind": "BR",
+"id": "E14v267",
+"dur": 1.463,
+"move": "zout"
+},
+{
+"t": 508.941,
+"kind": "BR",
+"id": "E29v237095",
+"dur": 2.296,
+"move": "panL"
+},
+{
+"t": 511.237,
+"kind": "BR",
+"id": "E01v7105~",
+"dur": 2.074,
+"move": "tightR"
+},
+{
+"t": 513.311,
+"kind": "BR",
+"id": "E34v1492",
+"dur": 2.642,
+"move": "zout"
+},
+{
+"t": 515.953,
+"kind": "BR",
+"id": "V4B52",
+"dur": 2.642,
+"move": "panR"
+},
+{
+"t": 518.595,
+"kind": "BR",
+"id": "V4B53",
+"dur": 2.642,
+"move": "panL"
+},
+{
+"t": 521.237,
+"kind": "BR",
+"id": "V6ST34",
+"dur": 2.963,
+"move": "zin"
+},
+{
+"t": 524.2,
+"kind": "BR",
+"id": "E37v209665",
+"dur": 2.704,
+"move": "panR"
+},
+{
+"t": 526.904,
+"kind": "BR",
+"id": "E37p6215207",
+"dur": 2.703,
+"move": "zout"
+},
+{
+"t": 529.607,
+"kind": "BR",
+"id": "U02_9",
+"dur": 2.667,
+"move": "panL"
+},
+{
+"t": 532.274,
+"kind": "BR",
+"id": "E01v7105",
+"dur": 2.667,
+"move": "zin"
+},
+{
+"t": 534.941,
+"kind": "BR",
+"id": "A01",
+"dur": 3.296,
+"move": "zout"
+},
+{
+"t": 538.237,
+"kind": "BR",
+"id": "V5B34",
+"dur": 3.296,
+"move": "panR"
+},
+{
+"t": 541.533,
+"kind": "GFX",
+"id": "part4",
+"dur": 3.482,
+"move": "none"
+},
+{
+"t": 545.015,
+"kind": "BR",
+"id": "V5B48~",
+"dur": 3.926,
+"move": "tightL"
+},
+{
+"t": 548.941,
+"kind": "BR",
+"id": "V5B56",
+"dur": 3.925,
+"move": "zin"
+},
+{
+"t": 552.866,
+"kind": "BR",
+"id": "V5B56~",
+"dur": 2.445,
+"move": "tightL"
+},
+{
+"t": 555.311,
+"kind": "BR",
+"id": "E49p279849",
+"dur": 2.444,
+"move": "zout"
+},
+{
+"t": 557.755,
+"kind": "BR",
+"id": "U05_1",
+"dur": 2.297,
+"move": "panL"
+},
+{
+"t": 560.052,
+"kind": "GFX",
+"id": "thaw",
+"dur": 12.814,
+"move": "none"
+},
+{
+"t": 572.866,
+"kind": "BR",
+"id": "E21p4287458",
+"dur": 2.223,
+"move": "zin"
+},
+{
+"t": 575.089,
+"kind": "BR",
+"id": "E49p1703298~",
+"dur": 3.185,
+"move": "tightL"
+},
+{
+"t": 578.274,
+"kind": "BR",
+"id": "R02",
+"dur": 2.861,
+"move": "panR"
+},
+{
+"t": 581.135,
+"kind": "TH",
+"id": "TH09",
+"ms": 0.0,
+"dur": 10.028,
+"move": "thpush"
+},
+{
+"t": 591.163,
+"kind": "TH",
+"id": "TH09",
+"ms": 10.028,
+"dur": 3.016,
+"move": "thclose"
+},
+{
+"t": 594.179,
+"kind": "BR",
+"id": "V5B50",
+"dur": 3.28,
+"move": "panL"
+},
+{
+"t": 597.459,
+"kind": "BR",
+"id": "E05v4647",
+"dur": 1.871,
+"move": "zin"
+},
+{
+"t": 599.33,
+"kind": "BR",
+"id": "E17p1735153",
+"dur": 1.87,
+"move": "panR"
+},
+{
+"t": 601.2,
+"kind": "TH",
+"id": "TH10",
+"ms": 0.584,
+"dur": 7.609,
+"move": "none"
+},
+{
+"t": 608.809,
+"kind": "BR",
+"id": "Z02",
+"dur": 4.428,
+"move": "zout"
+},
+{
+"t": 613.237,
+"kind": "BR",
+"id": "E55v7605",
+"dur": 2.407,
+"move": "panL"
+},
+{
+"t": 615.644,
+"kind": "BR",
+"id": "E42v51749",
+"dur": 2.408,
+"move": "zin"
+},
+{
+"t": 618.052,
+"kind": "GFX",
+"id": "coin",
+"dur": 9.777,
+"move": "none"
+},
+{
+"t": 627.829,
+"kind": "BR",
+"id": "Z03",
+"dur": 4.322,
+"move": "zout"
+},
+{
+"t": 632.151,
+"kind": "BR",
+"id": "D01",
+"dur": 4.197,
+"move": "panR"
+},
+{
+"t": 636.348,
+"kind": "BR",
+"id": "E48v50007~",
+"dur": 3.481,
+"move": "tightL"
+},
+{
+"t": 639.829,
+"kind": "BR",
+"id": "E54v30584",
+"dur": 3.667,
+"move": "zin"
+},
+{
+"t": 643.496,
+"kind": "BR",
+"id": "E44v327388",
+"dur": 3.667,
+"move": "panR"
+},
+{
+"t": 647.163,
+"kind": "BR",
+"id": "E45p7182677",
+"dur": 3.259,
+"move": "zout"
+},
+{
+"t": 650.422,
+"kind": "BR",
+"id": "E01p422532",
+"dur": 2.065,
+"move": "panL"
+},
+{
+"t": 652.487,
+"kind": "BR",
+"id": "E68v190370",
+"dur": 2.064,
+"move": "zin"
+},
+{
+"t": 654.551,
+"kind": "BR",
+"id": "E37p3506782",
+"dur": 2.065,
+"move": "zout"
+},
+{
+"t": 656.616,
+"kind": "TH",
+"id": "TH11",
+"ms": 0.0,
+"dur": 7.984,
+"move": "thclose"
+},
+{
+"t": 664.6,
+"kind": "BR",
+"id": "E42v4926",
+"dur": 1.4,
+"move": "panR"
+},
+{
+"t": 666.0,
+"kind": "TH",
+"id": "TH11",
+"ms": 9.384,
+"dur": 8.0,
+"move": "thpush"
+},
+{
+"t": 674.0,
+"kind": "BR",
+"id": "E01v142698~",
+"dur": 2.978,
+"move": "tightL"
+},
+{
+"t": 676.978,
+"kind": "BR",
+"id": "V5B53",
+"dur": 2.556,
+"move": "zin"
+},
+{
+"t": 679.534,
+"kind": "BR",
+"id": "X01~",
+"dur": 2.555,
+"move": "tightL"
+},
+{
+"t": 682.089,
+"kind": "BR",
+"id": "X02~",
+"dur": 2.407,
+"move": "tightR"
+},
+{
+"t": 684.496,
+"kind": "BR",
+"id": "V5B36",
+"dur": 3.913,
+"move": "panL"
+},
+{
+"t": 688.409,
+"kind": "BR",
+"id": "M01~",
+"dur": 3.914,
+"move": "tightR"
+},
+{
+"t": 692.323,
+"kind": "BR",
+"id": "Z02~",
+"dur": 1.531,
+"move": "tightL"
+},
+{
+"t": 693.854,
+"kind": "BR",
+"id": "E36v119",
+"dur": 1.531,
+"move": "panR"
+},
+{
+"t": 695.385,
+"kind": "BR",
+"id": "U14_4",
+"dur": 2.504,
+"move": "panL"
+},
+{
+"t": 697.889,
+"kind": "BR",
+"id": "E43v90453",
+"dur": 2.505,
+"move": "zin"
+},
+{
+"t": 700.394,
+"kind": "TH",
+"id": "TH12",
+"ms": 0.0,
+"dur": 5.406,
+"move": "thclose"
+},
+{
+"t": 705.8,
+"kind": "BR",
+"id": "X01",
+"dur": 3.77,
+"move": "panR"
+},
+{
+"t": 709.57,
+"kind": "BR",
+"id": "E46v8256",
+"dur": 2.963,
+"move": "zout"
+},
+{
+"t": 712.533,
+"kind": "BR",
+"id": "Z01",
+"dur": 4.067,
+"move": "panL"
+},
+{
+"t": 716.6,
+"kind": "TH",
+"id": "TH13",
+"ms": 0.465,
+"dur": 3.9,
+"move": "none"
+},
+{
+"t": 720.5,
+"kind": "BR",
+"id": "Q02",
+"dur": 2.515,
+"move": "zin"
+},
+{
+"t": 723.015,
+"kind": "BR",
+"id": "U14_7",
+"dur": 1.605,
+"move": "zout"
+}
+]

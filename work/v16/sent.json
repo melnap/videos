@@ -1,0 +1,1004 @@
+[
+{
+"i": 0,
+"s": 0.0,
+"e": 7.686,
+"text": "Your pantry probably wouldn't pass FEMA's Ready.gov emergency food list, and the first winter storm is when you'd find out."
+},
+{
+"i": 1,
+"s": 8.117,
+"e": 8.933,
+"text": "It looks full."
+},
+{
+"i": 2,
+"s": 9.729,
+"e": 10.685,
+"text": "That's the problem."
+},
+{
+"i": 3,
+"s": 11.62,
+"e": 13.599,
+"text": "The power goes out on a January night."
+},
+{
+"i": 4,
+"s": 13.717,
+"e": 18.382,
+"text": "The stove won't light, the refrigerator goes quiet, and the roads are ice."
+},
+{
+"i": 5,
+"s": 19.178,
+"e": 25.52,
+"text": "You open the pantry and find flour, a bag of dry beans, a box of cake mix and three kinds of pasta."
+},
+{
+"i": 6,
+"s": 26.316,
+"e": 27.219,
+"text": "Plenty of food."
+},
+{
+"i": 7,
+"s": 28.015,
+"e": 32.411,
+"text": "Almost none of it you can eat without heat, water and an hour of cooking."
+},
+{
+"i": 8,
+"s": 32.54,
+"e": 33.906,
+"text": "That isn't your fault."
+},
+{
+"i": 9,
+"s": 34.335,
+"e": 38.194,
+"text": "Nobody teaches us to stock a pantry for the day things stop working."
+},
+{
+"i": 10,
+"s": 38.7,
+"e": 41.431,
+"text": "We stock it for an ordinary Tuesday."
+},
+{
+"i": 11,
+"s": 41.667,
+"e": 54.105,
+"text": "So today I'm going through the fifteen foods FEMA tells every family to keep on hand as part of a disaster supply kit, why each one is on the list, and how to store them so they're still good when you need them."
+},
+{
+"i": 12,
+"s": 54.481,
+"e": 59.028,
+"text": "One of them is among the cheapest things in the store, and it keeps for years."
+},
+{
+"i": 13,
+"s": 59.404,
+"e": 62.576,
+"text": "One is something most people never think to store at all."
+},
+{
+"i": 14,
+"s": 63.371,
+"e": 68.789,
+"text": "And the one at number one needs no stove, no refrigerator and no can opener."
+},
+{
+"i": 15,
+"s": 68.886,
+"e": 69.875,
+"text": "We'll get there."
+},
+{
+"i": 16,
+"s": 70.466,
+"e": 71.358,
+"text": "I'm Catherine."
+},
+{
+"i": 17,
+"s": 72.154,
+"e": 74.143,
+"text": "I didn't grow up with a stocked pantry."
+},
+{
+"i": 18,
+"s": 74.465,
+"e": 79.356,
+"text": "I built mine one grocery trip at a time, and I made most of the mistakes first."
+},
+{
+"i": 19,
+"s": 79.636,
+"e": 81.356,
+"text": "So here's what actually works."
+},
+{
+"i": 20,
+"s": 82.291,
+"e": 84.323,
+"text": "First, where this list comes from."
+},
+{
+"i": 21,
+"s": 85.258,
+"e": 96.469,
+"text": "FEMA's preparedness site, Ready.gov, tells families to build a disaster supply kit with at least several days of non-perishable food and one gallon of water per person per day."
+},
+{
+"i": 22,
+"s": 97.405,
+"e": 104.178,
+"text": "FEMA also published a longer guide with the American Red Cross and the USDA called Food and Water in an Emergency."
+},
+{
+"i": 23,
+"s": 105.113,
+"e": 106.435,
+"text": "That guide goes further."
+},
+{
+"i": 24,
+"s": 106.94,
+"e": 111.251,
+"text": "It suggests a two-week supply and explains how long each kind of food keeps."
+},
+{
+"i": 25,
+"s": 112.186,
+"e": 114.594,
+"text": "Most of what I'll share comes from those two sources."
+},
+{
+"i": 26,
+"s": 115.53,
+"e": 124.398,
+"text": "And because winter storms don't always clear up in three days, I'll also show you how one of the most prepared communities in the country handles the question of how much is enough."
+},
+{
+"i": 27,
+"s": 125.494,
+"e": 126.472,
+"text": "Number fifteen."
+},
+{
+"i": 28,
+"s": 127.16,
+"e": 128.977,
+"text": "Instant coffee, tea and cocoa."
+},
+{
+"i": 29,
+"s": 129.913,
+"e": 136.578,
+"text": "This one surprises people, but it's on FEMA's list of foods that keep for a very long time in proper containers."
+},
+{
+"i": 30,
+"s": 137.373,
+"e": 139.469,
+"text": "And in winter it matters more than you'd think."
+},
+{
+"i": 31,
+"s": 140.265,
+"e": 147.424,
+"text": "When the house is cold and the power is out, a hot drink is comfort, warmth and routine all at once."
+},
+{
+"i": 32,
+"s": 148.209,
+"e": 155.637,
+"text": "Ready.gov even lists comfort foods as part of a good emergency supply, because a calm family makes better decisions."
+},
+{
+"i": 33,
+"s": 156.54,
+"e": 158.755,
+"text": "Keep the jars tightly closed and dry."
+},
+{
+"i": 34,
+"s": 159.657,
+"e": 160.518,
+"text": "Number fourteen."
+},
+{
+"i": 35,
+"s": 160.83,
+"e": 161.485,
+"text": "Salt."
+},
+{
+"i": 36,
+"s": 162.399,
+"e": 164.645,
+"text": "This is the cheap one that keeps for years."
+},
+{
+"i": 37,
+"s": 165.548,
+"e": 170.783,
+"text": "FEMA's guide lists salt among the foods that can be stored indefinitely in proper conditions."
+},
+{
+"i": 38,
+"s": 171.708,
+"e": 179.18,
+"text": "It seasons plain rice, beans and canned vegetables, so the same few foods don't become impossible to eat by day five."
+},
+{
+"i": 39,
+"s": 180.094,
+"e": 183.49,
+"text": "Keep the container sealed so it doesn't pick up moisture and harden."
+},
+{
+"i": 40,
+"s": 184.404,
+"e": 185.34,
+"text": "Number thirteen."
+},
+{
+"i": 41,
+"s": 186.017,
+"e": 186.555,
+"text": "Bouillon."
+},
+{
+"i": 42,
+"s": 187.468,
+"e": 190.607,
+"text": "FEMA's guide lists bouillon products with the long keepers."
+},
+{
+"i": 43,
+"s": 190.983,
+"e": 198.347,
+"text": "A cube or a spoonful of powder in hot water turns into a warm cup of broth, or a pot of rice into something with flavor."
+},
+{
+"i": 44,
+"s": 198.852,
+"e": 202.798,
+"text": "Just keep it dry, because moisture turns the powder into a solid lump."
+},
+{
+"i": 45,
+"s": 203.733,
+"e": 204.561,
+"text": "Number twelve."
+},
+{
+"i": 46,
+"s": 205.249,
+"e": 206.743,
+"text": "Dry cereal and granola."
+},
+{
+"i": 47,
+"s": 207.829,
+"e": 212.194,
+"text": "Ready.gov lists dry cereal and granola because they need no cooking at all."
+},
+{
+"i": 48,
+"s": 213.129,
+"e": 217.901,
+"text": "They're breakfast for children, a snack for adults, and filling straight from the box."
+},
+{
+"i": 49,
+"s": 218.998,
+"e": 226.415,
+"text": "FEMA's guide says ready-to-eat cereals keep about a year when they're stored in a sealed metal container rather than an open box."
+},
+{
+"i": 50,
+"s": 227.211,
+"e": 232.295,
+"text": "Once a bag is open, fold it shut and put the whole thing in a container with a lid."
+},
+{
+"i": 51,
+"s": 233.091,
+"e": 234.005,
+"text": "Number eleven."
+},
+{
+"i": 52,
+"s": 234.94,
+"e": 235.768,
+"text": "Crackers."
+},
+{
+"i": 53,
+"s": 236.359,
+"e": 240.025,
+"text": "Crackers are on the Ready.gov list, with one specific note."
+},
+{
+"i": 54,
+"s": 240.616,
+"e": 245.141,
+"text": "It says to choose salt-free crackers and to avoid foods that will make you thirsty."
+},
+{
+"i": 55,
+"s": 246.077,
+"e": 251.334,
+"text": "In an emergency, water is precious, and salty snacks make you drink more of it."
+},
+{
+"i": 56,
+"s": 252.269,
+"e": 255.021,
+"text": "Crackers are also one of the shortest keepers on the list."
+},
+{
+"i": 57,
+"s": 255.709,
+"e": 259.525,
+"text": "FEMA's guide says to use dry, crisp crackers within about six months."
+},
+{
+"i": 58,
+"s": 260.213,
+"e": 261.74,
+"text": "Its storage tip is simple."
+},
+{
+"i": 59,
+"s": 262.169,
+"e": 265.223,
+"text": "Wrap them in plastic bags and keep them in tight containers."
+},
+{
+"i": 60,
+"s": 265.814,
+"e": 267.544,
+"text": "A stale cracker is still safe."
+},
+{
+"i": 61,
+"s": 267.975,
+"e": 270.049,
+"text": "It's just discouraging when it's what's for dinner."
+},
+{
+"i": 62,
+"s": 271.092,
+"e": 271.855,
+"text": "Number ten."
+},
+{
+"i": 63,
+"s": 272.898,
+"e": 273.683,
+"text": "Dried fruit."
+},
+{
+"i": 64,
+"s": 274.565,
+"e": 280.015,
+"text": "Dried fruit is on the Ready.gov list because it's sweet, light and needs nothing."
+},
+{
+"i": 65,
+"s": 281.229,
+"e": 285.378,
+"text": "Raisins on oatmeal or a handful of dried apricots feel like a treat on a hard day."
+},
+{
+"i": 66,
+"s": 286.066,
+"e": 289.41,
+"text": "FEMA's guide puts dried fruit in the use-within-six-months group."
+},
+{
+"i": 67,
+"s": 289.786,
+"e": 298.095,
+"text": "It also says to empty opened packages of dried fruit, nuts and sugar into screw-top jars or airtight cans to keep pests out."
+},
+{
+"i": 68,
+"s": 298.418,
+"e": 300.278,
+"text": "That's a habit worth starting today."
+},
+{
+"i": 69,
+"s": 300.654,
+"e": 301.374,
+"text": "Number nine."
+},
+{
+"i": 70,
+"s": 301.879,
+"e": 302.503,
+"text": "Nuts."
+},
+{
+"i": 71,
+"s": 303.439,
+"e": 310.276,
+"text": "Nuts are calories, protein and fat in a small space, which is exactly what your body needs when the house is cold."
+},
+{
+"i": 72,
+"s": 311.554,
+"e": 317.079,
+"text": "Ready.gov lists them, and FEMA's guide puts canned nuts in the use-within-one-year group."
+},
+{
+"i": 73,
+"s": 317.875,
+"e": 323.368,
+"text": "Nuts go rancid over time because of their oil, so buy what your family will eat in a year and rotate them."
+},
+{
+"i": 74,
+"s": 324.164,
+"e": 326.507,
+"text": "Before we go on, I'd love to hear from you."
+},
+{
+"i": 75,
+"s": 327.099,
+"e": 331.689,
+"text": "If the power went out tonight for three days, what's the first thing in your pantry you'd reach for?"
+},
+{
+"i": 76,
+"s": 332.785,
+"e": 333.86,
+"text": "Tell me in the comments."
+},
+{
+"i": 77,
+"s": 334.065,
+"e": 336.451,
+"text": "I read them, and I always learn something."
+},
+{
+"i": 78,
+"s": 337.386,
+"e": 338.225,
+"text": "Number eight."
+},
+{
+"i": 79,
+"s": 338.913,
+"e": 339.816,
+"text": "Canned juice."
+},
+{
+"i": 80,
+"s": 340.751,
+"e": 347.653,
+"text": "Ready.gov lists canned juices, and FEMA's guide groups canned fruit juices with the foods to use within a year."
+},
+{
+"i": 81,
+"s": 348.243,
+"e": 356.951,
+"text": "Juice counts toward the liquid your body needs, it gives children something they'll actually drink, and it adds vitamin C to a menu of mostly canned food."
+},
+{
+"i": 82,
+"s": 357.542,
+"e": 358.403,
+"text": "Number seven."
+},
+{
+"i": 83,
+"s": 358.681,
+"e": 359.832,
+"text": "Shelf-stable milk."
+},
+{
+"i": 84,
+"s": 360.337,
+"e": 367.701,
+"text": "Ready.gov lists non-perishable pasteurized milk, the kind in sealed cartons that needs no refrigeration until it's opened."
+},
+{
+"i": 85,
+"s": 368.636,
+"e": 370.56,
+"text": "FEMA's guide adds powdered milk."
+},
+{
+"i": 86,
+"s": 371.495,
+"e": 374.731,
+"text": "In a regular box, it says to use it within six months."
+},
+{
+"i": 87,
+"s": 375.419,
+"e": 380.02,
+"text": "In nitrogen-packed cans, it lists powdered milk with the foods that keep indefinitely."
+},
+{
+"i": 88,
+"s": 380.611,
+"e": 383.439,
+"text": "If you have children, this is one to have on the shelf."
+},
+{
+"i": 89,
+"s": 384.029,
+"e": 387.878,
+"text": "And once a carton is open, it needs the cold like any other milk."
+},
+{
+"i": 90,
+"s": 388.566,
+"e": 389.416,
+"text": "Number six."
+},
+{
+"i": 91,
+"s": 389.92,
+"e": 390.748,
+"text": "Canned soup."
+},
+{
+"i": 92,
+"s": 391.436,
+"e": 396.79,
+"text": "FEMA's guide lists canned condensed meat and vegetable soups in the use-within-one-year group."
+},
+{
+"i": 93,
+"s": 397.381,
+"e": 404.519,
+"text": "In winter, a can of soup is the closest thing to a hot meal you can make on a camp stove or even eat lukewarm."
+},
+{
+"i": 94,
+"s": 405.315,
+"e": 410.937,
+"text": "Ready.gov also suggests canned foods with a high liquid content, and soup is the best example."
+},
+{
+"i": 95,
+"s": 411.366,
+"e": 414.033,
+"text": "It feeds you and it hydrates you at the same time."
+},
+{
+"i": 96,
+"s": 414.968,
+"e": 415.796,
+"text": "Number five."
+},
+{
+"i": 97,
+"s": 416.731,
+"e": 418.301,
+"text": "Canned fruits and vegetables."
+},
+{
+"i": 98,
+"s": 418.58,
+"e": 420.246,
+"text": "These are on both lists."
+},
+{
+"i": 99,
+"s": 421.181,
+"e": 423.601,
+"text": "FEMA's guide says to use them within about a year."
+},
+{
+"i": 100,
+"s": 423.837,
+"e": 430.416,
+"text": "Canned vegetables round out rice and beans, and canned fruit is often the only fresh-tasting thing on day four."
+},
+{
+"i": 101,
+"s": 431.513,
+"e": 434.426,
+"text": "Here's FEMA's rule for storing every can on this list."
+},
+{
+"i": 102,
+"s": 434.802,
+"e": 437.984,
+"text": "Keep them in a dry, cool, dark spot."
+},
+{
+"i": 103,
+"s": 438.156,
+"e": 440.553,
+"text": "Put new cans at the back and older ones in front."
+},
+{
+"i": 104,
+"s": 440.725,
+"e": 443.95,
+"text": "And date your supplies with a marker, so you always know what to use first."
+},
+{
+"i": 105,
+"s": 444.638,
+"e": 446.09,
+"text": "One more rule of my own."
+},
+{
+"i": 106,
+"s": 446.68,
+"e": 450.83,
+"text": "If a can is swollen, leaking or badly dented, don't use it."
+},
+{
+"i": 107,
+"s": 451.766,
+"e": 452.528,
+"text": "Number four."
+},
+{
+"i": 108,
+"s": 453.216,
+"e": 455.044,
+"text": "White rice and dry pasta."
+},
+{
+"i": 109,
+"s": 455.635,
+"e": 461.387,
+"text": "FEMA's guide lists both with the foods that can be stored indefinitely in proper containers and conditions."
+},
+{
+"i": 110,
+"s": 461.978,
+"e": 467.729,
+"text": "In plain words, that means airtight, dry and cool, not the thin bag from the store."
+},
+{
+"i": 111,
+"s": 468.665,
+"e": 472.9,
+"text": "They're cheap, filling and they stretch everything else on this list."
+},
+{
+"i": 112,
+"s": 473.492,
+"e": 476.459,
+"text": "But here's the catch, and it's why they're not higher."
+},
+{
+"i": 113,
+"s": 477.34,
+"e": 480.437,
+"text": "Rice and pasta need water and heat."
+},
+{
+"i": 114,
+"s": 481.318,
+"e": 483.909,
+"text": "In a winter outage, you may have neither to spare."
+},
+{
+"i": 115,
+"s": 484.79,
+"e": 488.198,
+"text": "So they belong in your supply, but they shouldn't be the only thing in it."
+},
+{
+"i": 116,
+"s": 489.079,
+"e": 491.713,
+"text": "Pair them with foods you can eat straight from the can."
+},
+{
+"i": 117,
+"s": 492.144,
+"e": 492.864,
+"text": "Number three."
+},
+{
+"i": 118,
+"s": 493.036,
+"e": 493.885,
+"text": "Canned meat."
+},
+{
+"i": 119,
+"s": 494.208,
+"e": 499.389,
+"text": "Ready.gov lists ready-to-eat canned meats first, along with a can opener."
+},
+{
+"i": 120,
+"s": 499.819,
+"e": 505.937,
+"text": "Canned chicken, tuna, salmon and beef are cooked protein you can eat cold if you have to."
+},
+{
+"i": 121,
+"s": 506.14,
+"e": 515.181,
+"text": "Like every can on this list, rotate them into your regular meals, so the oldest ones get eaten first and nothing sits for years."
+},
+{
+"i": 122,
+"s": 515.869,
+"e": 517.708,
+"text": "And please don't skip the can opener."
+},
+{
+"i": 123,
+"s": 517.987,
+"e": 522.18,
+"text": "A pantry full of cans with no manual opener is a pantry you can't use."
+},
+{
+"i": 124,
+"s": 522.868,
+"e": 527.136,
+"text": "Keep one with your supplies, not in the kitchen drawer where it gets borrowed."
+},
+{
+"i": 125,
+"s": 528.189,
+"e": 528.952,
+"text": "Number two."
+},
+{
+"i": 126,
+"s": 529.715,
+"e": 530.662,
+"text": "Vitamins."
+},
+{
+"i": 127,
+"s": 531.424,
+"e": 533.887,
+"text": "This is the one most people never think to store."
+},
+{
+"i": 128,
+"s": 534.94,
+"e": 543.207,
+"text": "Ready.gov lists vitamins, and FEMA's guide recommends including vitamin, mineral and protein supplements in your stockpile."
+},
+{
+"i": 129,
+"s": 544.002,
+"e": 549.312,
+"text": "When you're living on canned food and crackers for a week, a daily vitamin helps fill the gaps."
+},
+{
+"i": 130,
+"s": 550.409,
+"e": 556.182,
+"text": "If anyone in your family takes medicine every day, keep a few extra days of it with your supplies too."
+},
+{
+"i": 131,
+"s": 556.612,
+"e": 557.44,
+"text": "And number one."
+},
+{
+"i": 132,
+"s": 558.128,
+"e": 558.87,
+"text": "Peanut butter."
+},
+{
+"i": 133,
+"s": 559.558,
+"e": 564.266,
+"text": "This is the one that needs no stove, no refrigerator and no can opener."
+},
+{
+"i": 134,
+"s": 564.588,
+"e": 565.943,
+"text": "It's on both FEMA lists."
+},
+{
+"i": 135,
+"s": 566.148,
+"e": 573.618,
+"text": "It's protein and calories in a jar, children will eat it, and it goes on crackers, on bread or straight off a spoon."
+},
+{
+"i": 136,
+"s": 574.714,
+"e": 577.66,
+"text": "FEMA's guide puts it in the use-within-one-year group."
+},
+{
+"i": 137,
+"s": 578.037,
+"e": 584.498,
+"text": "Keep the jar sealed until you need it, and keep one unopened jar with your emergency supply at all times."
+},
+{
+"i": 138,
+"s": 584.648,
+"e": 586.163,
+"text": "So that's FEMA's list."
+},
+{
+"i": 139,
+"s": 586.669,
+"e": 588.474,
+"text": "Now, how much is enough?"
+},
+{
+"i": 140,
+"s": 588.98,
+"e": 591.27,
+"text": "Ready.gov's minimum is a few days."
+},
+{
+"i": 141,
+"s": 591.549,
+"e": 593.968,
+"text": "FEMA's own guide suggests two weeks."
+},
+{
+"i": 142,
+"s": 594.087,
+"e": 613.168,
+"text": "And the Church of Jesus Christ of Latter-day Saints, which has encouraged home food storage for generations, asks families to build a three-month supply of the foods they normally eat, and then add longer-term staples like wheat, white rice and beans, which it says can last thirty years or more when they're packaged and stored properly."
+},
+{
+"i": 143,
+"s": 614.264,
+"e": 618.199,
+"text": "What I like most about the Church's guidance is the warning that comes with it."
+},
+{
+"i": 144,
+"s": 619.135,
+"e": 625.198,
+"text": "It says not to go to extremes, and that it isn't prudent to go into debt to build your food storage all at once."
+},
+{
+"i": 145,
+"s": 625.627,
+"e": 627.509,
+"text": "Start with one extra week."
+},
+{
+"i": 146,
+"s": 628.014,
+"e": 630.776,
+"text": "Buy a few extra items each grocery trip."
+},
+{
+"i": 147,
+"s": 631.035,
+"e": 632.121,
+"text": "Then grow from there."
+},
+{
+"i": 148,
+"s": 633.012,
+"e": 634.915,
+"text": "Two last things that matter in winter."
+},
+{
+"i": 149,
+"s": 635.474,
+"e": 636.012,
+"text": "Water."
+},
+{
+"i": 150,
+"s": 636.764,
+"e": 643.096,
+"text": "FEMA says one gallon per person per day, and more for children, nursing mothers and anyone who's sick."
+},
+{
+"i": 151,
+"s": 644.139,
+"e": 646.548,
+"text": "Its guide also says something I've never forgotten."
+},
+{
+"i": 152,
+"s": 647.138,
+"e": 649.643,
+"text": "If supplies run low, never ration water."
+},
+{
+"i": 153,
+"s": 650.439,
+"e": 652.944,
+"text": "Drink what you need today, and look for more tomorrow."
+},
+{
+"i": 154,
+"s": 653.449,
+"e": 654.738,
+"text": "And the order you eat in."
+},
+{
+"i": 155,
+"s": 655.427,
+"e": 660.694,
+"text": "When the power goes off, FEMA's guide says to use the perishable food in the refrigerator first."
+},
+{
+"i": 156,
+"s": 661.016,
+"e": 661.834,
+"text": "Then the freezer."
+},
+{
+"i": 157,
+"s": 662.263,
+"e": 664.467,
+"text": "Only after that, start on the pantry."
+},
+{
+"i": 158,
+"s": 665.747,
+"e": 677.443,
+"text": "The USDA says an unopened refrigerator keeps food cold for about four hours, and a full freezer holds its temperature for about forty-eight, or twenty-four if it's half full."
+},
+{
+"i": 159,
+"s": 678.227,
+"e": 680.528,
+"text": "Your pantry is the last line, not the first."
+},
+{
+"i": 160,
+"s": 680.808,
+"e": 683.721,
+"text": "If you take one thing from this video, make it this."
+},
+{
+"i": 161,
+"s": 684.978,
+"e": 688.601,
+"text": "Look at your shelves tonight and ask one question about every item."
+},
+{
+"i": 162,
+"s": 689.849,
+"e": 692.17,
+"text": "Could my family eat this without power?"
+},
+{
+"i": 163,
+"s": 692.664,
+"e": 701.856,
+"text": "If the answer is no for most of it, start this week with a jar of peanut butter, a few cans of meat and soup, a box of crackers and a gallon of water per person."
+},
+{
+"i": 164,
+"s": 702.651,
+"e": 704.21,
+"text": "Thank you for spending this time with me."
+},
+{
+"i": 165,
+"s": 704.64,
+"e": 711.541,
+"text": "If you want a warning before the next storm hits, the free FEMA app can send you weather alerts from the National Weather Service."
+},
+{
+"i": 166,
+"s": 712.047,
+"e": 713.777,
+"text": "Stay stocked, and stay ready."
+}
+]

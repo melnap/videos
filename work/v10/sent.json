@@ -1,0 +1,1626 @@
+[
+{
+"i": 0,
+"w0": 0,
+"w1": 15,
+"s": 0.0,
+"e": 4.333,
+"t": "Your freezer is probably costing you money right now, and you think it's saving you."
+},
+{
+"i": 1,
+"w0": 15,
+"w1": 20,
+"s": 4.593,
+"e": 6.148,
+"t": "Open it tonight and look."
+},
+{
+"i": 2,
+"w0": 20,
+"w1": 30,
+"s": 6.444,
+"e": 8.741,
+"t": "Two pounds of ground beef with no date on them."
+},
+{
+"i": 3,
+"w0": 30,
+"w1": 35,
+"s": 9.185,
+"e": 11.185,
+"t": "Chicken with white, leathery edges."
+},
+{
+"i": 4,
+"w0": 35,
+"w1": 41,
+"s": 11.556,
+"e": 13.704,
+"t": "A foil package nobody can name."
+},
+{
+"i": 5,
+"w0": 41,
+"w1": 63,
+"s": 14.0,
+"e": 19.037,
+"t": "Every one of those went in to save money, and a lot of it will end up in the trash by spring."
+},
+{
+"i": 6,
+"w0": 63,
+"w1": 67,
+"s": 19.333,
+"e": 20.37,
+"t": "Here's the hard truth."
+},
+{
+"i": 7,
+"w0": 67,
+"w1": 73,
+"s": 20.741,
+"e": 22.963,
+"t": "A freezer doesn't keep food good."
+},
+{
+"i": 8,
+"w0": 73,
+"w1": 78,
+"s": 23.0,
+"e": 24.741,
+"t": "It only slows the clock."
+},
+{
+"i": 9,
+"w0": 78,
+"w1": 91,
+"s": 24.815,
+"e": 28.889,
+"t": "Set up wrong, it's a cold closet where groceries go to be forgotten."
+},
+{
+"i": 10,
+"w0": 91,
+"w1": 110,
+"s": 28.963,
+"e": 35.185,
+"t": "Set up right, before winter, it carries your family through January without a single panic trip to the store."
+},
+{
+"i": 11,
+"w0": 110,
+"w1": 113,
+"s": 35.296,
+"e": 36.889,
+"t": "That isn't carelessness."
+},
+{
+"i": 12,
+"w0": 113,
+"w1": 133,
+"s": 36.963,
+"e": 42.296,
+"t": "Most of us were taught to put frozen food away, not how to run a freezer as real food storage."
+},
+{
+"i": 13,
+"w0": 133,
+"w1": 149,
+"s": 42.37,
+"e": 46.963,
+"t": "So here's how to set up your freezer before winter, in twenty tricks that save food."
+},
+{
+"i": 14,
+"w0": 149,
+"w1": 181,
+"s": 47.0,
+"e": 56.444,
+"t": "They're grouped the way a winter freezer actually works: setting it up, what to stock this season, what never goes in, and how to thaw and protect it when the weather turns."
+},
+{
+"i": 15,
+"w0": 181,
+"w1": 198,
+"s": 56.556,
+"e": 60.963,
+"t": "One trick costs a few dollars and tells you whether your freezer is really doing its job."
+},
+{
+"i": 16,
+"w0": 198,
+"w1": 213,
+"s": 61.074,
+"e": 65.975,
+"t": "One holiday food keeps a full year frozen, and almost nobody buys an extra bag."
+},
+{
+"i": 17,
+"w0": 213,
+"w1": 231,
+"s": 66.025,
+"e": 71.556,
+"t": "And the last one uses a single coin to answer the question every family asks after a storm."
+},
+{
+"i": 18,
+"w0": 231,
+"w1": 234,
+"s": 71.593,
+"e": 72.815,
+"t": "We'll get there."
+},
+{
+"i": 19,
+"w0": 234,
+"w1": 236,
+"s": 72.926,
+"e": 73.852,
+"t": "Part one."
+},
+{
+"i": 20,
+"w0": 236,
+"w1": 240,
+"s": 73.926,
+"e": 75.407,
+"t": "Set the freezer up."
+},
+{
+"i": 21,
+"w0": 240,
+"w1": 242,
+"s": 75.519,
+"e": 76.37,
+"t": "Number one."
+},
+{
+"i": 22,
+"w0": 242,
+"w1": 245,
+"s": 76.481,
+"e": 77.704,
+"t": "Check the temperature."
+},
+{
+"i": 23,
+"w0": 245,
+"w1": 255,
+"s": 77.815,
+"e": 81.148,
+"t": "Your freezer should sit at zero degrees Fahrenheit or colder."
+},
+{
+"i": 24,
+"w0": 255,
+"w1": 271,
+"s": 81.185,
+"e": 87.506,
+"t": "The USDA's Food Safety and Inspection Service says food kept constantly at zero stays safe indefinitely."
+},
+{
+"i": 25,
+"w0": 271,
+"w1": 283,
+"s": 87.531,
+"e": 90.988,
+"t": "The times you see on freezer charts are for quality, not safety."
+},
+{
+"i": 26,
+"w0": 283,
+"w1": 294,
+"s": 91.012,
+"e": 94.173,
+"t": "But the dial inside most freezers just says one to five."
+},
+{
+"i": 27,
+"w0": 294,
+"w1": 300,
+"s": 94.197,
+"e": 95.778,
+"t": "It doesn't tell you a number."
+},
+{
+"i": 28,
+"w0": 300,
+"w1": 308,
+"s": 95.852,
+"e": 98.568,
+"t": "A simple appliance thermometer costs a few dollars."
+},
+{
+"i": 29,
+"w0": 308,
+"w1": 329,
+"s": 98.618,
+"e": 103.074,
+"t": "Put it in the middle of the freezer, check it the next morning, and turn the dial if you need to."
+},
+{
+"i": 30,
+"w0": 329,
+"w1": 338,
+"s": 103.111,
+"e": 106.185,
+"t": "Everything else on this list depends on that number."
+},
+{
+"i": 31,
+"w0": 338,
+"w1": 340,
+"s": 106.222,
+"e": 107.222,
+"t": "Number two."
+},
+{
+"i": 32,
+"w0": 340,
+"w1": 346,
+"s": 107.259,
+"e": 109.531,
+"t": "Fill the empty space before winter."
+},
+{
+"i": 33,
+"w0": 346,
+"w1": 358,
+"s": 109.581,
+"e": 113.382,
+"t": "A full freezer holds its temperature much longer than a half-empty one."
+},
+{
+"i": 34,
+"w0": 358,
+"w1": 381,
+"s": 113.506,
+"e": 121.086,
+"t": "According to the USDA, a full freezer keeps food frozen for about forty-eight hours without power, and a half-full one for about twenty-four."
+},
+{
+"i": 35,
+"w0": 381,
+"w1": 392,
+"s": 121.136,
+"e": 124.185,
+"t": "That's true for an upright freezer and a chest freezer alike."
+},
+{
+"i": 36,
+"w0": 392,
+"w1": 401,
+"s": 124.222,
+"e": 126.926,
+"t": "That's a whole extra day during an ice storm."
+},
+{
+"i": 37,
+"w0": 401,
+"w1": 429,
+"s": 126.963,
+"e": 133.086,
+"t": "If you don't have enough food to fill it yet, fill the gaps with plastic bottles of water, leaving an inch at the top so they don't split."
+},
+{
+"i": 38,
+"w0": 429,
+"w1": 447,
+"s": 133.136,
+"e": 137.951,
+"t": "They take up the space now, and if the power goes out, they become ice for your refrigerator."
+},
+{
+"i": 39,
+"w0": 447,
+"w1": 449,
+"s": 138.049,
+"e": 138.926,
+"t": "Number three."
+},
+{
+"i": 40,
+"w0": 449,
+"w1": 455,
+"s": 138.963,
+"e": 141.074,
+"t": "Air is the enemy, not cold."
+},
+{
+"i": 41,
+"w0": 455,
+"w1": 464,
+"s": 141.111,
+"e": 145.037,
+"t": "Freezer burn is those dry, grayish-white patches on meat."
+},
+{
+"i": 42,
+"w0": 464,
+"w1": 478,
+"s": 145.111,
+"e": 148.741,
+"t": "It happens when air reaches the surface of the food and dries it out."
+},
+{
+"i": 43,
+"w0": 478,
+"w1": 488,
+"s": 148.815,
+"e": 152.222,
+"t": "The USDA says freezer-burned food is still safe to eat."
+},
+{
+"i": 44,
+"w0": 488,
+"w1": 499,
+"s": 152.296,
+"e": 155.926,
+"t": "It just tastes dry and tough, so cut those spots away."
+},
+{
+"i": 45,
+"w0": 499,
+"w1": 504,
+"s": 156.0,
+"e": 157.852,
+"t": "The fix is less air."
+},
+{
+"i": 46,
+"w0": 504,
+"w1": 525,
+"s": 157.926,
+"e": 164.519,
+"t": "Use bags labeled for the freezer, not thinner storage bags, and press out every bit of air before you seal them."
+},
+{
+"i": 47,
+"w0": 525,
+"w1": 546,
+"s": 164.593,
+"e": 169.926,
+"t": "If you freeze a lot of meat, a vacuum sealer is worth having, because it takes out nearly all the air."
+},
+{
+"i": 48,
+"w0": 546,
+"w1": 553,
+"s": 170.0,
+"e": 172.074,
+"t": "And here's the part most people miss."
+},
+{
+"i": 49,
+"w0": 553,
+"w1": 567,
+"s": 172.185,
+"e": 176.593,
+"t": "The thin plastic wrap on a supermarket meat tray isn't made for long freezing."
+},
+{
+"i": 50,
+"w0": 567,
+"w1": 601,
+"s": 176.667,
+"e": 186.667,
+"t": "If that package is going to sit for more than a month or two, the USDA recommends wrapping it again, right over the store package, with heavy foil, freezer paper or a freezer bag."
+},
+{
+"i": 51,
+"w0": 601,
+"w1": 603,
+"s": 186.778,
+"e": 187.704,
+"t": "Number four."
+},
+{
+"i": 52,
+"w0": 603,
+"w1": 609,
+"s": 187.778,
+"e": 189.704,
+"t": "Freeze in the size you cook."
+},
+{
+"i": 53,
+"w0": 609,
+"w1": 633,
+"s": 189.778,
+"e": 196.692,
+"t": "If your family eats one pound of ground beef for a meal, the five-pound family pack never goes into the freezer as one block."
+},
+{
+"i": 54,
+"w0": 633,
+"w1": 645,
+"s": 196.79,
+"e": 200.074,
+"t": "Split it into five one-pound bags the day you bring it home."
+},
+{
+"i": 55,
+"w0": 645,
+"w1": 656,
+"s": 200.222,
+"e": 203.889,
+"t": "Press each bag flat, so it freezes thin and thaws faster."
+},
+{
+"i": 56,
+"w0": 656,
+"w1": 669,
+"s": 203.926,
+"e": 207.704,
+"t": "Chicken thighs go in bags of four or six, whatever feeds your table."
+},
+{
+"i": 57,
+"w0": 669,
+"w1": 689,
+"s": 207.778,
+"e": 213.222,
+"t": "You never have to thaw more than you need, and nothing thawed sits in the refrigerator waiting for a plan."
+},
+{
+"i": 58,
+"w0": 689,
+"w1": 691,
+"s": 213.259,
+"e": 214.37,
+"t": "Number five."
+},
+{
+"i": 59,
+"w0": 691,
+"w1": 697,
+"s": 214.444,
+"e": 216.148,
+"t": "Keep a list on the door."
+},
+{
+"i": 60,
+"w0": 697,
+"w1": 708,
+"s": 216.296,
+"e": 218.716,
+"t": "Labels tell you what's in a bag once you're holding it."
+},
+{
+"i": 61,
+"w0": 708,
+"w1": 720,
+"s": 218.766,
+"e": 221.963,
+"t": "A list tells you what's in the freezer before you open it."
+},
+{
+"i": 62,
+"w0": 720,
+"w1": 731,
+"s": 222.0,
+"e": 224.333,
+"t": "Tape a sheet of paper to the outside of the door."
+},
+{
+"i": 63,
+"w0": 731,
+"w1": 739,
+"s": 224.37,
+"e": 226.642,
+"t": "Write down what goes in and the date."
+},
+{
+"i": 64,
+"w0": 739,
+"w1": 746,
+"s": 226.692,
+"e": 228.692,
+"t": "When something comes out, cross it off."
+},
+{
+"i": 65,
+"w0": 746,
+"w1": 750,
+"s": 228.716,
+"e": 230.333,
+"t": "It takes ten seconds."
+},
+{
+"i": 66,
+"w0": 750,
+"w1": 777,
+"s": 230.37,
+"e": 237.704,
+"t": "In January you'll stand at the door and plan a week of dinners without letting out the cold, and nothing will hide at the bottom until spring."
+},
+{
+"i": 67,
+"w0": 777,
+"w1": 779,
+"s": 237.778,
+"e": 238.642,
+"t": "Part two."
+},
+{
+"i": 68,
+"w0": 779,
+"w1": 784,
+"s": 238.692,
+"e": 240.222,
+"t": "What to stock this winter."
+},
+{
+"i": 69,
+"w0": 784,
+"w1": 786,
+"s": 240.675,
+"e": 241.49,
+"t": "Number six."
+},
+{
+"i": 70,
+"w0": 786,
+"w1": 787,
+"s": 241.86,
+"e": 242.675,
+"t": "Cranberries."
+},
+{
+"i": 71,
+"w0": 787,
+"w1": 797,
+"s": 243.194,
+"e": 246.379,
+"t": "This is the holiday food almost nobody buys extra of."
+},
+{
+"i": 72,
+"w0": 797,
+"w1": 810,
+"s": 246.897,
+"e": 250.379,
+"t": "Fresh cranberries are only in stores for a few months in the fall."
+},
+{
+"i": 73,
+"w0": 810,
+"w1": 818,
+"s": 250.675,
+"e": 253.342,
+"t": "In the refrigerator they keep about two months."
+},
+{
+"i": 74,
+"w0": 818,
+"w1": 833,
+"s": 253.379,
+"e": 258.453,
+"t": "In the freezer, they keep about a year, according to North Dakota State University Extension."
+},
+{
+"i": 75,
+"w0": 833,
+"w1": 841,
+"s": 258.527,
+"e": 260.675,
+"t": "You don't even need to wash them first."
+},
+{
+"i": 76,
+"w0": 841,
+"w1": 856,
+"s": 260.749,
+"e": 264.379,
+"t": "Put the bags straight in the freezer and wash the berries when you use them."
+},
+{
+"i": 77,
+"w0": 856,
+"w1": 862,
+"s": 264.49,
+"e": 266.601,
+"t": "And don't thaw them before cooking."
+},
+{
+"i": 78,
+"w0": 862,
+"w1": 880,
+"s": 266.675,
+"e": 272.305,
+"t": "Use them frozen in sauce, muffins or a pan of baked oatmeal, and they hold their shape better."
+},
+{
+"i": 79,
+"w0": 880,
+"w1": 898,
+"s": 272.379,
+"e": 277.638,
+"t": "Buy two or three extra bags in November, and you'll have cranberries in March when nobody else does."
+},
+{
+"i": 80,
+"w0": 898,
+"w1": 900,
+"s": 278.305,
+"e": 279.045,
+"t": "Number seven."
+},
+{
+"i": 81,
+"w0": 900,
+"w1": 903,
+"s": 279.416,
+"e": 280.712,
+"t": "A second turkey."
+},
+{
+"i": 82,
+"w0": 903,
+"w1": 917,
+"s": 280.971,
+"e": 285.268,
+"t": "A whole uncooked turkey keeps about a year in the freezer for best quality."
+},
+{
+"i": 83,
+"w0": 917,
+"w1": 937,
+"s": 285.416,
+"e": 291.008,
+"t": "Around Thanksgiving, many stores put turkeys on sale at a low price per pound to bring shoppers through the door."
+},
+{
+"i": 84,
+"w0": 937,
+"w1": 958,
+"s": 291.342,
+"e": 297.86,
+"t": "A turkey bought on that sale and frozen is a Sunday dinner in February, plus soup and sandwiches for days after."
+},
+{
+"i": 85,
+"w0": 958,
+"w1": 973,
+"s": 298.453,
+"e": 302.082,
+"t": "Keep it in its original wrapper, and add a second layer if the wrapper tears."
+},
+{
+"i": 86,
+"w0": 973,
+"w1": 975,
+"s": 302.527,
+"e": 303.194,
+"t": "Number eight."
+},
+{
+"i": 87,
+"w0": 975,
+"w1": 981,
+"s": 303.638,
+"e": 306.008,
+"t": "Leftover turkey, frozen the right way."
+},
+{
+"i": 88,
+"w0": 981,
+"w1": 996,
+"s": 306.453,
+"e": 311.416,
+"t": "After the holiday meal, plain cooked turkey pieces keep about four months in the freezer."
+},
+{
+"i": 89,
+"w0": 996,
+"w1": 1015,
+"s": 311.49,
+"e": 317.045,
+"t": "But covered in broth or gravy, they keep about six months, and they come out moist instead of dry."
+},
+{
+"i": 90,
+"w0": 1015,
+"w1": 1036,
+"s": 317.119,
+"e": 323.712,
+"t": "The USDA says leftovers keep three to four days in the refrigerator, so get them into the freezer well before that."
+},
+{
+"i": 91,
+"w0": 1036,
+"w1": 1062,
+"s": 323.786,
+"e": 331.045,
+"t": "Pull the meat off the bones within a day or two, pack it into containers in two-cup portions, and pour broth over it until it's covered."
+},
+{
+"i": 92,
+"w0": 1062,
+"w1": 1082,
+"s": 331.156,
+"e": 335.86,
+"t": "That's the start of a pot pie, a soup, or a skillet of turkey and rice on a cold night."
+},
+{
+"i": 93,
+"w0": 1082,
+"w1": 1084,
+"s": 336.453,
+"e": 337.49,
+"t": "Number nine."
+},
+{
+"i": 94,
+"w0": 1084,
+"w1": 1089,
+"s": 337.564,
+"e": 339.638,
+"t": "Holiday ham, in small pieces."
+},
+{
+"i": 95,
+"w0": 1089,
+"w1": 1116,
+"s": 340.082,
+"e": 347.268,
+"t": "Fully cooked ham keeps only one to two months in the freezer for best quality, so this one is about using it, not saving it for spring."
+},
+{
+"i": 96,
+"w0": 1116,
+"w1": 1129,
+"s": 347.934,
+"e": 352.305,
+"t": "Dice the leftovers into one-cup bags for scrambled eggs, beans, and potato soup."
+},
+{
+"i": 97,
+"w0": 1129,
+"w1": 1133,
+"s": 352.675,
+"e": 353.712,
+"t": "And freeze the bone."
+},
+{
+"i": 98,
+"w0": 1133,
+"w1": 1155,
+"s": 354.156,
+"e": 360.008,
+"t": "A ham bone simmered with a pound of dried beans is one of the cheapest, most filling dinners of the whole winter."
+},
+{
+"i": 99,
+"w0": 1155,
+"w1": 1157,
+"s": 360.527,
+"e": 361.194,
+"t": "Number ten."
+},
+{
+"i": 100,
+"w0": 1157,
+"w1": 1161,
+"s": 361.638,
+"e": 363.712,
+"t": "Soup, in two-cup portions."
+},
+{
+"i": 101,
+"w0": 1161,
+"w1": 1172,
+"s": 363.934,
+"e": 366.601,
+"t": "Soups and stews keep two to three months in the freezer."
+},
+{
+"i": 102,
+"w0": 1172,
+"w1": 1199,
+"s": 367.045,
+"e": 374.231,
+"t": "When you make a pot, make extra and freeze it in containers that each hold two cups, enough for one person's lunch or a side for two."
+},
+{
+"i": 103,
+"w0": 1199,
+"w1": 1220,
+"s": 374.897,
+"e": 379.786,
+"t": "Leave about an inch of space at the top, because liquid expands as it freezes and will push a lid off."
+},
+{
+"i": 104,
+"w0": 1220,
+"w1": 1230,
+"s": 380.379,
+"e": 382.675,
+"t": "Freeze them flat in bags if your freezer is tight."
+},
+{
+"i": 105,
+"w0": 1230,
+"w1": 1246,
+"s": 383.194,
+"e": 387.786,
+"t": "On the evening everyone comes home cold and tired, you're ten minutes from a hot meal."
+},
+{
+"i": 106,
+"w0": 1246,
+"w1": 1248,
+"s": 387.86,
+"e": 388.749,
+"t": "Number eleven."
+},
+{
+"i": 107,
+"w0": 1248,
+"w1": 1252,
+"s": 389.268,
+"e": 391.305,
+"t": "Baked cookies, made early."
+},
+{
+"i": 108,
+"w0": 1252,
+"w1": 1262,
+"s": 391.564,
+"e": 393.934,
+"t": "Here's one that saves the busiest month of the year."
+},
+{
+"i": 109,
+"w0": 1262,
+"w1": 1277,
+"s": 394.379,
+"e": 399.119,
+"t": "Baked cookies keep eight to twelve months in the freezer, according to North Dakota State."
+},
+{
+"i": 110,
+"w0": 1277,
+"w1": 1298,
+"s": 399.231,
+"e": 405.49,
+"t": "So bake in early November, when the days are calmer, and freeze them in containers with wax paper between the layers."
+},
+{
+"i": 111,
+"w0": 1298,
+"w1": 1313,
+"s": 405.564,
+"e": 410.675,
+"t": "When December fills up, the cookie trays for church, school and family are already done."
+},
+{
+"i": 112,
+"w0": 1313,
+"w1": 1323,
+"s": 410.749,
+"e": 413.86,
+"t": "Most cookies thaw on the counter in about fifteen minutes."
+},
+{
+"i": 113,
+"w0": 1323,
+"w1": 1325,
+"s": 413.934,
+"e": 415.119,
+"t": "Number twelve."
+},
+{
+"i": 114,
+"w0": 1325,
+"w1": 1331,
+"s": 415.194,
+"e": 417.268,
+"t": "Know which meat to eat first."
+},
+{
+"i": 115,
+"w0": 1331,
+"w1": 1337,
+"s": 417.416,
+"e": 419.342,
+"t": "Not all meat lasts the same."
+},
+{
+"i": 116,
+"w0": 1337,
+"w1": 1358,
+"s": 419.527,
+"e": 426.971,
+"t": "According to the USDA cold storage chart, steaks keep six to twelve months for best quality, and roasts four to twelve."
+},
+{
+"i": 117,
+"w0": 1358,
+"w1": 1366,
+"s": 427.119,
+"e": 429.564,
+"t": "Ground beef keeps only three to four months."
+},
+{
+"i": 118,
+"w0": 1366,
+"w1": 1371,
+"s": 429.675,
+"e": 431.564,
+"t": "Chicken pieces keep about nine."
+},
+{
+"i": 119,
+"w0": 1371,
+"w1": 1387,
+"s": 431.712,
+"e": 436.156,
+"t": "So when you organize the freezer, the ground beef goes in front and gets cooked first."
+},
+{
+"i": 120,
+"w0": 1387,
+"w1": 1402,
+"s": 436.231,
+"e": 439.934,
+"t": "The steaks and roasts can wait in the back for a special dinner in March."
+},
+{
+"i": 121,
+"w0": 1402,
+"w1": 1404,
+"s": 440.008,
+"e": 441.194,
+"t": "Number thirteen."
+},
+{
+"i": 122,
+"w0": 1404,
+"w1": 1406,
+"s": 441.268,
+"e": 442.527,
+"t": "The short-timers."
+},
+{
+"i": 123,
+"w0": 1406,
+"w1": 1414,
+"s": 442.638,
+"e": 445.934,
+"t": "Some foods lose quality fast even when frozen."
+},
+{
+"i": 124,
+"w0": 1414,
+"w1": 1420,
+"s": 446.008,
+"e": 448.305,
+"t": "Bacon keeps only about one month."
+},
+{
+"i": 125,
+"w0": 1420,
+"w1": 1432,
+"s": 448.416,
+"e": 452.131,
+"t": "Hot dogs, lunch meat and sausage keep about one to two months."
+},
+{
+"i": 126,
+"w0": 1432,
+"w1": 1446,
+"s": 452.181,
+"e": 456.49,
+"t": "The salt in them makes the fat turn stale faster, even at zero degrees."
+},
+{
+"i": 127,
+"w0": 1446,
+"w1": 1463,
+"s": 456.527,
+"e": 461.082,
+"t": "So don't buy ten packs of bacon on sale and expect them to taste good in April."
+},
+{
+"i": 128,
+"w0": 1463,
+"w1": 1480,
+"s": 461.119,
+"e": 465.119,
+"t": "Buy what you'll use in a month or two, and put those packages where you'll see them."
+},
+{
+"i": 129,
+"w0": 1480,
+"w1": 1482,
+"s": 465.231,
+"e": 466.119,
+"t": "Part three."
+},
+{
+"i": 130,
+"w0": 1482,
+"w1": 1486,
+"s": 466.156,
+"e": 467.811,
+"t": "What never goes in."
+},
+{
+"i": 131,
+"w0": 1486,
+"w1": 1488,
+"s": 467.909,
+"e": 468.934,
+"t": "Number fourteen."
+},
+{
+"i": 132,
+"w0": 1488,
+"w1": 1494,
+"s": 468.971,
+"e": 470.86,
+"t": "Eggs in the shell and mayonnaise."
+},
+{
+"i": 133,
+"w0": 1494,
+"w1": 1515,
+"s": 470.897,
+"e": 477.453,
+"t": "Eggs expand as they freeze and crack their shells, and the USDA chart says to avoid freezing them in the shell."
+},
+{
+"i": 134,
+"w0": 1515,
+"w1": 1525,
+"s": 477.49,
+"e": 480.428,
+"t": "If you need to save eggs, crack them out first."
+},
+{
+"i": 135,
+"w0": 1525,
+"w1": 1547,
+"s": 480.478,
+"e": 486.971,
+"t": "Mayonnaise separates when it thaws and turns oily, and so do the salads made with it, like potato salad and egg salad."
+},
+{
+"i": 136,
+"w0": 1547,
+"w1": 1560,
+"s": 487.045,
+"e": 490.971,
+"t": "Those leftovers stay in the refrigerator, three to five days, and that's all."
+},
+{
+"i": 137,
+"w0": 1560,
+"w1": 1562,
+"s": 491.435,
+"e": 492.324,
+"t": "Number fifteen."
+},
+{
+"i": 138,
+"w0": 1562,
+"w1": 1568,
+"s": 492.842,
+"e": 495.361,
+"t": "Salad greens and other watery vegetables."
+},
+{
+"i": 139,
+"w0": 1568,
+"w1": 1579,
+"s": 495.657,
+"e": 500.842,
+"t": "Lettuce, cucumbers, celery for snacking, and raw tomatoes are mostly water."
+},
+{
+"i": 140,
+"w0": 1579,
+"w1": 1594,
+"s": 500.916,
+"e": 506.028,
+"t": "When that water freezes, it breaks the plant cells, and they thaw limp and soggy."
+},
+{
+"i": 141,
+"w0": 1594,
+"w1": 1604,
+"s": 506.065,
+"e": 508.916,
+"t": "Chopped celery or tomatoes are fine for a soup pot."
+},
+{
+"i": 142,
+"w0": 1604,
+"w1": 1610,
+"s": 508.991,
+"e": 511.213,
+"t": "For a crisp salad, they're ruined."
+},
+{
+"i": 143,
+"w0": 1610,
+"w1": 1616,
+"s": 511.287,
+"e": 513.287,
+"t": "Don't fill freezer space with them."
+},
+{
+"i": 144,
+"w0": 1616,
+"w1": 1641,
+"s": 513.361,
+"e": 520.472,
+"t": "And vegetables you freeze yourself, like green beans or broccoli, need a quick blanch in boiling water first, or they come out dull and tough."
+},
+{
+"i": 145,
+"w0": 1641,
+"w1": 1643,
+"s": 521.287,
+"e": 522.546,
+"t": "Number sixteen."
+},
+{
+"i": 146,
+"w0": 1643,
+"w1": 1645,
+"s": 522.657,
+"e": 523.954,
+"t": "Unopened cans."
+},
+{
+"i": 147,
+"w0": 1645,
+"w1": 1666,
+"s": 524.25,
+"e": 529.583,
+"t": "A can in the freezer is a mistake people make when they're trying to save leftovers or cool a drink fast."
+},
+{
+"i": 148,
+"w0": 1666,
+"w1": 1684,
+"s": 529.657,
+"e": 534.472,
+"t": "The food expands as it freezes, which can bend the can and break the seal along the seams."
+},
+{
+"i": 149,
+"w0": 1684,
+"w1": 1707,
+"s": 534.991,
+"e": 540.694,
+"t": "If you want to freeze the rest of a can of beans, tomato sauce or broth, move it into a freezer container first."
+},
+{
+"i": 150,
+"w0": 1707,
+"w1": 1709,
+"s": 541.583,
+"e": 542.694,
+"t": "Part four."
+},
+{
+"i": 151,
+"w0": 1709,
+"w1": 1715,
+"s": 542.731,
+"e": 544.546,
+"t": "Thaw it safely and protect it."
+},
+{
+"i": 152,
+"w0": 1715,
+"w1": 1717,
+"s": 545.065,
+"e": 546.472,
+"t": "Number seventeen."
+},
+{
+"i": 153,
+"w0": 1717,
+"w1": 1721,
+"s": 546.546,
+"e": 548.398,
+"t": "Thaw tomorrow's dinner tonight."
+},
+{
+"i": 154,
+"w0": 1721,
+"w1": 1734,
+"s": 548.991,
+"e": 552.842,
+"t": "The safest way to thaw is in the refrigerator, and it takes planning."
+},
+{
+"i": 155,
+"w0": 1734,
+"w1": 1751,
+"s": 552.916,
+"e": 557.731,
+"t": "Move tomorrow's meat from the freezer to a plate on the bottom shelf of the refrigerator tonight."
+},
+{
+"i": 156,
+"w0": 1751,
+"w1": 1757,
+"s": 557.805,
+"e": 560.028,
+"t": "A big turkey needs much longer."
+},
+{
+"i": 157,
+"w0": 1757,
+"w1": 1778,
+"s": 560.102,
+"e": 567.139,
+"t": "The USDA says about twenty-four hours for every four to five pounds, which is four full days for a twenty-pound bird."
+},
+{
+"i": 158,
+"w0": 1778,
+"w1": 1797,
+"s": 567.213,
+"e": 572.842,
+"t": "If you forget, thaw it in its sealed bag in cold water and change the water every thirty minutes."
+},
+{
+"i": 159,
+"w0": 1797,
+"w1": 1805,
+"s": 572.916,
+"e": 575.065,
+"t": "Never leave meat on the counter to thaw."
+},
+{
+"i": 160,
+"w0": 1805,
+"w1": 1814,
+"s": 575.139,
+"e": 578.25,
+"t": "The outside warms up long before the middle does."
+},
+{
+"i": 161,
+"w0": 1814,
+"w1": 1816,
+"s": 578.324,
+"e": 579.509,
+"t": "Number eighteen."
+},
+{
+"i": 162,
+"w0": 1816,
+"w1": 1819,
+"s": 579.583,
+"e": 581.287,
+"t": "The refreezing rule."
+},
+{
+"i": 163,
+"w0": 1819,
+"w1": 1829,
+"s": 581.435,
+"e": 584.176,
+"t": "People throw away a lot of good food over this."
+},
+{
+"i": 164,
+"w0": 1829,
+"w1": 1855,
+"s": 584.25,
+"e": 591.139,
+"t": "If meat thawed in the refrigerator and you changed your plans, you can put it back in the freezer without cooking it, according to the USDA."
+},
+{
+"i": 165,
+"w0": 1855,
+"w1": 1864,
+"s": 591.213,
+"e": 593.879,
+"t": "It may lose a little texture, but it's safe."
+},
+{
+"i": 166,
+"w0": 1864,
+"w1": 1876,
+"s": 593.954,
+"e": 597.472,
+"t": "Food you thawed in cold water or in the microwave is different."
+},
+{
+"i": 167,
+"w0": 1876,
+"w1": 1887,
+"s": 597.509,
+"e": 600.842,
+"t": "Cook it first, and then you can freeze the cooked dish."
+},
+{
+"i": 168,
+"w0": 1887,
+"w1": 1889,
+"s": 600.916,
+"e": 602.176,
+"t": "Number nineteen."
+},
+{
+"i": 169,
+"w0": 1889,
+"w1": 1894,
+"s": 602.25,
+"e": 603.805,
+"t": "The coin in a cup."
+},
+{
+"i": 170,
+"w0": 1894,
+"w1": 1901,
+"s": 603.879,
+"e": 605.583,
+"t": "This is the one I promised you."
+},
+{
+"i": 171,
+"w0": 1901,
+"w1": 1911,
+"s": 605.657,
+"e": 608.509,
+"t": "Fill a small cup with water and freeze it solid."
+},
+{
+"i": 172,
+"w0": 1911,
+"w1": 1929,
+"s": 608.546,
+"e": 613.25,
+"t": "Then lay a coin on top of the ice, and keep the cup in your freezer all winter."
+},
+{
+"i": 173,
+"w0": 1929,
+"w1": 1950,
+"s": 613.287,
+"e": 618.065,
+"t": "If you're away during a storm, or the power goes out at night, look at that coin when you get back."
+},
+{
+"i": 174,
+"w0": 1950,
+"w1": 1959,
+"s": 618.102,
+"e": 621.102,
+"t": "If it's still on top, the freezer stayed frozen."
+},
+{
+"i": 175,
+"w0": 1959,
+"w1": 1985,
+"s": 621.139,
+"e": 627.842,
+"t": "If it sank to the middle or the bottom, everything in there thawed at some point and then froze again, even if it looks frozen now."
+},
+{
+"i": 176,
+"w0": 1985,
+"w1": 1999,
+"s": 627.879,
+"e": 632.151,
+"t": "It costs nothing, and it answers a question you can't answer any other way."
+},
+{
+"i": 177,
+"w0": 1999,
+"w1": 2002,
+"s": 632.201,
+"e": 633.398,
+"t": "And number twenty."
+},
+{
+"i": 178,
+"w0": 2002,
+"w1": 2011,
+"s": 633.435,
+"e": 636.361,
+"t": "When the power goes out, keep the door shut."
+},
+{
+"i": 179,
+"w0": 2011,
+"w1": 2023,
+"s": 636.398,
+"e": 639.805,
+"t": "Every time the door opens, the cold air you need pours out."
+},
+{
+"i": 180,
+"w0": 2023,
+"w1": 2044,
+"s": 639.879,
+"e": 646.842,
+"t": "A full freezer gives you about forty-eight hours, and a half-full one about twenty-four, but only if the door stays closed."
+},
+{
+"i": 181,
+"w0": 2044,
+"w1": 2055,
+"s": 647.213,
+"e": 650.287,
+"t": "Once the power is back, check your thermometer from number one."
+},
+{
+"i": 182,
+"w0": 2055,
+"w1": 2075,
+"s": 650.472,
+"e": 656.546,
+"t": "The USDA says food that still has ice crystals, or that stayed at forty degrees or below, can be refrozen."
+},
+{
+"i": 183,
+"w0": 2075,
+"w1": 2084,
+"s": 656.916,
+"e": 659.583,
+"t": "And any food you're unsure about gets thrown away."
+},
+{
+"i": 184,
+"w0": 2084,
+"w1": 2090,
+"s": 659.805,
+"e": 661.139,
+"t": "Don't taste it to find out."
+},
+{
+"i": 185,
+"w0": 2090,
+"w1": 2113,
+"s": 661.509,
+"e": 666.546,
+"t": "If you want to know what to keep in the pantry for those days without power, I'm making a whole video on that."
+},
+{
+"i": 186,
+"w0": 2113,
+"w1": 2117,
+"s": 666.991,
+"e": 668.25,
+"t": "Those are the twenty."
+},
+{
+"i": 187,
+"w0": 2117,
+"w1": 2131,
+"s": 668.361,
+"e": 672.694,
+"t": "Now let me put them together, because a winter freezer isn't twenty separate tricks."
+},
+{
+"i": 188,
+"w0": 2131,
+"w1": 2134,
+"s": 672.731,
+"e": 674.176,
+"t": "It's one system."
+},
+{
+"i": 189,
+"w0": 2134,
+"w1": 2143,
+"s": 674.213,
+"e": 676.916,
+"t": "The thermometer and the full shelves keep it cold."
+},
+{
+"i": 190,
+"w0": 2143,
+"w1": 2158,
+"s": 677.028,
+"e": 682.102,
+"t": "Freezer bags, a second layer of wrap and portion-size packages keep food from drying out."
+},
+{
+"i": 191,
+"w0": 2158,
+"w1": 2168,
+"s": 682.139,
+"e": 684.472,
+"t": "The list on the door tells you what you have."
+},
+{
+"i": 192,
+"w0": 2168,
+"w1": 2197,
+"s": 684.546,
+"e": 692.349,
+"t": "The front holds what needs to be eaten soon, like the ground beef and the bacon, and the back holds the turkey, the steaks and the cranberries for later."
+},
+{
+"i": 193,
+"w0": 2197,
+"w1": 2209,
+"s": 692.373,
+"e": 695.361,
+"t": "And the coin tells you whether it all held through a storm."
+},
+{
+"i": 194,
+"w0": 2209,
+"w1": 2225,
+"s": 695.435,
+"e": 700.472,
+"t": "Put together, that means far less food waste, and far fewer emergency trips to the store."
+},
+{
+"i": 195,
+"w0": 2225,
+"w1": 2232,
+"s": 700.694,
+"e": 702.916,
+"t": "Here's your first step, and it's small."
+},
+{
+"i": 196,
+"w0": 2232,
+"w1": 2245,
+"s": 702.954,
+"e": 707.213,
+"t": "Sometime this week, take fifteen minutes and empty your freezer onto the counter."
+},
+{
+"i": 197,
+"w0": 2245,
+"w1": 2251,
+"s": 707.324,
+"e": 709.509,
+"t": "Throw out anything you can't identify."
+},
+{
+"i": 198,
+"w0": 2251,
+"w1": 2265,
+"s": 709.62,
+"e": 712.546,
+"t": "Write everything else on a sheet of paper and tape it to the door."
+},
+{
+"i": 199,
+"w0": 2265,
+"w1": 2280,
+"s": 712.583,
+"e": 716.324,
+"t": "Put a thermometer in the middle, and freeze one cup of water for the coin."
+},
+{
+"i": 200,
+"w0": 2280,
+"w1": 2293,
+"s": 716.435,
+"e": 720.472,
+"t": "Do just that, and you'll walk into winter knowing exactly what you have."
+},
+{
+"i": 201,
+"w0": 2293,
+"w1": 2304,
+"s": 720.546,
+"e": 722.991,
+"t": "And tell me in the comments which trick you're starting with."
+},
+{
+"i": 202,
+"w0": 2304,
+"w1": 2310,
+"s": 723.065,
+"e": 724.62,
+"t": "I read every one of them."
+}
+]

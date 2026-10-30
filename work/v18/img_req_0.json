@@ -1,0 +1,170 @@
+[
+{
+"index": 0,
+"params": {
+"model": "nano_banana_2",
+"aspect_ratio": "16:9",
+"prompt": "Realistic close-up at the oak butcher-block kitchen island of the farmhouse kitchen from the set reference image. A clear plastic freezer container of thawed potato soup, watery and separated, the potato chunks broken down and grainy like wet sand, a spoon lifting some of it. The kitchen looks lived-in and in use, cooking in progress: a few crumbs and drips on the counter, a used linen dish towel, a spoon and a knife lying around, an opened package or two, a cutting board with scraps, a couple of dishes or a pot in the background, nothing perfectly arranged, not a showroom. Natural window light, shallow depth of field, background softly blurred, only a hint of the room visible, real textures, slight imperfections, candid documentary photo. Colorful, varied food and containers are welcome, but no letters, no words, no logos, no brand names, no price tags, no barcodes anywhere; bags, cartons, cans and packs are plain without print. If any window shows it is WHITE-painted with divided panes, any faucet is BRASS. Hands natural with five fingers, woman's hands in an oatmeal-coloured knit sweater sleeve. Photorealistic, 16:9.",
+"medias": [
+{
+"value": "cbb2bac1-7cf6-47c2-89c5-71af4e45ba61",
+"role": "image_references"
+}
+]
+}
+},
+{
+"index": 1,
+"params": {
+"model": "nano_banana_2",
+"aspect_ratio": "16:9",
+"prompt": "Realistic close-up at the stainless gas range with black cast-iron grates from the set reference image. A skillet of thawed alfredo sauce on the stove, curdled and split, greasy yellow fat pooling around grainy clumps. The kitchen looks lived-in and in use, cooking in progress: a few crumbs and drips on the counter, a used linen dish towel, a spoon and a knife lying around, an opened package or two, a cutting board with scraps, a couple of dishes or a pot in the background, nothing perfectly arranged, not a showroom. Natural window light, shallow depth of field, background softly blurred, only a hint of the room visible, real textures, slight imperfections, candid documentary photo. Colorful, varied food and containers are welcome, but no letters, no words, no logos, no brand names, no price tags, no barcodes anywhere; bags, cartons, cans and packs are plain without print. If any window shows it is WHITE-painted with divided panes, any faucet is BRASS. Hands natural with five fingers, woman's hands in an oatmeal-coloured knit sweater sleeve. Photorealistic, 16:9.",
+"medias": [
+{
+"value": "a1da0b5a-edce-47dd-bcdb-d4f29d5839a0",
+"role": "image_references"
+}
+]
+}
+},
+{
+"index": 2,
+"params": {
+"model": "nano_banana_2",
+"aspect_ratio": "16:9",
+"prompt": "Realistic close-up at the oak butcher-block kitchen island of the farmhouse kitchen from the set reference image. A thawed container of chicken salad, the mayonnaise separated into a watery, oily puddle at the bottom, unappetizing. The kitchen looks lived-in and in use, cooking in progress: a few crumbs and drips on the counter, a used linen dish towel, a spoon and a knife lying around, an opened package or two, a cutting board with scraps, a couple of dishes or a pot in the background, nothing perfectly arranged, not a showroom. Natural window light, shallow depth of field, background softly blurred, only a hint of the room visible, real textures, slight imperfections, candid documentary photo. Colorful, varied food and containers are welcome, but no letters, no words, no logos, no brand names, no price tags, no barcodes anywhere; bags, cartons, cans and packs are plain without print. If any window shows it is WHITE-painted with divided panes, any faucet is BRASS. Hands natural with five fingers, woman's hands in an oatmeal-coloured knit sweater sleeve. Photorealistic, 16:9.",
+"medias": [
+{
+"value": "cbb2bac1-7cf6-47c2-89c5-71af4e45ba61",
+"role": "image_references"
+}
+]
+}
+},
+{
+"index": 3,
+"params": {
+"model": "nano_banana_2",
+"aspect_ratio": "16:9",
+"prompt": "Realistic close-up at the oak butcher-block kitchen island of the farmhouse kitchen from the set reference image. A crisp fresh head of green leaf lettuce beside a plate of thawed lettuce leaves that are limp, dark and translucent. The kitchen looks lived-in and in use, cooking in progress: a few crumbs and drips on the counter, a used linen dish towel, a spoon and a knife lying around, an opened package or two, a cutting board with scraps, a couple of dishes or a pot in the background, nothing perfectly arranged, not a showroom. Natural window light, shallow depth of field, background softly blurred, only a hint of the room visible, real textures, slight imperfections, candid documentary photo. Colorful, varied food and containers are welcome, but no letters, no words, no logos, no brand names, no price tags, no barcodes anywhere; bags, cartons, cans and packs are plain without print. If any window shows it is WHITE-painted with divided panes, any faucet is BRASS. Hands natural with five fingers, woman's hands in an oatmeal-coloured knit sweater sleeve. Photorealistic, 16:9.",
+"medias": [
+{
+"value": "cbb2bac1-7cf6-47c2-89c5-71af4e45ba61",
+"role": "image_references"
+}
+]
+}
+},
+{
+"index": 4,
+"params": {
+"model": "nano_banana_2",
+"aspect_ratio": "16:9",
+"prompt": "Realistic close-up at the oak butcher-block kitchen island of the farmhouse kitchen from the set reference image. Two flat plain clear freezer bags side by side, one with cooked diced chicken, one with plain cooked elbow macaroni, ready for the freezer. The kitchen looks lived-in and in use, cooking in progress: a few crumbs and drips on the counter, a used linen dish towel, a spoon and a knife lying around, an opened package or two, a cutting board with scraps, a couple of dishes or a pot in the background, nothing perfectly arranged, not a showroom. Natural window light, shallow depth of field, background softly blurred, only a hint of the room visible, real textures, slight imperfections, candid documentary photo. Colorful, varied food and containers are welcome, but no letters, no words, no logos, no brand names, no price tags, no barcodes anywhere; bags, cartons, cans and packs are plain without print. If any window shows it is WHITE-painted with divided panes, any faucet is BRASS. Hands natural with five fingers, woman's hands in an oatmeal-coloured knit sweater sleeve. Photorealistic, 16:9.",
+"medias": [
+{
+"value": "cbb2bac1-7cf6-47c2-89c5-71af4e45ba61",
+"role": "image_references"
+}
+]
+}
+},
+{
+"index": 5,
+"params": {
+"model": "nano_banana_2",
+"aspect_ratio": "16:9",
+"prompt": "Realistic close-up at the oak butcher-block kitchen island of the farmhouse kitchen from the set reference image. A big glass mixing bowl with thawed diced chicken and cooked macaroni, a woman's hand stirring in a spoonful of mayonnaise and chopped celery with a wooden spoon. The kitchen looks lived-in and in use, cooking in progress: a few crumbs and drips on the counter, a used linen dish towel, a spoon and a knife lying around, an opened package or two, a cutting board with scraps, a couple of dishes or a pot in the background, nothing perfectly arranged, not a showroom. Natural window light, shallow depth of field, background softly blurred, only a hint of the room visible, real textures, slight imperfections, candid documentary photo. Colorful, varied food and containers are welcome, but no letters, no words, no logos, no brand names, no price tags, no barcodes anywhere; bags, cartons, cans and packs are plain without print. If any window shows it is WHITE-painted with divided panes, any faucet is BRASS. Hands natural with five fingers, woman's hands in an oatmeal-coloured knit sweater sleeve. Photorealistic, 16:9.",
+"medias": [
+{
+"value": "cbb2bac1-7cf6-47c2-89c5-71af4e45ba61",
+"role": "image_references"
+}
+]
+}
+},
+{
+"index": 6,
+"params": {
+"model": "nano_banana_2",
+"aspect_ratio": "16:9",
+"prompt": "Realistic close-up in the utility room from the set reference image, at the open white chest freezer. A single frosty brown egg with a cracked shell lying among frozen packages, a thin line of frozen egg seeping out of the crack. The kitchen looks lived-in and in use, cooking in progress: a few crumbs and drips on the counter, a used linen dish towel, a spoon and a knife lying around, an opened package or two, a cutting board with scraps, a couple of dishes or a pot in the background, nothing perfectly arranged, not a showroom. Natural window light, shallow depth of field, background softly blurred, only a hint of the room visible, real textures, slight imperfections, candid documentary photo. Colorful, varied food and containers are welcome, but no letters, no words, no logos, no brand names, no price tags, no barcodes anywhere; bags, cartons, cans and packs are plain without print. If any window shows it is WHITE-painted with divided panes, any faucet is BRASS. Hands natural with five fingers, woman's hands in an oatmeal-coloured knit sweater sleeve. Photorealistic, 16:9.",
+"medias": [
+{
+"value": "bedfa356-267d-49ca-b29f-5703735b2d64",
+"role": "image_references"
+}
+]
+}
+},
+{
+"index": 7,
+"params": {
+"model": "nano_banana_2",
+"aspect_ratio": "16:9",
+"prompt": "Realistic close-up at the oak butcher-block kitchen island of the farmhouse kitchen from the set reference image. A shallow bowl of peeled hard-boiled eggs, one cut in half, beside a small saucepan. The kitchen looks lived-in and in use, cooking in progress: a few crumbs and drips on the counter, a used linen dish towel, a spoon and a knife lying around, an opened package or two, a cutting board with scraps, a couple of dishes or a pot in the background, nothing perfectly arranged, not a showroom. Natural window light, shallow depth of field, background softly blurred, only a hint of the room visible, real textures, slight imperfections, candid documentary photo. Colorful, varied food and containers are welcome, but no letters, no words, no logos, no brand names, no price tags, no barcodes anywhere; bags, cartons, cans and packs are plain without print. If any window shows it is WHITE-painted with divided panes, any faucet is BRASS. Hands natural with five fingers, woman's hands in an oatmeal-coloured knit sweater sleeve. Photorealistic, 16:9.",
+"medias": [
+{
+"value": "cbb2bac1-7cf6-47c2-89c5-71af4e45ba61",
+"role": "image_references"
+}
+]
+}
+},
+{
+"index": 8,
+"params": {
+"model": "nano_banana_2",
+"aspect_ratio": "16:9",
+"prompt": "Realistic close-up at the oak butcher-block kitchen island of the farmhouse kitchen from the set reference image. A plate of freshly made deviled eggs sprinkled with paprika, a piping bag and a bowl of yolk filling beside it. The kitchen looks lived-in and in use, cooking in progress: a few crumbs and drips on the counter, a used linen dish towel, a spoon and a knife lying around, an opened package or two, a cutting board with scraps, a couple of dishes or a pot in the background, nothing perfectly arranged, not a showroom. Natural window light, shallow depth of field, background softly blurred, only a hint of the room visible, real textures, slight imperfections, candid documentary photo. Colorful, varied food and containers are welcome, but no letters, no words, no logos, no brand names, no price tags, no barcodes anywhere; bags, cartons, cans and packs are plain without print. If any window shows it is WHITE-painted with divided panes, any faucet is BRASS. Hands natural with five fingers, woman's hands in an oatmeal-coloured knit sweater sleeve. Photorealistic, 16:9.",
+"medias": [
+{
+"value": "cbb2bac1-7cf6-47c2-89c5-71af4e45ba61",
+"role": "image_references"
+}
+]
+}
+},
+{
+"index": 9,
+"params": {
+"model": "nano_banana_2",
+"aspect_ratio": "16:9",
+"prompt": "Realistic close-up at the oak butcher-block kitchen island of the farmhouse kitchen from the set reference image. A small white bowl of thawed sour cream that has turned grainy and lumpy with watery whey separated around it, a spoon resting in it. The kitchen looks lived-in and in use, cooking in progress: a few crumbs and drips on the counter, a used linen dish towel, a spoon and a knife lying around, an opened package or two, a cutting board with scraps, a couple of dishes or a pot in the background, nothing perfectly arranged, not a showroom. Natural window light, shallow depth of field, background softly blurred, only a hint of the room visible, real textures, slight imperfections, candid documentary photo. Colorful, varied food and containers are welcome, but no letters, no words, no logos, no brand names, no price tags, no barcodes anywhere; bags, cartons, cans and packs are plain without print. If any window shows it is WHITE-painted with divided panes, any faucet is BRASS. Hands natural with five fingers, woman's hands in an oatmeal-coloured knit sweater sleeve. Photorealistic, 16:9.",
+"medias": [
+{
+"value": "cbb2bac1-7cf6-47c2-89c5-71af4e45ba61",
+"role": "image_references"
+}
+]
+}
+},
+{
+"index": 10,
+"params": {
+"model": "nano_banana_2",
+"aspect_ratio": "16:9",
+"prompt": "Realistic close-up at the oak butcher-block kitchen island of the farmhouse kitchen from the set reference image. A split baked potato on a plate with a fresh smooth dollop of sour cream and chopped chives on top. The kitchen looks lived-in and in use, cooking in progress: a few crumbs and drips on the counter, a used linen dish towel, a spoon and a knife lying around, an opened package or two, a cutting board with scraps, a couple of dishes or a pot in the background, nothing perfectly arranged, not a showroom. Natural window light, shallow depth of field, background softly blurred, only a hint of the room visible, real textures, slight imperfections, candid documentary photo. Colorful, varied food and containers are welcome, but no letters, no words, no logos, no brand names, no price tags, no barcodes anywhere; bags, cartons, cans and packs are plain without print. If any window shows it is WHITE-painted with divided panes, any faucet is BRASS. Hands natural with five fingers, woman's hands in an oatmeal-coloured knit sweater sleeve. Photorealistic, 16:9.",
+"medias": [
+{
+"value": "cbb2bac1-7cf6-47c2-89c5-71af4e45ba61",
+"role": "image_references"
+}
+]
+}
+},
+{
+"index": 11,
+"params": {
+"model": "nano_banana_2",
+"aspect_ratio": "16:9",
+"prompt": "Realistic close-up at the stainless gas range with black cast-iron grates from the set reference image. A square pan of fresh coffee cake with a crumbly cinnamon streusel topping, one piece cut out, cooling on the stovetop. The kitchen looks lived-in and in use, cooking in progress: a few crumbs and drips on the counter, a used linen dish towel, a spoon and a knife lying around, an opened package or two, a cutting board with scraps, a couple of dishes or a pot in the background, nothing perfectly arranged, not a showroom. Natural window light, shallow depth of field, background softly blurred, only a hint of the room visible, real textures, slight imperfections, candid documentary photo. Colorful, varied food and containers are welcome, but no letters, no words, no logos, no brand names, no price tags, no barcodes anywhere; bags, cartons, cans and packs are plain without print. If any window shows it is WHITE-painted with divided panes, any faucet is BRASS. Hands natural with five fingers, woman's hands in an oatmeal-coloured knit sweater sleeve. Photorealistic, 16:9.",
+"medias": [
+{
+"value": "a1da0b5a-edce-47dd-bcdb-d4f29d5839a0",
+"role": "image_references"
+}
+]
+}
+}
+]
