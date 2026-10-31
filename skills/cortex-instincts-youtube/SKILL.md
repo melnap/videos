@@ -162,9 +162,10 @@ Ergänzung vom 30.10.2026 (Fallstudie „Leni die Selbstversorgerin“, vollstä
 **Bewährter Prompt-Aufbau (funktionierte auf Anhieb), pro Video nur die Pose und den Ausdruck austauschen:**
 
 ```
-Dark cinematic YouTube thumbnail, 16:9. [POSE + AUSDRUCK, z. B. calm expression, hand raised at chest height in a stop gesture]. Glowing neon emerald green eyes with a very strong inner glow and bloom, the eyes are the brightest element of the image. Soft bright key light on the face, red rim light from behind on the right edge. Pure black background with red volumetric light rays and floating ember particles. Character placed in the right half of the frame, gaze directed toward the left, empty dark space on the left for text. Palette strictly black, red and green, no blue. High contrast, moody, minimalistic. No text, no letters, no watermark.
+Dark cinematic YouTube thumbnail, 16:9. [POSE + AUSDRUCK, z. B. calm expression, hand raised at chest height in a stop gesture]. Glowing neon emerald green eyes with a very strong inner glow and bloom, the eyes are the brightest element of the image. Soft bright key light on the face, red rim light from behind on the right edge. Pure black background with red volumetric light rays and floating ember particles. Tight close-up, head and upper shoulders only, the character is large and dominant and fills the right half of the frame from top to bottom, face very close to the camera, top of the head slightly cropped by the frame edge, gaze directed toward the left, dark space on the left for text. Palette strictly black, red and green, no blue. High contrast, moody, minimalistic. No text, no letters, no watermark.
 ```
 
+- **Bildausschnitt (Melanie, 31.10.2026):** Die Figur muss nah und präsent sein, sonst fällt sie im kleinen Vorschaubild kaum auf. Immer enge Nahaufnahme (Kopf und obere Schultern), Figur füllt die rechte Bildhälfte von oben bis unten, Gesicht groß. Posen mit Händen nur, wenn die Hand nah am Gesicht ist.
 - Beispiel-Posen: Vid67 (Grenzen setzen): ruhiger Ausdruck, Hand auf Brusthöhe in Stopp-Geste. Vid68 (einen Schritt voraus): selbstsicheres Halblächeln, zwei Finger am Schläfe.
 - Die Augen leuchten immer grün, stärker als im Vid64-Thumbnail ("STOP EXPLAINING SAY LESS"), das als Stilreferenz diente.
 
